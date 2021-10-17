@@ -1,52 +1,57 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+bio: A bird lover, a sound recordist, an artist for conservation.
+  
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
+
+email: "sunnyyctseng@gmail.com"
+
 highlight_name: true
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Northern British Columbia
+  url: ""
+  
+role: PhD student
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/SunnyTseng
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=_bHf5NgAAAAJ
+- icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/sunnyyctseng/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/SunnyYCTseng
+
+  
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Sunny Tseng
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: As a student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my MSc.in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology, specifically focusing on avian acoustic data. Now a happy PhD student living in a city with latitude of 64N.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When I am not sitting in the office, you can often find me being outside recordings bird sounds, swimming, reading, writing, or staying home drawing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
