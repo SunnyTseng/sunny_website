@@ -22,9 +22,9 @@ highlight_name: true
 # - Computational Linguistics
 # - Information Retrieval
 
-organizations:
-- name: University of Northern British Columbia
-  url: ""
+# organizations:
+# - name: University of Northern British Columbia
+#   url: ""
   
 role: PhD student
 
@@ -50,7 +50,10 @@ superuser: true
 title: Sunny Tseng
 ---
 
-Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: As a student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my MSc.in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology, specifically focusing on avian acoustic data. Now a happy PhD student living in a city with latitude of 64N.
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: As a student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my MSc.in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology, specifically focusing on avian acoustic data. Now a happy PhD student living in a city with latitude of 54&deg;N.
+
+
+
 
 When I am not sitting in the office, you can often find me being outside recordings bird sounds, swimming, reading, writing, or staying home drawing.
 
