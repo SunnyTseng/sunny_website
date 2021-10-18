@@ -54,4 +54,4 @@ Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :
 
 When I am not sitting in the office, you can often find me being outside recordings bird sounds, swimming, reading, writing, or staying home drawing.
 
-{{< icon name="download" pack="fas" >}} Check out my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "uploads/CV_Sunny.pdf" "newtab" >}}resumé{{< /staticref >}}.
