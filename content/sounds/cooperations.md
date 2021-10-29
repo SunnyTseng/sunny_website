@@ -92,7 +92,7 @@ item:
 
 
 design:
-  columns: '0' 
+  columns: '2' 
 ---
 
 My recordings were included in manifold non-academic works by people globally. I am truely fortunate to have those connections through the beautiful sounds we are sharing. 
