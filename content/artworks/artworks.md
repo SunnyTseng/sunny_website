@@ -15,7 +15,6 @@ subtitle:
 design:
   columns: '1'
 
-order: desc
 ---
 
 {{< gallery album="themes" >}}
