@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -23,6 +23,9 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Full path of icons: 
+#     sunny_website\themes\githubcom\wowchemy\wowchemy-hugo-modules\wowchemy\v5\assets\media\icons
+
 item:
 - certificate_url: 
   date_end: 
@@ -49,10 +52,47 @@ item:
   organization: Podcast
   organization_url: 
   title: The Science of Birds - Ivan Phillipsen
-  url: scienceofbirds.com
+  url: https://www.scienceofbirds.com/
+
+- certificate_url: 
+  date_end: 
+  date_start: "2021-08-03"
+  description: 
+  organization: Artwork
+  organization_url: 
+  title: Watching Stories Naturalist Synesthesia - Adrien Brun
+  url: https://www.adrienbrun.com/en/naturalist-synesthesia/
+
+- certificate_url: 
+  date_end: 
+  date_start: "2021-09-14"
+  description: 
+  organization: App
+  organization_url: 
+  title: Larkwire Learn Birds - Phil Mitchell
+  url: https://www.larkwire.com/
+
+- certificate_url: 
+  date_end: 
+  date_start: "2021-07-08"
+  description: 
+  organization: Artwork
+  organization_url: 
+  title: 休留 (Do Not Stop) - Vincent Yu
+  url: https://soundcloud.com/vincent-yu-254738818/demo-0627n-2db
+
+- certificate_url: 
+  date_end: 
+  date_start: "2017-12-25"
+  description: 
+  organization: XenoCanto
+  organization_url: 
+  title: North East Siberia (Webpage Spotlight) - Willem-Pier Vellinga
+  url: https://www.xeno-canto.org/collection/spotlight/105
+
 
 design:
-  columns: '2' 
+  columns: '0' 
 ---
 
 My recordings were included in manifold non-academic works by people globally. I am truely fortunate to have those connections through the beautiful sounds we are sharing. 
