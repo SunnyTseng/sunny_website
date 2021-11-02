@@ -10,10 +10,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 17
+weight: 10
 
-title: "Land of sunshine"
-subtitle:
+title: About
+subtitle: 
 
 design:
   columns: "1"
@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["90px", "0", "90px", "0"]
 ---
 
 

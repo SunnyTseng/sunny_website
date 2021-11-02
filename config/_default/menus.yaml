@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Artworks
-    url:  'artworks/'
+  - name: Academic
+    url: 'academic/'
     weight: 20
-  - name: Articles
-    url: 'articles/'
-    weight: 30
-  - name: Sounds
-    url: 'sounds/'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Courses
     url: courses/
+    weight: 30
+  - name: Articles
+    url: 'articles/'
+    weight: 40
+  - name: Artworks
+    url:  'artworks/'
+    weight: 50
+  - name: Sounds
+    url: 'sounds/'
     weight: 60
   - name: Contact
     url: '#contact'
