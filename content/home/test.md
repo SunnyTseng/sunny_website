@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: cover_home.jpg
+    image: cover_home.JPG
     image_darken: 1.0
     image_parallax: true
     image_position: center
