@@ -50,8 +50,9 @@ superuser: false
 title: Sunny Tseng
 ---
 
-Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: As a student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my MSc.in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology, specifically focusing on avian acoustic data. Now a happy PhD student living in a city with latitude of 54&deg;N in Canada.
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: Growing up, I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. When I am not in the office, you can often find me outside hiking, recording, swimming (scuba diving), or simply staying home enjoying a cup of tea.
 
-When I am not sitting in the office, you can often find me being outside recordings bird sounds, swimming, reading, writing, or staying home drawing.
+Now a happy Ph.D. student living in a city with latitude of 54&deg;N in Canada.
+
 
 {{< icon name="download" pack="fas" >}} Check out my {{< staticref "uploads/CV_Sunny.pdf" "newtab" >}}resumé{{< /staticref >}}.
