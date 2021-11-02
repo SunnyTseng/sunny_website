@@ -7,6 +7,9 @@ main:
 #  - name: Home
 #    url: '#about'
 #    weight: 10
+  - name: Home
+    url: '#home'
+    weight: 10
   - name: Academic
     url: 'academic/'
     weight: 20
