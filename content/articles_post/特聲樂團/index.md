@@ -2,7 +2,7 @@
 title: 特聲樂團
 subtitle: 那些在小鎮裡樂聲悠揚的日子、每周四晚上七點，永遠會有人遲到的團練。
 summary: 那些在小鎮裡樂聲悠揚的日子、每周四晚上七點，永遠會有人遲到的團練...
-date: 2020-12-25
+date: 2020-06-09
 math: true
 diagram: true
 # Featured image
