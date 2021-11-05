@@ -2,7 +2,7 @@
 title: 特聲樂團
 subtitle: 那些在小鎮裡樂聲悠揚的日子、每周四晚上七點，永遠會有人遲到的團練。
 summary: 那些在小鎮裡樂聲悠揚的日子、每周四晚上七點，永遠會有人遲到的團練...
-date: 2020-06-09
+date: 2021-06-09
 math: true
 diagram: true
 # Featured image
@@ -16,6 +16,9 @@ image:
   preview_only: true
 ---
 
+我們的音樂故事
+
+![alt text](IMG_4770.JPG "")
 
 #### # I
 「Merry Christmas!」音樂聲下，我們喊出了聖誕最圓滿的結尾。
