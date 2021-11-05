@@ -31,7 +31,7 @@ Every sparks in life would rich your personality, and life story.
 我張開手（打開心），連結著所有連結。
 
 
-![alt text](IMG_5320_1.jpg)
+![alt text](featured.jpg)
 
 
 #### # II

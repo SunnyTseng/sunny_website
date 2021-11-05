@@ -24,4 +24,4 @@ image:
 
 我的感動，山兒啊，你們一定曉得。
 
-![alt text](IMG_2222.jpg)
+![alt text](featured.jpg)
