@@ -4,7 +4,7 @@ external_link: https://forestry.ubc.ca/wp-content/uploads/2020/07/bl-29.3.pdf#pa
 image:
   caption: 
   focal_point: Smart
-summary: Logistic regression based acoustic occupancy model
+summary: 
 tags:
 - English
 

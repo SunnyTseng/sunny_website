@@ -4,7 +4,7 @@ external_link: https://drive.google.com/file/d/1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG
 image:
   caption: 
   focal_point: Smart
-summary: Teach the computers to “listen” and analyze the data for us. Is it possible?
+summary: 
 tags:
 - English
 
