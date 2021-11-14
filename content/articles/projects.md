@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: projects_research
+  page_type: articles_science
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: All 全部
     tag: '*'
-  - name: Ongoing
-    tag: Ongoing
-  - name: Finished
-    tag: Finished
+  - name: English
+    tag: English
+  - name: 中文
+    tag: 中文
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

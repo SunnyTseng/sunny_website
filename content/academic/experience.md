@@ -36,7 +36,7 @@ experience:
 
   - title: Master of Science
     company: University of British Columbia
-    company_url: ''
+    company_url: https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0385980
     company_logo: ubc
     location: Vancouver, Canada
     date_start: '2017-09-01'
