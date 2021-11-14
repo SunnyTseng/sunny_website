@@ -28,5 +28,5 @@ image:
 
 PS. 很開心最後一次的工作坊能有好朋友翊仁在台下聽著，很令人安心。
 
-![alt text](IMG_0339.JPG)
+![alt text](featured.JPG)
 

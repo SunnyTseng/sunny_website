@@ -4,7 +4,7 @@ external_link: https://spacetime.phys.tw/vol_35/v35.pdf#page=4
 image:
   caption: 
   focal_point: Smart
-summary: 時空 35:2 在大學歲月中，你問過自己為什麼要想做專題嗎？
+summary: 時空 35 期
 tags:
 - 中文
 
