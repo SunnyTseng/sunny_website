@@ -4,7 +4,7 @@ external_link: https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/dian-
 image:
   caption: 
   focal_point: Smart
-summary: 
+summary: BBS電子報 114 期
 tags:
 - 中文
 

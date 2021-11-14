@@ -5,7 +5,7 @@ external_link: https://www.bird.org.tw/sites/default/files/field/file/download/%
 image:
   caption: 
   focal_point: Smart
-summary: 
+summary: 飛羽季刊 300 期
 tags:
 - 中文
 

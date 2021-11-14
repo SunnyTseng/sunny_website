@@ -4,7 +4,7 @@ external_link: https://drive.google.com/file/d/1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG
 image:
   caption: 
   focal_point: Smart
-summary: 
+summary: Discovery 47(1):21-22
 tags:
 - English
 
