@@ -2,7 +2,7 @@
 title: BBS 工作坊
 subtitle: 終究還是迎來了最後一次，華麗的 BBS 工作坊們。
 summary: 終究還是迎來了最後一次，華麗的 BBS 工作坊們...
-date: 2020-03-08
+date: 2021-03-08
 math: true
 diagram: true
 # Featured image
