@@ -3,7 +3,7 @@ title: 日記
 subtitle: 記錄著我的生命的，那些文字們
 
 summary: 從高中開始就有寫日記的習慣，轉眼至今，十幾本的日記，記錄著十幾年的光陰...
-date: 2019-07-11
+date: 2020-07-11
 math: true
 diagram: true
 # Featured image
