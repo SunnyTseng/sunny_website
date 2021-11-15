@@ -2,7 +2,7 @@
 title: 奕晴與疫情的正面對決
 subtitle: 疫苗，看似疫情期間的中場喘息。
 summary: 幾天前去接種了通過緊急使用權的 AZ 疫苗，儘管副作用仍是誇張的強、儘管在國際間仍有血栓發生的疑慮，但還是認為...
-date: 2020-05-10
+date: 2021-05-10
 math: true
 diagram: true
 # Featured image
