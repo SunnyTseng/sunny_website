@@ -63,7 +63,7 @@ Being a student, I know I don’t need to be the perfect one to be liked. Being 
 
 ![alt text](IMG_8888.jpg "")
 
-#### # V
+#### # Cultural Shock and Reverse Culture Shock
 All international students must be familiar with this – “it’s awkward to talk to local people.”, “I felt I don’t belong to here.”, “it’s so hard to make friends”… All those complex emotions can be summarized as a term: cultural shock. However, probably not so many people have heard another term called: reverse cultural shock. 
 
 Reverse cultural shock, also known as re-entry shock, often occurred when returning to one’s home culture after getting used to a new one. In these couple of years, I have experienced both cultural shock also reverse culture shock. I was born and raised in Taiwan. From 2017 to 2020, I moved to Vancouver for my MSc. From 2020 – 2021, I moved back to Taiwan. Then in the Sep. 2021, I moved to Prince George for my Ph.D. 
