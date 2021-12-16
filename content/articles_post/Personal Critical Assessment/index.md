@@ -22,6 +22,36 @@ Based on this fact, I put down some topics in this report to record important th
 
 ![alt text](IMG_2222.jpg "")
 
+#### # Big Data in Research
+In one lecture during this semester, NRES 801/802 invited Dr. Joseph Shea to give NRES Ph.D. students a talk entitled “Big Data in Research”. This talk was especially of interests to me as part of my research is related to this field. 
+
+The features of “big data” included “3Vs”: volume, variety, and velocity. Even though there is no single solid definition of big data, these are the three main aspects that make big data different from old fashioned data. In recent years, big data became a popular word in different fields, including biology, ecology, social science, and even engineering. My research field, conservation ecology, also joined the world of big data.
+
+Volume - Research directions in conservation ecology had been changed by big data in the last decades. Techniques has been developed to quickly collect data, such as camera traps, autonomous audio recorders, unmanned aerial vehicle, and satellites. Those techniques can help collect data in a much wider spatiotemporal scale, thus expanding the scope of research questions that researchers can potentially answer. The spatial scale can be extended from single patch of land to a landscape consisting diverse habitats; the temporal scale can be extended from single breeding season to whole year monitoring. Typically, techniques used in big data have features such as easy to deploy, overcome observer bias, and have wide coverage.
+
+Variety – Not only the amount, the format of data is another aspect that makes big data special. Conventionally, data were collected in an identical form in a research project to achieve consistency; however, challenges of manipulating different format of data is unavoidable in big data era. Collected data can be video (.mp4, .mov), audio (.mp3, .wav), image (.tiff, .jpg, .png), spatial vectors (.shp), and occurrence data (.csv, .txt), etc. They can also be either structured, unstructured, or semi-structured data. Accordingly, platforms are built to provide synthesized data, sometimes also known as citizen science: eBird, Xeno-Canto, iNaturalist, GBiF, and NEON. 
+
+Velocity – Given the volume and variety of data, it is impossible to tackle data in a conventional way.  Open-code and free sharing platform had become the major development. Nowadays, programming language such as R, Matlab, and Python are essential analytical tool for all researchers to learn. Open-sourced code sharing platform such as GitHub also becoming popular in recent decades. Furthermore, free computing engines are also available nowadays such as Google Colab and Compute Canada. 
+
+Big data is such an intriguing, unpresented tool that allows us to answer complexed ecological questions that we won’t be able to ask before. One most attractive concept of big data for me is cooperation. No matter it’s citizen science platform or resource sharing system, it’s so excited to see the key themes of big data are: sharing, free, open-sourced, inter-disciplined, and cooperated. 
+
+P.S. The figure is my past research project using big data to map large scale spatiotemporal distribution of birds. 
+
+![alt text](IMG_5555.png "")
+
+#### # Comprehensive Appreciation of Research
+Throughout the research journey, we all learned the importance of cooperation and interdisciplinary at some point. In the NRES program, it is stated that most of the research are in one of these three fields: earth systems & dynamics, ecological patterns & processes, and societal structures & value.
+
+Before diving into the question about cooperation and interdisciplinary, I want to clarify the definitions about words with close meanings. Disciplinary – one academic discipline; Multidisciplinary – multiple disciplinary goals under one thematic umbrella; Interdisciplinary – cross disciplinary boundaries; Transdisciplinary – cross disciplinary and sectoral boundaries. 
+Now is the question: how to make scientists work together for a specific goal and cross disciplinary boundaries? My answer is – communication.
+
+Before taking the NRES 801/802 course, my concept about cooperation is more like multidisciplinary. I do agree that people coming from different fields have different expertise, and I know it is important to gather opinions from different people. However, my approach is to “divide” the project we are sharing and everyone gets to choose where their expertise are in. This would avoid disagreements and sometimes enhance the efficiency in managing projects; however, we might have less opportunity to communicate and to learn from other perspectives. 
+
+After doing the group project of the NRES 801/802, I gradually realized the true meaning of interdisciplinary; it is all about communication. Communication means to getting to know each other, to know the common goal, to know the difficulties we might have and how to “blend” our skills together. It is a time-consuming practice and sometimes frustrating as there are always disagreements in a group. We listen to each other, trying to find the best solution for the team. In the end, we all learn from each other and the knowledge is “blending” together to become a good result.
+
+The beauty is, getting agreement and disagreements are both important. That’s the way we learn, we grow up, and we listen to each other. 
+
+![alt text](IMG_2222.png "")
 
 #### # Work Life Balance
 Most people would agree that we assign our time differently when we are students compared to when we are employees (i.e., hired by someone). 
@@ -72,6 +102,6 @@ Never enough to say how difficult it is to adjust to new environments. For me, i
 
 One interesting thing I found is that – whenever I am ready to open my mind, the world will open so many opportunities to me as well. 
 
+![alt text](IMG_8186.jpg "")
 
-![alt text](IMG_2222.png "")
 
