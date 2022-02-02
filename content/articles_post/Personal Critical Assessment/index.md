@@ -2,7 +2,7 @@
 title: Personal Critical Assessment
 subtitle: Some thoughts in the first three monthes of the Ph.D. journey
 summary: In the UNBC NRES 801/802 course, I was asked to write a report called “Personal Critical Assessment”...
-date: 2021-12-10
+date: 2021-12-08
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
