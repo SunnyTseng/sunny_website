@@ -24,7 +24,7 @@ image:
 
 上課第五週，我要十一個小朋友在紙條裡寫下名字。從此，他們進入了我的生活。
 
-![alt text](IMG_8356.jpg "")
+![alt text](featured.jpg "")
 
 #### # II
 
