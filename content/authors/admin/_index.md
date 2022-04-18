@@ -55,4 +55,4 @@ Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :
 Now a happy Ph.D. student living in a city with latitude of 54&deg;N in Canada.
 
 
-{{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf" "newtab" >}}CV{{< /staticref >}}.
