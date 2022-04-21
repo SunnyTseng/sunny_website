@@ -17,7 +17,7 @@ design:
 ---
 
 **Peer Reviewed Publications**
-- **Tseng, Y.-C.**, and Eskelson, B.N.I. 2021. Previous fire severity enhances reburn severity: a case study in interior British Columbia, Canada. Journal of Ecosystem and Management. (In Preparation)
+- **Tseng, Y.-C.**, Ko, J.C.-J, Cheng, A.-Y., and Chen, W.-J. 2022 Modelling avian altitudinal migration using citizen science data. Avian Conservation and Ecology. (In Preparation)
 
 - Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** 2021. Using Landsat Imagery to Assess Burn Severity of National Forest Inventory Plots. Remote Sensing, 13:10. ([link](https://www.mdpi.com/2072-4292/13/10/1935))
 
