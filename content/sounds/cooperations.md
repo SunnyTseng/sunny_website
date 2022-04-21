@@ -31,9 +31,9 @@ item:
   date_end: 
   date_start: "2022-04-01"
   description: 
-  organization: Podcast
+  organization: Audio Book
   organization_url: 
-  title: Audio Book - Exploring the Nature from Literature - On The Road
+  title: Exploring the Nature from Literature - On The Road
   url: https://readmoo.com/campaign/2022/3/audiobooks_nature/index
 
 - certificate_url: 
