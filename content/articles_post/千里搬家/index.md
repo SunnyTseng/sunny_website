@@ -1,7 +1,7 @@
 ---
 title: 千里搬家
 subtitle: 從鄉下到城市的遷徙
-summary: 
+summary: 「A solo road trip is cool!」 難得再次在加拿大的 solo car trip，就是一趟來回兩千公里的旅程...
 date: 2022-08-21
 
 # Featured image
@@ -24,7 +24,7 @@ Fraser Canyon Hwy1 在 Cache Creek 接到 Hwy 97，由南向北延伸，是連�
 
 難得一趟能自由自在移動的旅程，過足了在廣大天空下開車的癮，也重遊舊地、重新翻閱數年前的回憶。
 
-![alt text](IMG_7908_1.jpg "")
+![alt text](IMG-5818.JPG "")
 
 #### # II
 「Sunny, so nice to see you again!」Ken 給了我一個大大的擁抱，真的是好久不見了，上回來拜訪他們在 Lac La Hache 的家已經是 Covid 發生前的聖誕節，才兩年的時間，世界變了好多，他們家的貓狗成員也經過不少變革。「The spring is quite late this year in Riske Creek, how about your site?」Ken 喝了一口茶。他今年夏天也在 Riske Creek 做鳥調，我說北方的鳥兒也是一樣，大概比起去年晚了一兩周的時間才到。他問了問臺灣的狀況、問了問家人，然後我指著窗外的大湖「Can we do paddle board after dinner?」。
@@ -38,7 +38,7 @@ Fraser Canyon Hwy1 在 Cache Creek 接到 Hwy 97，由南向北延伸，是連�
 PS. 那天狗狗 Tipsy 也跟著我們一起在湖上游泳。
 
 
-![alt text](DSC03147_1.jpeg "")
+![alt text](IMG-5879.JPG "")
 
 #### # III
 如果說每個生態人都有一個「啟蒙地」的話，那麼 Riske Creek 這片高地就是引領我進入生態研究的啟蒙與開端。
@@ -47,7 +47,7 @@ Hwy 20 進到 Chilcotin 後右轉，兩串 pick-up truck 的軌跡引向原野�
 
 是一片同時教人成長與謙虛的地方。因為太喜歡這裡，儘管要從 Williams Lake 繞道一個小時，還是要開過來看看老朋友。
 
-![alt text](IMG_9995_1.jpg "")
+![alt text](IMG-5933.JPG "")
 
 #### # IV
 「超爆炸，忙到翻掉 QAQ」在國外搬家真的偶一為之就好。
@@ -58,7 +58,7 @@ Hwy 20 進到 Chilcotin 後右轉，兩串 pick-up truck 的軌跡引向原野�
 
 再見囉。很快就會會再見的。
 
-![alt text](featured.jpeg "")
+![alt text](featured.JPG "")
 
 #### # V
 約定好的，最後一晚和 Colin 到 West Lake 湖畔。終究還是捨不得呢，儘管是段充滿淬煉與風雨的時光、是個充滿冰雪與驕陽的地方。
@@ -69,8 +69,7 @@ Hwy 20 進到 Chilcotin 後右轉，兩串 pick-up truck 的軌跡引向原野�
 
 Photo credit: Colin Halseth
 
-
-![alt text](IMG_2222_1.jpg "")
+![alt text](IMG-6447.png "")
 
 #### # VI
 啟程的早晨，坐在木地板上吃早餐，收著露營睡墊、睡袋。
@@ -79,12 +78,16 @@ Photo credit: Colin Halseth
 
 萬分的多愁善感啊，每到一個地方，多留戀一個地方。
 
+![alt text](IMG_6126.JPG "")
+
 #### # VII
 來記錄一些路上遇到的小趣事。
 
 回程走的 Trans-Canada Hwy 和鐵路路線重疊，BC 的鐵路由東向西出口煤礦、穀物；由西向東運輸進口貨物，不論是哪個方向，一輛火車輕易就有上百節車廂，若碰巧遇到火車，所有高速公路上的車都得停下來，一等就是十幾分鐘，駕駛們都會熄火下車看風景聊天，也算是高速公路奇景。
 
 開著這輛小車也第八天了，要換檔時還是反射動作往方向盤右後方抓（pick-up 卡車的排檔桿通常都在方向盤右後方，一般雨刷的位置），每次抓空都是莞爾一笑，看來身上已經住著大車魂。
+
+![alt text](IMG-6409.JPG "")
 
 #### # VIII
 Barkerville，一百多年前因為金礦而曾經輝煌的小鎮。
@@ -101,6 +104,8 @@ Barkerville，一百多年前因為金礦而曾經輝煌的小鎮。
 
 幸運致富的工人，才有機會回到中國把妻子、家人接來 Barkerville，但生活環境仍是惡劣。「在這裡生活太困難了，我昨晚將一杯茶放在桌上，隔天早上起來竟全結成了冰⋯，我好想回家。」一名女子的日記寫道。
 
+![alt text](IMG-9999.JPG "")
+
 #### # IX
 150 mile house，絕對是在 Gold rush 的這條路上，個人最喜愛的一個城市了。
 
@@ -108,12 +113,16 @@ Barkerville，一百多年前因為金礦而曾經輝煌的小鎮。
 
 母牛皮草、日式卡車右駕、後院自種的紫色花椰菜，和去年打獵捕獲的鹿肉，新狗狗 Oriole 和 Midge。唯一紀錄著時間的，是看到他們家的小朋友們一個一個長大，才驚覺已經認識了這個美好的地方，四年。
 
+![alt text](IMG-8888.JPG "")
+
 #### # X
 經過幾個月的準備、幾千公里的漂泊，終於把身家安頓到新住所。
 
 木地板踩起來喀嗤喀嗤的，彩繪玻璃和大大的窗，後院有一整片看似荒廢的園地，在溫哥華這樣的城市裡找到一個帶有歷史韻味的住所，也算是為這個 Gold rush road trip 寫下一個完美句點了（笑）。
 
 至於遷入之後就收到昨天借住的朋友的確診通知，又是另一段故事了啊（才剛入住就立馬被送走隔離 😅）。
+
+![alt text](IMG_0000.JPG "")
 
 #### # XI
 和過去任何的旅行一樣，最令人想念及回味的依然是路途中交錯的人們。
@@ -125,3 +134,5 @@ Barkerville，一百多年前因為金礦而曾經輝煌的小鎮。
 啊，正是因為有你們，加拿大地圖上的一個個小鎮，不再只是地名，而是一段段充滿故事的回憶。
 
 P.S. 最後儀表板上的 2,133 公里，算算也開了五個台灣這麼長。
+
+![alt text](people.JPG "")
