@@ -17,7 +17,7 @@ design:
 ---
 
 **Peer Reviewed Publications**
-- **Tseng, Y.-C.**, Ko, J.C.-J, Cheng, A.-Y., and Chen, W.-J. 2022 Modelling avian altitudinal migration using citizen science data. Avian Conservation and Ecology. (In Preparation)
+- **Tseng, Y.-C.**, Ko, J.C.-J, Cheng, A.-Y., and Chen, W.-J. 2023 Modelling avian altitudinal migration using citizen science data. Avian Conservation and Ecology. (In Preparation)
 
 - Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** 2021. Using Landsat Imagery to Assess Burn Severity of National Forest Inventory Plots. Remote Sensing, 13:10. ([link](https://www.mdpi.com/2072-4292/13/10/1935))
 
@@ -27,6 +27,7 @@ Logistic regression based acoustic occupancy model. Bioacoustics, 30(3):324-340.
 - **Tseng, Y.-C.**, and Chu, S.-W. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. Plant Methods, 13:43. ([link](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0194-2))
 
 **Scholarships and Fellowships**
+- MITACS PhD Fellowship (2022, MITACS)
 - Graduate Entrance Research Scholarship (2021, UNBC)
 - Early Career Grant (2021, National Geographic)
 - Mary and David Macaree Fellowship (2019, UBC)
@@ -43,6 +44,7 @@ Logistic regression based acoustic occupancy model. Bioacoustics, 30(3):324-340.
 - Alumnus scholarship in NTU Physics (2017, NTU)
 
 **Awards**
+- Teaching Excellence Award (2022, UNBC)
 - Best Student Presentation Award in Congress of Animal Behavior and Ecology (2021)
 - Master of Data Science TA Award (2019)
 - UBC Forestry 3 Minute Thesis Award (2019)
