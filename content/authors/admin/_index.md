@@ -52,7 +52,7 @@ title: Sunny Tseng
 
 Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. :heart: Growing up, I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. When I am not in the office, you can often find me outside hiking, recording, swimming (scuba diving), or simply staying home enjoying a cup of tea.
 
-Now a happy Ph.D. student living in a city with latitude of 54&deg;N in Canada.
+Now a happy PhD candidate living in Vancouver, Canada.
 
 
 {{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf" "newtab" >}}CV{{< /staticref >}}.
