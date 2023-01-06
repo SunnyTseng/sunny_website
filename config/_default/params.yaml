@@ -23,15 +23,15 @@ twitter: ''
 email: sunnyyctseng@gmail.com
 phone: +1 778 985 2258
 address:
-  street: 3333 University Way
-  city: Prince George
+  street: 2424 Main Mall
+  city: Vancouver
   region: BC
-  postcode: 'V2N 4Z9'
+  postcode: 'V6T 1Z4'
   country: Canada
   country_code: CA
 coordinates:
-  latitude: '53.89'
-  longitude: '-122.81'
+  latitude: '49.26'
+  longitude: '-123.24'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
