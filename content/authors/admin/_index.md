@@ -40,7 +40,7 @@ social:
   link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/sunnyyctseng/
+  link: https://www.instagram.com/sunny_taiwan/
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/SunnyYCTseng
