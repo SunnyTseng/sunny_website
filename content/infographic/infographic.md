@@ -13,7 +13,7 @@ title:
 subtitle:
 
 design:
-  columns: '1'
+  columns: '3'
 
 ---
 
