@@ -17,4 +17,4 @@ design:
 
 ---
 
-{{< gallery album="artworks" >}}
+{{< gallery album="infographics" >}}
