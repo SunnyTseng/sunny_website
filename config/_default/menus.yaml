@@ -10,17 +10,19 @@ main:
   - name: Academic
     url: 'academic/'
     weight: 20
-#  - name: Projects
-#    url: 'projects/'
-#    weight: 30
+
   - name: Infographic
     url: 'infographic/'
+    weight:  30
+
   - name: Articles
     url: 'articles/'
     weight: 40
+
   - name: Artworks
     url:  'artworks/'
     weight: 50
+
   - name: Sounds
     url: 'sounds/'
     weight: 60
