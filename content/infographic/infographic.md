@@ -9,8 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 66
 
-title: 
-subtitle:
+title: Infographic design
+subtitle: I am on commission for scientific research projects. Feel free to contact me if you are interested.
 
 design:
   columns: '3'
