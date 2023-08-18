@@ -10,11 +10,11 @@ headless: true
 weight: 40
 
 title: Research projects
-subtitle: ''
+subtitle: 
 
 content:
   # Page type to display. E.g. project.
-  page_type: projects_research
+  page_type: academic_projects
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
