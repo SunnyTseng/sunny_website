@@ -17,4 +17,4 @@ design:
 
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="artworks" >}}
