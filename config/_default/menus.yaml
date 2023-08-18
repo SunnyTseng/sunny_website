@@ -9,10 +9,12 @@ main:
 #    weight: 10
   - name: Academic
     url: 'academic/'
-#    weight: 20
+    weight: 20
 #  - name: Projects
 #    url: 'projects/'
-    weight: 30
+#    weight: 30
+  - name: Infographic
+    url: 'infographic/'
   - name: Articles
     url: 'articles/'
     weight: 40
