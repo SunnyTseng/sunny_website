@@ -1,6 +1,6 @@
 ---
 date: "2022-03-31T00:00:00Z"
-external_link: https://www.tesri.gov.tw/Uploads/userfile/A15_1/2022-03-31_1337084121.pdf#page=41
+external_link: https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf
 image:
   caption: 
   focal_point: Smart
