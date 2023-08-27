@@ -47,6 +47,6 @@ PS 2. 過終點線一回頭，看到大會時間 2:45:47（從第一個跑者過
 
 ![alt text](featured.jpg)
 
-![alt text](IMG_2861.jpg)
+![alt text](me.jpg)
 
 ![alt text](IMG_2905.jpg)
