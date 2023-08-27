@@ -156,7 +156,7 @@ PS2. 這篇要好好讀：Artificial intelligence (BirdNET) supplements manual m
 
 像是要大家早上六點起床跑個 5k 回家洗澡後再回來繼續聽演講 social，之類的。
 
-![alt text](IMG_5359.JPG)
+![alt text](IMG_5359.jpeg)
 
 #### # XII
 一起認真工作討論研究，也要用力玩在一起。
