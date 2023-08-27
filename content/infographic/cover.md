@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Infographic
-subtitle: I am available for commission on research infographics! Feel free to [contact me](https://sunshineland.netlify.app/) for more details. 
+subtitle: Available for commission [contact me](https://sunshineland.netlify.app/) :)
 
 design:
   columns: "1"
