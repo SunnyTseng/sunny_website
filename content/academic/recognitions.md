@@ -16,7 +16,7 @@ design:
   columns: '2'
 ---
 
-**Significant Scholarships (full list in CV)**
+**Significant Scholarships (full list in [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf))**
 
 - NSERC Canada Graduate Scholarship - Doctorial (2023)
 - MITACS Accelerate Fellowship (2022)
