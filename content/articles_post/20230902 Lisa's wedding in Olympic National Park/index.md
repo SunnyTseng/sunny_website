@@ -3,7 +3,7 @@ title: Lisa's wedding in Olymbic National Park
 subtitle: 太美妙的婚禮，滿滿的幸福在心裡。
 summary: 散佈世界各地的將近一百位親友，搭飛機、開車、搭渡輪，聚集到這，準備見證這兩位美麗女孩的愛情。到達會場後那片掛在門口的彩虹布幔，真的美麗到不行。...
 
-date: "2023-09-02"
+date: 2023-09-02
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
