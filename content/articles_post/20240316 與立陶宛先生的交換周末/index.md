@@ -1,0 +1,32 @@
+---
+title: 與立陶宛先生的交換周末
+subtitle: 
+summary: 
+date: 2024-03-16
+math: true
+diagram: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
+---
+
+
+#### # I
+第一周的交換周末計畫，正式實施! 
+
+要和隔著一個太平洋的某人培育情感是一件非常需要技巧的事情，畢竟生活圈太遙遠，連天氣都聊不起來(笑)，早安晚安、還有因為時差和作息時間不同的各種交錯，也讓認識彼此的生活和本質困難了一些。與人相處對我來說彌足珍貴的，就是因為對方的出現，可以對世界有更多的認識、去做些自己一個人生活時不會嘗試的事情。太多想一起做的事情了，不如就從每個周末開始。企劃大綱就是，每周由一個人決定兩個人的周末行程，可以是邀請對方嘗試自己平常喜歡做的事情、可以是一起完成之前說過的計畫，一個交換興趣的概念(笑)，剛剛好也可以放飛我這個崇尚生活穩定的性格(誤)。
+
+是不知道會執行多久啦，且做且走，重點是...第一周就超有趣的啊!本週由我開始，分派的任務是: "替在太平洋對岸的對方挑一家餐廳還有餐點，要對方去享用一頓美好的一餐!"
+
+Gintas 挑給我這家店在 Downtown Vancouver，叫做 #e food，指定的餐點是 Sandwitch of the day 和 Soup of the day。不得不說，到外面的店吃飯真的不是我在溫哥華平常會做的事情，因為太貴了我都覺得自己煮就好，但就是因為這樣我才想要藉此機會好好拓展技能(甚麼技能!?)。一走進店裡還有點徬徨(笑)，是家小小的店，裝潢很簡單樸實，因為烤麵包的關係有點氤氳。我特地帶了自己的碗裝湯，還被老闆主動加湯了(竟然)，連在我後面點餐的女孩都跟我說這家店是他的最愛(特別是 Lemon Rosemery Chicken)，光是人的部分就非常有好感。到了 Sunset beach 躺在陽光下吃，好吃，特別喜歡它的 Chicken noodle soup，飽餐一頓後馬上倒下，直接在陽光下睡了一覺，超級滿足超級雀躍!儘管是一個人，心裡卻像是被滿滿的陪伴著，畢竟餐聽是 Gintas 選的、餐點是他挑的。一整個滿足感。
+
+
+
+
+![alt text](IMG_9990.jpg "")
