@@ -1,5 +1,5 @@
 ---
-date: "2016-11-01T00:00:00Z"
+date: "2016-11-01"
 external_link: https://spacetime.phys.tw/vol_35/v35.pdf#page=4
 image:
   caption: 

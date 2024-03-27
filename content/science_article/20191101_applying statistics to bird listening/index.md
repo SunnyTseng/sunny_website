@@ -1,5 +1,5 @@
 ---
-date: "2019-11-01T00:00:00Z"
+date: "2019-11-01"
 external_link: https://drive.google.com/file/d/1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG/view
 image:
   caption: 

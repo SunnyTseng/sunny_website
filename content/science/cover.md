@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Science outreach
-subtitle: Available for commission [contact me](https://sunshineland.netlify.app/) :)
+subtitle: Available for commission
 
 design:
   columns: "1"

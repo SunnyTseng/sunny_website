@@ -1,5 +1,5 @@
 ---
-date: "2021-06-01T00:00:00Z"
+date: "2021-06-01"
 external_link: https://www.bird.org.tw/sites/default/files/field/file/download/%E4%B8%AD%E8%8F%AF%E9%A3%9B%E7%BE%BD301%E6%9C%9F_0.pdf#page=22
 
 image:

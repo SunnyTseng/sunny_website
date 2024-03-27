@@ -1,5 +1,5 @@
 ---
-date: "2023-07-03T00:00:00Z"
+date: "2023-07-01"
 external_link: https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf
 image:
   caption: 
