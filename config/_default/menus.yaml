@@ -11,8 +11,8 @@ main:
     url: 'academic/'
     weight: 20
 
-  - name: Infographic
-    url: 'infographic/'
+  - name: Science
+    url: 'science/'
     weight:  30
 
   - name: Articles
