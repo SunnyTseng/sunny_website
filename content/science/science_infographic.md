@@ -6,12 +6,10 @@ widget: blank
 # This file represents a page section.
 headless: true
 
-title: Infographic Designs
-
 # Order that this section appears on the page.
 weight: 60
 
-title: 
+title: Infographic Designs
 subtitle: 
 
 design:
