@@ -7,7 +7,7 @@ widget: blank
 headless: false
 
 # Order that this section appears on the page.
-weight: 66
+weight: 60
 
 title: 
 subtitle: 
