@@ -15,8 +15,8 @@ main:
     url: 'science/'
     weight:  30
 
-  - name: Articles
-    url: 'articles/'
+  - name: Blog
+    url: 'blog/'
     weight: 40
 
   - name: Artworks

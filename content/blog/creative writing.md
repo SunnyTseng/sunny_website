@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Creative writing
+title: 
 subtitle:
 
 content:
   # Page folder to display. E.g. post, talk, publication...
-  page_type: articles_post
+  page_type: blog_articles
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
