@@ -17,6 +17,6 @@ design:
 
 ---
 
-Infographic Design
+<p style="text-align: center;">Infographic Design</p>
 
 {{< gallery album="infographics" >}}
