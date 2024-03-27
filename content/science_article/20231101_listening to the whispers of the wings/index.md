@@ -1,6 +1,6 @@
 ---
 date: "2023-11-01"
-external_link: https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view
+external_link: https://naturevancouver.ca/the-fascination-of-making-enjoying-bird-sound-recordings/
 image:
   caption: 
   focal_point: Smart
