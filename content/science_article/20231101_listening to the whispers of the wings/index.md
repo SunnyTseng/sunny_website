@@ -1,6 +1,6 @@
 ---
 date: "2023-11-01"
-external_link: 
+external_link: https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view
 image:
   caption: 
   focal_point: Smart
