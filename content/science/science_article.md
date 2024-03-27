@@ -48,4 +48,5 @@ design:
   flip_alt_rows: false
 ---
 
-Popular Science Aticles
+
+<p style="text-align: center;">### Popular Science Aticles</p>

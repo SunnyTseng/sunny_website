@@ -1,6 +1,6 @@
 ---
-date: "2018-09-01T00:00:00Z"
-external_link: https://forestry.ubc.ca/wp-content/uploads/2020/07/bl-29.3.pdf#page=11
+date: "2018-09-01"
+external_link: https://issuu.com/ubcforestry/docs/bl_29.3
 image:
   caption: 
   focal_point: Smart

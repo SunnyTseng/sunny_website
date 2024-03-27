@@ -1,5 +1,5 @@
 ---
-date: "2020-08-01T00:00:00Z"
+date: "2020-08-01"
 external_link: https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/dian-zi-bao114qi
 image:
   caption: 

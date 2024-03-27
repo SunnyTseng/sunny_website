@@ -1,5 +1,5 @@
 ---
-date: "2020-07-01T00:00:00Z"
+date: "2020-07-01"
 external_link: https://sites.google.com/a/birds-tesri.twbbs.org/bbs-taiwan/bbs-taiwan-letter-113
 image:
   caption: 
