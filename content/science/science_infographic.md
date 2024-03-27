@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: false
+headless: true
 
 title: Infographic Designs
 
