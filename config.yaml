@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Sunshine Land # Website name
 baseurl: 'https://sunshineland.netlify.app/' # Website URL
-copyright: '© {2021} Sunny Tseng' # Footer text, e.g. '© {year} Me'
+copyright: '© 2024 Sunny Tseng' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
