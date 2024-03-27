@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Infographic
+title: Science outreach
 subtitle: Available for commission [contact me](https://sunshineland.netlify.app/) :)
 
 design:
