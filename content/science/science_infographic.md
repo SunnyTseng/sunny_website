@@ -6,6 +6,8 @@ widget: blank
 # This file represents a page section.
 headless: false
 
+title: Infographic Designs
+
 # Order that this section appears on the page.
 weight: 60
 
@@ -16,7 +18,5 @@ design:
   columns: '1'
 
 ---
-
-##<p style="text-align: center;">Infographic Designs</p>
 
 {{< gallery album="infographics" >}}

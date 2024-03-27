@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 
-subtitle: ''
+title: Popular Science Articles
+subtitle:
 
 content:
   # Page type to display. E.g. project.
@@ -48,5 +48,3 @@ design:
   flip_alt_rows: false
 ---
 
-
-<p style="text-align: center;">Popular Science Aticles</p>
