@@ -17,4 +17,6 @@ design:
 
 ---
 
+Infographic Design
+
 {{< gallery album="infographics" >}}
