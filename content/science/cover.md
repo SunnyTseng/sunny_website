@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Science outreach
-subtitle: Available for commission
+subtitle:
 
 design:
   columns: "1"

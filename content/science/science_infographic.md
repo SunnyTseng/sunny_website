@@ -17,4 +17,6 @@ design:
 
 ---
 
+<p style="text-align: center;">Available for commissions</p>
+
 {{< gallery album="infographics" >}}
