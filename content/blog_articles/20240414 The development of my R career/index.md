@@ -1,7 +1,7 @@
 ---
 title: The development of my R career 
-subtitle: 
-summary: 
+subtitle: 如果以搶到五月天的票當作一個興奮單位，收到這些機會的興奮程度大概有六個五月天。
+summary: 自去年底至今約莫半年的時間，在 R programming 的技能上不停地獲得新的機會，不論是申請經費、申請加入 program、或是接資料分析的 contract 都不可思議的順利 (敲桌子，敲敲)，而且還體驗到了好多次收到 email 的當下，興奮到想要跳起來的瞬間!
 date: 2024-04-14
 math: true
 diagram: true
@@ -28,9 +28,9 @@ image:
 
 POSIT conference 的報名費出名的昂貴(大約一千美金，台幣三萬左右)，但他們同時也提供了全球 40 個 Opportunity Scholar 的名額，由 POSIT 直接幫你付報名費、機票、住宿及參加 conference 那周的所有花費。
 
-抱著平常心申請，然後就這樣拿到全球只有 40 個名額的機會啦!非常非常的興奮 - 就是收到信的當下很想要跟全世界說的那種開心 (比五月天演唱會搶到票再開心一些些)。覺得一直以來的耕耘被肯定了，而且竟然還能進到這樣的大場合，來享受一下當小海綿的感覺。
+抱著平常心申請，然後就這樣拿到全球只有 40 個名額的機會啦! 非常非常的興奮 - 就是收到信的當下很想要跟全世界說的那種開心 (和搶到五月天演唱會門票同等級的開心)。覺得一直以來的耕耘被肯定了，而且竟然還能進到這樣的國際間的大場合，來享受一下當小海綿的震撼感。
 
-Conference 當場會有 Jenny Bryan 噢，她是我 R programming 的學術偶像! (雖然人家明明就在 UBC，距離我辦公室大概 10 分鐘的距離而已，之前在路上還遇過一次的)。
+Conference 當場會有 Jenny Bryan 噢，她是我在 R 領域上的學術偶像 (迷妹模式開啟)! 雖然人家明明就在 UBC，距離我辦公室大概 10 分鐘的距離而已 (笑)。
 
 POSIT conference: https://posit.co/conference/
 
@@ -56,4 +56,4 @@ ROpenSci Championship Program: https://ropensci.org/champions/
 
 #### SCO-SOC Mentorship Program
 
-### Other R communities and contributions
+#### Other R communities and contributions
