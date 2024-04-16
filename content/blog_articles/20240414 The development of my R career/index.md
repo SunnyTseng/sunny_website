@@ -16,13 +16,13 @@ image:
   preview_only: true
 ---
 
-#### Opportunities
+### Opportunities
 
 自去年底至今約莫半年的時間，在 R programming 的技能上不停地獲得新的機會，不論是申請經費、申請加入 program、或是接資料分析的 contract 都不可思議的順利 (敲桌子，敲敲)，而且還體驗到了好多次收到 email 的當下，興奮到想要跳起來的瞬間!
 
 想把這些興奮的瞬間好好記錄下來，並想記錄這些半年來參與的 community，還有未來想參與或投入的機會。
 
-#### Posit conf 2024 Opportunity Scholar
+### Posit conf 2024 Opportunity Scholar
 
 想必會讀到這邊的你一定對於 POSIT 不陌生吧，POSIT 就是擁有 RStudio 的公司 (擁有最多使用者的 R IDE，沒有之一)，同時還擁有許多 Python 的開發介面。想當然爾，每年舉辦一次的 POSIT conference 就是聚集了世界各地、各領域的大大們，不論是生物、數學、經濟、化學、醫學、...只要是有用到高階程式語言做統計分析模擬或視覺化的，大概都會出現在這場 conference 中。
 
@@ -36,7 +36,7 @@ POSIT conference: https://posit.co/conference/
 
 ![alt text](image.png)
 
-#### ROpenSci Championship Program
+### ROpenSci Championship Program
 
 再來一封當時收到信也是開心到跳起來的 email。如果以搶到五月天的票當作一個興奮單位，收到這封邀請信的興奮程度大概有六個五月天。
 
