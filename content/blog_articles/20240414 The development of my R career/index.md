@@ -1,6 +1,6 @@
 ---
 title: The development of my R career 
-subtitle: 如果以搶到五月天的票當作一個興奮單位，收到這些機會的興奮程度大概有六個五月天。
+subtitle: 如果以搶到五月天的票當作一個興奮單位，收到這些機會的興奮程度大概有十個五月天。
 summary: 自去年底至今約莫半年的時間，在 R programming 的技能上不停地獲得新的機會，不論是申請經費、申請加入 program、或是接資料分析的 contract 都不可思議的順利 (敲桌子，敲敲)，而且還體驗到了好多次收到 email 的當下，興奮到想要跳起來的瞬間!
 date: 2024-04-14
 math: true
@@ -38,21 +38,24 @@ POSIT conference: https://posit.co/conference/
 
 ### ROpenSci Championship Program
 
-再來一封當時收到信也是開心到跳起來的 email。如果以搶到五月天的票當作一個興奮單位，收到這封邀請信的興奮程度大概有六個五月天。
+如果以搶到五月天的票當作一個興奮單位，收到 rOpenSci 邀請信的興奮程度大概有十個五月天。
 
-ROpenSci 是個非營利組織，主要負責審核以及維護 R package 的品質，並且非常強調 Open Source 以及 community 的相互支持及友善的合作。一樣也是超級稀有的機會，ROpenSci Championship Program 每年提供全球 10 個名額來做 R package development training，申請者提出想要開發的 R package 概念，ROpenSci 會幫忙配對專屬的 mentor、提供 workshop、還會幫你做 package review 和 publication! 甚至還提供了 funding。
+使用 R 到現在也有將近九年的時間，其中一個從來沒有踏進過的龐大領域，就是 package development，寫 R package 是個耗時耗力的任務，需要的時間從幾個工作天，到幾年的時間都有可能。總而言之能夠擁有一個 package 的 authoriship 就像是藝術家擁有代表作的概念，雖然窗外已經有數千個 package 在，但擁有一個自己的代表作感覺就是不一樣。是非常令人嚮往的技能。
 
+就這樣剛剛好 - 去年八月在鳥類會議受到 Adam 的啟發，又從 Steffi 那裡得知 rOpenSci 正在招募夥伴 (眼神閃亮亮)。
+
+ROpenSci 是個非營利組織，主要負責審核以及維護 R package 的品質，並推動各種 program 想要改變 "R community are overwhelmingly white, male, and from a handful of countries." 的現況。一樣也是超級稀有的機會，rOpenSci Championship Program 每年提供全球 10 個名額來做 R package development training，申請者提出想要開發的 R package，他們會幫忙配對專屬的 mentor、提供 workshop、還會幫你做 public speech training 和 publication! 甚至還提供了 funding。
 就是一個幫你找老師、教你做你想做的事情、還給上一小筆 funding 的概念...天下怎麼有這麼好的事!
 
-也是超級幸運的，從茫茫大海的近百件申請中被選上了，這次要開發的 package 和台灣有關噢! 還有特地聘請了一位強力精神顧問 (笑)。目前小寶寶正緩慢但穩定的長大中，也從 mentor 那裏見識到甚麼叫做專業的 R programmer (眼界大開)。
+也是超級幸運的，從茫茫大海的近百件申請中被選上了 (尖叫)! 這次要開發的 package 和台灣有關噢! 還有特地聘請了一位強力精神顧問 (笑)。目前已經在 program 快四個月了，正如小海綿般跟著 mentor、跟著強大團隊一步一步走(眼界大開)，也非常、非常的享受開發 package 的過程，也越來越喜歡 rOpenSci 這個小小的 community。這部分的經歷會獨立開另外一篇文章來寫。
 
-其中一個目標，是希望自己可以好好的回饋在這個 program 裡學到的，寫寫文章記錄，算是第一步!
+大推 rOpenSci 的 Championship program 給在台灣的 R 同好們，而且身在台灣申請非常有利!
 
-PS. 話說當初交上去放 profile 的照片真的有點...想要換掉(笑)，明明就是個寫程式的 program 我卻放了一張要去極地求生的樣貌。
+PS. 話說當初交上去放 profile 的照片真的有點...(笑)，明明就是個寫程式的 program 我卻交了一張要去極地求生的樣貌。
 
 ROpenSci Championship Program: https://ropensci.org/champions/
 
-![alt text](image-1.png)
+![alt text](IMG_1111.jpg)
 
 #### SCO-SOC Mentorship Program
 
