@@ -1,5 +1,5 @@
 ---
-title: The development of my R career 
+title: New opportunities about R
 subtitle: 如果以搶到五月天的票當作一個興奮單位，收到這些機會的興奮程度大概有十個五月天。
 summary: 自去年底至今約莫半年的時間，在 R programming 的技能上不停地獲得新的機會，不論是申請經費、申請加入 program、或是接資料分析的 contract 都不可思議的順利 (敲桌子，敲敲)，而且還體驗到了好多次收到 email 的當下，興奮到想要跳起來的瞬間!
 date: 2024-04-14
