@@ -57,6 +57,10 @@ ROpenSci Championship Program: https://ropensci.org/champions/
 
 ![alt text](IMG_1111.jpg)
 
-#### SCO-SOC Mentorship Program
 
-#### Other R communities and contributions
+### Other R communities for future participation
+
+- [rOpenSci](https://ropensci.org/)
+- [Rladies](https://rladies.org/)
+- [POSIT::conf](https://posit.co/conference/)
+- [useR! conference](https://www.r-project.org/conferences/)
