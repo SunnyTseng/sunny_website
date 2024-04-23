@@ -17,6 +17,6 @@ design:
 
 ---
 
-<p style="text-align: center;">I am available for commissions - contact me for details</p>
+<p style="text-align: center;">Available for commissions - contact me for details!</p>
 
 {{< gallery album="infographics" >}}
