@@ -16,6 +16,20 @@ image:
   preview_only: true
 ---
 
+### # 第十一周 - 獎學金按摩日 - 2024 May.26
+
+很快又很慢的，來到旅行大富翁的行程啦!在那之前先和 Gintas 好好享受了兩個人的行程。
+
+首先是周二傍晚，暴風雨過後的大停電，隔天到 Gintas 家求救之後就是傍晚的按摩與晚餐。到 Downtown 試了人生中第一次全身按摩，也太舒服了吧! 特別是在手腳的部分，特別的舒服!啊，最舒服的還是頭部按摩啦!天啊無敵放鬆。Gintas 則說他的按摩師好像沒有像我的按摩到這麼周到，我們兩個互相交換情報，按完之後都想要自己上網學學看!哈!
+
+然後晚餐是 Gintas 說要一起慶祝獎學金還有 owl paper 的 publication!去了一家尼泊爾中式餐廳，覺得普普通通，倒是我們在討論各種 Google 議題簡直笑翻天。
+
+Nature Vancouver 獎學金發放當下竟然有 Gintas 來到現場，除了 Peter 爺爺、Stella & Derek 還有 Gintas 的感覺真的太幸福了。滿滿的幸福感。
+
+隔天一早直飛 PG，有 Lisa, Colin, Ken, Hannah, and Nikky 共度周末 (路上還見了 Heather 與 Matt 親自做 Counselling)。
+
+![alt text](week11/IMG_1111.jpg "")
+
 ### # 第十周 - New Castle Island 露營日 - 2024 May.19
 
 期盼超級久的，是第一次在加拿大認真的露營!(OS:之前的露營都不認真的意思)。
