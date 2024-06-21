@@ -54,7 +54,7 @@ Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. �
 
 
 - 🐦 I’m a PhD candidate working on avian acoustics, living in Vancouver, Canada.
-- 🎨 I’m taking commissions for scientific infographics! Check out [my works](https://sunshineland.netlify.app/science)! 😸
+- 🎨 I’m taking commissions for scientific infographics! Check out [my works](https://sunnytseng.ca/science)! 😸
 - 💻 I’m taking contracts for R teaching and data analysis, currently polishing my skills in developing R packages. 
 
 {{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf" "newtab" >}}CV{{< /staticref >}} for more info!
