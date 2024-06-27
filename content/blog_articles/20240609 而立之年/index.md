@@ -1,7 +1,7 @@
 ---
 title: 而立之年
 subtitle: 白話文就是三十歲生日啦(笑)!
-summary: 
+summary: 三十歲真的是個非常美好的年紀，在各種層面上都有一定的成熟以及自由，經濟上的自由、生活上的自由、還有自我實現上的自由。
 date: 2024-06-09
 math: true
 diagram: true
