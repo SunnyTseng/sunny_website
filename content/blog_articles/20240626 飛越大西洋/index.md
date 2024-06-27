@@ -1,7 +1,8 @@
 ---
-title: 歐飛越大西洋
+title: 飛越大西洋
 subtitle: 原本以為就是個六年之後再度訪問歐洲的度假之旅，沒想到竟變成了一段訪問舊朋友與和新朋友相間之旅。
-summary: 先到 Stuggart 找 Philippa 和 Felicitas，再到法國 Paris 享受一下世界有名的優雅（或小偷），再到東南方小鎮找 Charlotte，然後 Barcelona，最後是目的地 Madrid，要見傳說中的 WP。原本以為就是個度假之旅，沒想到竟變成了一段訪問舊朋友與和新朋友相間之旅。
+summary: 此刻的我坐在飛機上靠窗的位置，剛進到這台波音747時，往右一看竟然有通往二樓的樓梯，不愧有空中巴士的稱號。坐在我左邊的德國女孩問我可不可以跟她的朋友換位置，我很委婉地拒絕了，畢竟是我人生的第一次飛越大西洋，我想好好看看這片海。
+
 date: 2024-06-26
 math: true
 diagram: true
@@ -29,3 +30,5 @@ image:
 PS.後來左側的德國女孩還是有跟朋友坐在一起，還一起看了一部電影，一路玩樂。
 
 ![alt text](featured.jpeg)
+
+先到 Stuggart 找 Philippa 和 Felicitas，再到法國 Paris 享受一下世界有名的優雅（或小偷），再到東南方小鎮找 Charlotte，然後 Barcelona，最後是目的地 Madrid，要見傳說中的 WP。原本以為就是個度假之旅，沒想到竟變成了一段訪問舊朋友與和新朋友相間之旅。
