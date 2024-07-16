@@ -17,6 +17,14 @@ image:
   preview_only: true
 ---
 
+### 拜訪這片古老大陸
+
+回到溫哥華兩天了，還是蠻驚奇的短短的兩周時間竟然可以發生這麼多事情，好像昨天才被 Philippa 從機場接到，怎麼一轉眼就換 Gintas 在溫哥華機場把我接回家。
+
+好像夢，是一段非常美好，非常有小冒險精神，也非常有愛的旅程。
+
+這篇專屬旅途中遇到的人們的照片，包含自己的照片(笑)。
+
 ### Ecoacoustics Congress 筆記 - Acoustic monitoring projects
 
 - World-wide Soundscape Project by Kevin Darras
@@ -25,6 +33,8 @@ image:
 - Spain by Christian for frogs
 - French by Jerome
 - United Kingdom by Oliver (for the monitoring guideline)
+
+![alt text](IMG_7192.jpg)
 
 ### Ecoacoustics Congress 筆記 - potential research
 
@@ -36,6 +46,8 @@ image:
 - Building the Audacity plug-in with signal detection (output frequency range and time range). And provide a standard annotation prototocal. 
 - Link the number of detections to the number of signals. 
 
+![alt text](IMG_1236.jpg)
+
 ### Ecoacoustics Congress 筆記 - Xeno-Canto
 
 我的 talk 剛好跟 Willem-Pier 同場、同時間，她說他的 talk 有放我的 Spotlight 當作示範! 阿超級惋惜!!但是後來有直接找到他本人好好聊聊。話說這次會議的名牌之小完全看不到名字，要找 WP 時一直小心翼翼的看著人家的名牌，幸好第一次就認對!
@@ -44,6 +56,8 @@ image:
 - 目前 XC 最大的改變，是想要針對標記做更新，從原先的 weak labelling (一段音檔只有一個標記，可能包含了許多背景聲音、其他物種等等) 加強成 strong labelling (一個標記只包含了一種物種的聲音，且有框框包圍住)。
 - Strong labelling 可以大大的加強之後在 train BirdNET 或其他工具時的準確性。
 - 標記的工具，目前想要開發可以結合 Audacity 的工具，直接做 signal detection。可能可以結合的工具有: BirdNET、Perch、
+
+![alt text](IMG_7185.jpg)
 
 ### Ecoacoustics Congress 筆記 - BirdNET 
 
@@ -61,6 +75,7 @@ image:
 
 PS. 第二天晚上一起去看西班牙大戰法國，然後一直討論 Avatar，太開心啦!兩個大男孩非常的可愛!
 
+![alt text](IMG_1234.jpg)
 
 
 ### 城牆裡一起跳舞
