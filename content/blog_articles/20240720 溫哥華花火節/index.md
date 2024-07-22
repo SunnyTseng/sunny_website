@@ -3,7 +3,7 @@ title: 溫哥華花火節
 subtitle: 我一直跟 Gintas 說，這是我訓練社交能力的一天。
 summary: 早上才剛遇到一個快要十年不見的桌球球友，晚上就約到一團歡喜莫名的溫暖花火趴。
 
-date: 2024-07-05
+date: 2024-07-20
 math: true
 diagram: true
 # Featured image
