@@ -1,9 +1,9 @@
 ---
-title: 飛越大西洋
-subtitle: 原本以為就是個六年之後再度訪問歐洲的度假之旅，沒想到竟變成了一段訪問舊朋友與和新朋友相間之旅。
-summary: 此刻的我坐在飛機上靠窗的位置，剛進到這台波音747時，往右一看竟然有通往二樓的樓梯，不愧有空中巴士的稱號。坐在我左邊的德國女孩問我可不可以跟她的朋友換位置，我很委婉地拒絕了，畢竟是我人生的第一次飛越大西洋，我想好好看看這片海。
+title: 馬德里不思議之 Ecoacoustic Congress
+subtitle: 是 PhD 生涯中的第一場北美以外的國際會議，碰碰碰的飛來到熱熱的西班牙馬德里。
+summary: 話說這次會議的名牌之小完全看不到名字，要找 WP 時一直小心翼翼的看著人家的名牌，幸好第一次就認對!
 
-date: 2024-06-26
+date: 2024-07-05
 math: true
 diagram: true
 # Featured image
@@ -16,7 +16,6 @@ image:
   focal_point: ""
   preview_only: true
 ---
-
 
 
 ### Ecoacoustics Congress 筆記 - Acoustic monitoring projects
@@ -51,7 +50,7 @@ image:
 - Strong labelling 可以大大的加強之後在 train BirdNET 或其他工具時的準確性。
 - 標記的工具，目前想要開發可以結合 Audacity 的工具，直接做 signal detection。可能可以結合的工具有: BirdNET、Perch、
 
-![alt text](IMG_7185.jpg)
+![alt text](featured.jpg)
 
 ### Ecoacoustics Congress 筆記 - BirdNET 
 
