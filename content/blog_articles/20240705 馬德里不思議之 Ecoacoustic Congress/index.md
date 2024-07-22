@@ -18,7 +18,7 @@ image:
 ---
 
 
-### Ecoacoustics Congress 筆記 - Acoustic monitoring projects
+### Acoustic monitoring projects
 
 - World-wide Soundscape Project by Kevin Darras
 - Australia Acoustic Observatory by Lin
@@ -29,7 +29,7 @@ image:
 
 ![alt text](IMG_7192.jpg)
 
-### Ecoacoustics Congress 筆記 - potential research
+### Potential research
 
 "Listen with love is understanding." 大概是這次 conferenc 收到最感人的訊息。說這句話的 Renata，還有一直很尊敬的學者 Jerome，遠端合作過的 Kevin，都再次強調了親自到野外聆聽、真心的關懷自己所分析的資料。在這個技術與分析方法盛行並為人稱道的世代，更要提醒自己聆聽的重要性。
 
@@ -41,7 +41,7 @@ image:
 
 ![alt text](IMG_1236.jpg)
 
-### Ecoacoustics Congress 筆記 - Xeno-Canto
+### Xeno-Canto
 
 我的 talk 剛好跟 Willem-Pier 同場、同時間，她說他的 talk 有放我的 Spotlight 當作示範! 阿超級惋惜!!但是後來有直接找到他本人好好聊聊。話說這次會議的名牌之小完全看不到名字，要找 WP 時一直小心翼翼的看著人家的名牌，幸好第一次就認對!
 
@@ -52,7 +52,7 @@ image:
 
 ![alt text](featured.jpg)
 
-### Ecoacoustics Congress 筆記 - BirdNET 
+### BirdNET 
 
 這次會議的主角有兩位: Xeno-Canto 以及 BirdNET (個人私心選擇)。這篇先來講講 BirdNET。對我來說 BirdNET 就是用非常謙虛的態度改變了整個 Ecoacoustics 研究領域的技術。這次不僅有 BirdNET 團隊直接來辦 workshop，還有兩場 Seminar 直接分給 BirdNET (我的報告就在第一場)，簡直是大旋風。
 
