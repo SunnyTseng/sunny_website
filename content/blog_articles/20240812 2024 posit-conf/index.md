@@ -19,7 +19,7 @@ image:
 
 ### Opportunity Scholar 
 
-這次獲得了 2024 posit::conf opportunity scholar 的機會，POSIT (之前叫做 RStudio) 直接提供了會議的參與費用、機票、所有食宿費用，覺得 POSIT 非常富有。這次來到了西雅圖開會，是第一次參加由公司舉辦的會議，POSIT 本身雖然提供了許多 open source 的服務，像是最多人熟悉的 RStudio IDE，同時地也在付費的服務上提供大型公司所需要的 Posit cloud connect 等等，並以此為主要的收入來源。
+這次獲得了 2024 posit::conf opportunity scholar 的機會，POSIT, PBC (之前叫做 RStudio) 直接提供了會議的參與費用、機票、所有食宿費用，覺得 POSIT 非常富有。這次來到了西雅圖開會，是第一次參加由公司舉辦的會議，POSIT 本身雖然提供了許多 open source 的服務，像是最多人熟悉的 RStudio IDE，同時地也在付費的服務上提供大型公司所需要的 Posit cloud connect 等等，並以此為主要的收入來源。
 
 Opportunity Scholar 不限職業，只要是對 open source data science 有興趣的都可以申請，全球每年有 40 個名額，是個很好的機會來看看 POSIT 的氣魄。
 
@@ -27,17 +27,39 @@ Opportunity Scholar 不限職業，只要是對 open source data science 有興�
 
 身為一個 RStudio 與 Open source 的熱愛者，和兩千位擁有同樣熱情的軟體工程師共同參與的會議，和今年稍早參加的鳥鳥會議，或是生物聲學會議完全不同的氣氛，簡直像來到另一個世界。
 
-### R Package development workshop
 
-自從加入 rOpenSci 開發 R package 以來，已經將近半年的時間，在 R package 的世界裡有無限的可能。有在寫 R package 的人大概都知道 [R Packages (2e)](https://r-pkgs.org/) 這本書，由 Hadley Wickham 與 Jennifer Bryan 共同撰寫。這次的 package development 就是 Jenny 主講，我整個是小粉絲參拜明星的心態。
+---
+### Workshop: Package development - 來見見偶像 
 
-整個 workshop 的 Github repo 在此: 
+自從加入 rOpenSci 開發 R package 以來，已經將近半年的時間，在 R package 的世界裡有無限的可能。有在寫 R package 的人大概都知道 [R Packages (2e)](https://r-pkgs.org/) 這本書，由 Hadley Wickham 與 Jennifer Bryan 共同撰寫。這次的 package development 就是 Jenny 主講，親身體驗到偶像的無限魅力 (再度被圈粉)。
+
+Workshop 主要針對 package development 背景的人，大概就是我這樣程度的人，已經會畫貓頭鷹的兩個圈圈，但還有很多可以讓貓頭鷹變漂亮的細節。這次主要包含了四個主題: General workflow、Test、Documentation、GitHub actions and CLI package。
+
+Workshop Github repo 在此: https://github.com/posit-conf-2024/pkg-dev
+
+一些令人眼睛一亮的新技能
+
+For Test: 
+- Don't include `library()` or `source()` in any test scripts.
+- Turn on `testthat()` parallel testing by using testthat 3rd edition. Check [instructions](https://testthat.r-lib.org/reference/is_testing.html).
+- The `tests/testthat/helper.R` will run before all the test files, thus a good location to include files needed in the test.
+- For single file test, use `devtools::test_active_file()` and `devtools::test_coverage_active_file()`. And use `devtools::test()` for the whole package.
+- [Snapshot test](https://testthat.r-lib.org/articles/snapshotting.html) is good for complicated test. 
+- [Skip tests](https://testthat.r-lib.org/reference/skip.html) whenever needed! This is SO useful, especially in the GitHub Actions and on CRAN. Will add this to the BirdNET project. 
+- GitHub Action for R-CMD-check can be disabled on the browser. 
+
+For Documentation:
+- Never do the following in the documentation: writing files, setting up options, or changing working directory. 
+- Write detailed examples. Use `try()` for code that don't run in the roxygen, instead of `don't run`. The later one will be rejected by CRAN.
+- Make use of links in the roxygen to link between functions. 
+- Write `_pkgdown.ymal` for customized pkgdown arrangment.
+- Check the urls by `pak::url_check()`.
+
+- CLI 
 
 
 
-
-從一開始的主要 function 建造、到後來的 workflow, 
-
+--- 
 
 ### Keynote: POSIT update
 
