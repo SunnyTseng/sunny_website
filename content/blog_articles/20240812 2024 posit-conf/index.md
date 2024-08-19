@@ -167,4 +167,4 @@ The key of data science is to transform "unanswered" to "answered".
 ![](./phone/IMG_3969.JPG)
 ![](./phone/IMG_3998.JPG)
 ![](./phone/IMG_4004.JPG)
-![](./phone/IMG_3956.JPG)
+![](./featured.JPG)
