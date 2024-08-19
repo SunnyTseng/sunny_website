@@ -1,5 +1,5 @@
 ---
-title: Peoria 之 SCO annual conference
+title: 皮歐里亞之 SCO annual conference
 subtitle: 飛來飛去的夏天，這次飛到了北美玉米田內來開鳥類學會議啦。
 summary: 除了自己 oral presentation 之外還意外地當上了 storytelling 晚會的主持人，驚喜的發現當主持人有多好玩 (樂)，把台下的眾人逗笑時真的會成就感滿滿，領悟到當主持人也需要很多技巧、很多細節，包含動作、語調、時間掌控，除了細心之外更要兼具幽默。
 

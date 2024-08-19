@@ -73,7 +73,7 @@ CLI package (Command Line Interfaces)
 
 1. [Quarto update](https://quarto.org/): 新推出了一個 Quarto Live 功能，官方簡介是 "an official WebAssembly backend for Quarto that supports both R and Pyodide interactive code cells and exercises"，但對我來說有點遙遠，我用 Quarto 也只有用在 slide, book, 或是 website，目前也不知道會不會用到他的 live coding 還有 auto marking 功能，
 2. [WebR](https://docs.r-wasm.org/webr/latest/) - R in the Browser: 可以在沒有下載 R 的狀況下直接用 Browser 跑 R code，甚至可以互動而且更改環境。我其實不太清楚他跟 [Posit cloud](https://posit.cloud/) 的免費版本有甚麼不一樣(汗顏)，可以再研究看看!
-3. [Positron](https://github.com/posit-dev/positron): "A next-generation data science IDE built by Posit PBC"。這個不用多提了，把 RStudio 的好直接改成 polyglot tool，
+3. [Positron](https://github.com/posit-dev/positron): "A next-generation data science IDE built by Posit PBC"。這個不用多提了，把 RStudio 的好直接改成 polyglot tool，是 POSIT 今年的主打。
 
 ![](./IMG_7363.JPG)
 
@@ -90,8 +90,12 @@ CLI package (Command Line Interfaces)
 ---
 ### How to make Great Tables
 
-- gt
-- gtsummary
+除了 Keynote 之外其他的 talk 都略顯零散，後來找到參加這種大型會議的技巧，大概就是專注去聽 POSIT 本身的場次，會更有主題性也能吸收到比較完整的知識。
+
+這場 session 是唯一 POSIT 以外還覺得非常有興趣的!教我們怎麼使用 package 去作出 publication ready 的 table!
+
+- [gt](https://gt.rstudio.com/index.html): Make it simple to produce nice-looking display tables
+- [gtsummary](https://www.danieldsjoberg.com/gtsummary/index.html): Provide an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language.
 
 
 ![](./IMG_7381.JPG)
@@ -99,6 +103,7 @@ CLI package (Command Line Interfaces)
 ---
 ### Keynote: Use GenAI for Data Science
 
+這場超級精彩，而且主講人是加拿大人(覺得溫馨)，筆記有點多之後來慢慢補。
 
 ![](./IMG_7395.JPG)
 
