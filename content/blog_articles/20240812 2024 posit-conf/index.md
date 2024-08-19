@@ -19,14 +19,17 @@ image:
 
 ### Opportunity Scholar 
 
-這次獲得了 2024 posit::conf opportunity scholar 的機會，POSIT, PBC (之前叫做 RStudio) 直接提供了會議的參與費用、機票、所有食宿費用，覺得 POSIT 非常富有。這次來到了西雅圖開會，是第一次參加由公司舉辦的會議，POSIT 本身雖然提供了許多 open source 的服務，像是最多人熟悉的 RStudio IDE，同時地也在付費的服務上提供大型公司所需要的 Posit cloud connect 等等，並以此為主要的收入來源。
+這次獲得了 2024 posit::conf opportunity scholar 的機會，POSIT, PBC (之前叫做 RStudio) 直接提供了會議的參與費用、機票、所有食宿費用。這次來到了西雅圖開會，是第一次參加由公司舉辦的會議，POSIT 本身雖然提供了許多 open source 的服務，像是最多人熟悉的 RStudio IDE，同時地也在付費的服務上提供大型公司所需要的 Posit cloud connect 等等。一年一度的會議，主要是發佈及更新 POSIT 這一年來的開發成果，覺得有點像產品發表會(而且是 open source 的)。
 
-Opportunity Scholar 不限職業，只要是對 open source data science 有興趣的都可以申請，全球每年有 40 個名額，是個很好的機會來看看 POSIT 的氣魄。
+Opportunity Scholar 不限職業，只要是對 open source data science 有興趣的都可以申請，全球每年有 40 個名額，超級幸運可以來看看 POSIT 的氣魄。
 
-來到會場之後，整個驚為天人。POSIT 直接包下整個西雅圖市中心的飯店，從三到七樓都是會議場地，而同個飯店就是與會者的住宿地點。從前身叫做 RStudio 就可以推測，大部分的 workshop 與 session 都以 R 為主，連註冊的小本本都是一整冊的 cheatsheets! 直接深深的切中我心 :heart_eyes:。同時也有很多 Python 的 talk。
+來到會場之後，整個驚為天人。POSIT 直接包下整個西雅圖市中心的飯店，從三到七樓都是會議場地，而同個飯店就是與會者的住宿地點。從前身叫做 RStudio 就可以推測，大部分的 workshop 與 session 都以 R 為主，連註冊的小本本都是一整冊的 cheatsheets! 直接深深的切中我心。同時也有很多 Python 的 talk。
+
+幾個亮點，親自上了 Jenny Bryan 一整天的 Package development workshop，如沐春風，本人超級和藹美麗，還有獲得 debug 小鴨鴨；Posit 繼 RStudio 之後推出新的 IDE 叫做 Positron；開完會頓時成為 hexagon stickers 富有人家。
 
 身為一個 RStudio 與 Open source 的熱愛者，和兩千位擁有同樣熱情的軟體工程師共同參與的會議，和今年稍早參加的鳥鳥會議，或是生物聲學會議完全不同的氣氛，簡直像來到另一個世界。
 
+![](./IMG_7410.JPG)
 
 ---
 ### Workshop: Package development - 來見見偶像 
@@ -36,6 +39,8 @@ Opportunity Scholar 不限職業，只要是對 open source data science 有興�
 Workshop 主要針對 package development 背景的人，大概就是我這樣程度的人，已經會畫貓頭鷹的兩個圈圈，但還有很多可以讓貓頭鷹變漂亮的細節。這次主要包含了四個主題: General workflow、Test、Documentation、GitHub actions and CLI package。
 
 Workshop Github repo 在此: https://github.com/posit-conf-2024/pkg-dev
+
+![](./IMG_7341.JPG)
 
 一些令人眼睛一亮的新技能
 
@@ -55,37 +60,49 @@ For Documentation:
 - Write `_pkgdown.ymal` for customized pkgdown arrangment.
 - Check the urls by `pak::url_check()`.
 
-- CLI 
+CLI package (Command Line Interfaces)
+- Use [CLI tools](https://cli.r-lib.org/) to build attractive command line interfaces
 
+![](./IMG_7346.JPG)
 
 
 --- 
-
 ### Keynote: POSIT update
 
-1. Quarto Live
-2. 
+聽到 keynote 就發現原來自己還是 POSIT 王國的小囉囉，連 Quarto 是 POSIT 旗下的產品都是到現在才知道，我都用了 Quarto 用了多久了(汗顏)。第一場 Keynote 就是 CEO Hadley Wickham 主講，主要是發表公司的三大進展:
 
-POSIT 的主要 product: 
+1. [Quarto update](https://quarto.org/): 新推出了一個 Quarto Live 功能，官方簡介是 "an official WebAssembly backend for Quarto that supports both R and Pyodide interactive code cells and exercises"，但對我來說有點遙遠，我用 Quarto 也只有用在 slide, book, 或是 website，目前也不知道會不會用到他的 live coding 還有 auto marking 功能，
+2. [WebR](https://docs.r-wasm.org/webr/latest/) - R in the Browser: 可以在沒有下載 R 的狀況下直接用 Browser 跑 R code，甚至可以互動而且更改環境。我其實不太清楚他跟 [Posit cloud](https://posit.cloud/) 的免費版本有甚麼不一樣(汗顏)，可以再研究看看!
+3. [Positron](https://github.com/posit-dev/positron): "A next-generation data science IDE built by Posit PBC"。這個不用多提了，把 RStudio 的好直接改成 polyglot tool，
+
+![](./IMG_7363.JPG)
+
+其他的就是再複習一次 POSIT 的經典 open source product: 
 - Rstudio IDE
 - Shinny 
 - Shinny Server
 - R packages (tidyverse, tidyvermodels, ggplot2, etc.)
 - Quarto
 
-### Positron 
+![](./IMG_7398.JPG)
 
-Just got updated 6 weeks ago. 
 
+---
 ### How to make Great Tables
 
 - gt
 - gtsummary
 
+
+![](./IMG_7381.JPG)
+
+---
 ### Keynote: Use GenAI for Data Science
 
 
+![](./IMG_7395.JPG)
 
+---
 ### Keynote: The Future of Data Science 
 
 這次上台的是個老先生 Allen Downey，話說我對 Data Science 裡面的人物其實所知不多(畢竟我也是半路出家)，剛剛聽完 keynote 一上網查才知道人家是赫赫有名的 Think Stat 的作者，這裡先附上人家的 [Github](https://github.com/AllenDowney?tab=repositories) 。
@@ -115,6 +132,34 @@ The key of data science is to transform "unanswered" to "answered".
 - Data science exists because statistics missed the boat on computers. 
 - Wanting to know the truth is the key for defeating confirmation bias.
 
-### Keynote: DockDB
+![](./IMG_7401.JPG)
 
-會議進行到這個時候，已經呈現知識疲勞狀態，從早上七點起床到傍晚十點回到飯店房間，大概只有十分鐘是可以好好休息的時間。大腦一直維持在興奮狀態，不是在
+---
+### Keynote: DuckDB
+
+會議進行到這個時候，已經呈現知識疲勞狀態，從早上七點起床到傍晚十點回到飯店房間，大概只有十分鐘是可以好好休息的時間。大腦一直維持在興奮狀態，不是在 social 就是在講話的路上，最後一天好好靜下來然後竟然又放了好像很有趣的 talk!
+
+作者超可愛，取 duckDB 原來是因為曾經養過鴨子。
+
+[DockDB](https://duckdb.org/) - 做 database 的工具，不太熟悉，但全場幾乎有一伴的人有用過 DockDB!
+
+跟 DockDB 不熟的我也許可以先試試看這個跟 tidyverse 共同開發的 [duckplyer](https://duckdb.org/2024/04/02/duckplyr.html)
+
+![](./IMG_7389.JPG)
+
+
+---
+### 好朋友們還有我自己的照片
+
+有幾個需要聯絡的 connections!
+
+- Jorge A. Ahumada (jorge@wildlifeinsights.org): 是 Wildlife Insights 的創辦人，認識 Cole，他們的公司主要處裡生物多樣性的資料處理，包含自動相機與自動錄音機。他們的公司也是製作 [Arbimon](https://arbimon.org/) 的!! 其中付費的選項就是使用 BirdNET 的 API。想寫信問問他願不願意來給 UNBC 一場 talk。
+
+- Stefanie Butland (https://github.com/stefaniebutland): ROpenSci 的前任 community organizer，認識 Steffic 還有
+
+![](./IMG_7343.JPG)
+![](./phone/IMG_3916.JPG)
+![](./phone/IMG_3969.JPG)
+![](./phone/IMG_3998.JPG)
+![](./phone/IMG_4004.JPG)
+![](./phone/IMG_3956.JPG)
