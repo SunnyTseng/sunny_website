@@ -31,3 +31,25 @@ PS. 除了會議的興奮，開會中途還收到了 BirdNET 德國團隊的來�
 
 ![alt text](featured.jpg)
 
+### The feedback from the presentation judges
+
+Hello Sunny,
+
+Thank you so much for contributing to the 2024 AFO-WOS-SCO meeting in Peoria earlier this month. We appreciate the time and effort you took to help make the scientific program vibrant and diverse. As part of the student presentation process, we send comments from the judges to participants. Included below are comments made by individuals who evaluated your presentation.
+
+Positive Feedback
+Your presentation was very visually appealing, and your enthusiasm was infectious! You did a great job presenting, and I appreciated learning more about BirdNET! I think that this was an important method/consideration for folks who are using this technology.
+Great figures. Good sample size. Enjoyed the audio clips.
+As someone who is not an expert in bird song analytics, you demonstrated and explained the analysis and data processing amazingly. Great explanation of what BirdNet does as a program. Clear and explicit gap in knowledge and objectives.
+
+Constructive Feedback
+I don't have many critiques. Your information was easy to follow and I think this was an important and novel consideration for this emerging technology.
+Very thorough. Consider mentioning what you plan to do next.
+Some plot axes were not explicitly explained. 
+
+We hope you find these comments encouraging and helpful for future presentations. Thanks again for your contribution!
+
+With gratitude and best wishes,
+Maureen
+Student Presentation Award Committee 
+AFO Councilor, WOS Member
