@@ -19,4 +19,7 @@ design:
 
 <p style="text-align: center;">Available for commissions - contact me for details!</p>
 
-{{< gallery album="infographics" >}}
+
+<div style="text-align: center;">
+  {{< gallery album="infographics" >}}
+</div>
