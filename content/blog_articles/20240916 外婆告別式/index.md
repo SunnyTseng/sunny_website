@@ -2,7 +2,7 @@
 title: 外婆的告別式
 subtitle: 臨時的消息、飛奔回南部的故事、還有蜂擁陪伴的家人
 summary: 在溫哥華的周一傍晚聽到婆婆過世的消息，周一那天就睡不著覺，不知道是前兩晚吃的 Pealla 抑或是因為外婆的消息心神不寧，看了機票，要五百多加幣，闔眼先至少睡個幾小時...
-date: 2022-02-14
+date: 2024-09-16
 math: true
 diagram: true
 # Featured image
