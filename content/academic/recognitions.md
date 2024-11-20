@@ -9,21 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Recognitions
+title: CV
 subtitle:
 
 design:
   columns: '2'
 
-
-h1::before {
-    content: "";
-    display: block;
-    margin: 0 auto;
-    width: 0;
-    height: 0;
-    padding-top: 50%;
-    }
 
 ---
 
