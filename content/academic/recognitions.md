@@ -31,16 +31,19 @@ h1::before {
 <!--Education-->
 ## EDUCATION
 
-### PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>
+**PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
+<br>
 Supervisor: Ken Otter <br>
 Committee: Heather Bryan, Joseph Shea, and Dexter Hodder <br>
 Thesis:  Broad-scaled Avian Biodiversity Assessment with Passive Acoustic Monitoring
 
-### MSc, University of British Columbia <span style="float:right;"> Sep.2017 - Nov.2019 <span>
+**MSc, University of British Columbia <span style="float:right;"> Sep.2017 - Nov.2019 <span>**
+<br>
 Supervisor: Bianca Eskelson <br>
 Thesis: Innovative and Conventional Modelling for Avian Acoustic and Fire Severity Analyses 
 
-### Batchelor, National Taiwan University <span style="float:right;"> Sep.2012 - Jun.2017 <span>
+**Batchelor, National Taiwan University <span style="float:right;"> Sep.2012 - Jun.2017 <span>**
+<br>
 Double major: School of Forestry and Resource Conservation & Department of Physics <br>
 Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
@@ -52,16 +55,22 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 ### JOURNAL ARTICLES
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Submitted)
+<br>
 
 - Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2024** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (In Revision)
+<br>
 
 - **Tseng, S.**, Hodder, D., and Otter, K. **2024** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (In Revision)
+<br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification. [*Avian Conservation and Ecology*, 19(1):article23](https://ace-eco.org/vol19/iss1/art23/).
+- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification. [*Avian Conservation and Ecology*, 19(1):article23.](https://ace-eco.org/vol19/iss1/art23/)
+<br>
 
 - Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** **2021** Using Landsat imagery to assess burn severity of National Forest Inventory plots. [*Remote Sensing*, 12:10.](https://www.mdpi.com/2072-4292/13/10/1935)
+<br>
 
 - **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. **2021**. Automatic bird sound detection: Logistic model based acoustic occupancy model. [*Bioacoustics*, 30(3):324-340.](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+<br>
 
 - **Tseng, Y.-C.**, and Chu, S.-W. **2017** High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. [*Plant Methods*, 13:43.](https://doi.org/10.1186/s13007-017-0194-2)
 
