@@ -9,18 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: CV
+title:
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 
 
 ---
 
 
 <!--Education-->
-## EDUCATION
+<center>
+<h2>EDUCATION</h2>
+</center>
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
 <br>
@@ -41,7 +43,9 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
-## PUBLICATION
+<center>
+<h2>PUBLICATION</h2>
+</center>
 
 ### JOURNAL ARTICLES
 
@@ -147,7 +151,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-<details>
+<details open>
 <summary>2023</summary>
 
 **AOS-SCO Joint Conference
@@ -184,7 +188,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-<details open>
+<details>
 <summary>2021</summary>
 
 **AOS-SCO Joint Conference
@@ -294,9 +298,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-
-
-
 ### INVITED TALK & INTERVIEW
 **Machine Learning Advances in Ornithology Research
 <span style="float:right;"> Virtual <span>**
@@ -339,7 +340,9 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--WORK EXPERIENCE-->
-## WORK EXPERIENCE
+<center>
+<h2>WORK EXPERIENCE</h2>
+</center>
 
 ### INFOGRAPIC DESIGNER
 
@@ -467,12 +470,16 @@ I have been contracted for several scientific research publications, focusing on
 
 
 <!--AWARDS-->
-## AWARDS
+<center>
+<h2>AWARDS</h2>
+</center>
 
 
 
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
-## SCHOLARSHIPS & GRANT
+<center>
+<h2>SCHOLARSHIP & GRANT</h2>
+</center>
 
 
 
