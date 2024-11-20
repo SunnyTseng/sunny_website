@@ -71,52 +71,26 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-### PUBLIC SCIENCE ARTICLES
+### POPULAR SCIENCE ARTICLES
 
-**Why do we band birds at all?
-<span style="float:right;"> *Nature Conservation Quarterly* <span>**
-<br> 2024, 124
-<span style="float:right;"> <span>
+- Why do we band birds at all? **2024** *Nature Conservation Quarterly*, 124
 
+- Nest boxes for barn owl conservation **2023** [*Nature Conservation Quarterly*, 122](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf)
 
-**Nest boxes for barn owl conservation
-<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf) <span>**
-<br> 2023, 122
+- When beaver dam collapses **2023** [*Nature Conservation Quarterly*, 121](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf) 
 
+- Listening to the whispers of the wings **2023** [*Discovery*, 50(1):85-90](https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link) 
 
-**When beaver dam collapses
-<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf) <span>**
-<br> 2023, 121
+- Hey, there are wild black bears in my backyard **2022** [*Nature Conservation Quarterly*, 117](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf)
 
+- Avian field recordings (II) **2021** [*Feathers*, 301:22-27](https://www.bird.org.tw/feather)
 
-**Listening to the whispers of the wings
-<span style="float:right;"> [*Discovery*](https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link) <span>**
-<br> 2023, , 50(1):85-90
+- Avian field recordings (I) **2021** [*Feathers*, 300:38-41](https://www.bird.org.tw/feather)
 
+- Apply statistics on bird "listening" **2019** [*Discovery*, 47(1):21-22](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG) 
 
-**Hey, there are wild black bears in my backyard
-<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf) <span>**
-<br> 2022, 117
+- Can statistics help ornithologists "hear" birds? **2018** [*BranchLines*, 29(3):11](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11)
 
-
-**Avian field recordings (II)
-<span style="float:right;"> [*Feathers*](https://www.bird.org.tw/feather) <span>**
-<br> 2021, 301:22-27
-
-
-**Avian field recordings (I)
-<span style="float:right;"> [*Feathers*](https://www.bird.org.tw/feather) <span>**
-<br> 2021, 300:38-41
-
-
-**Apply statistics on bird "listening"
-<span style="float:right;"> [*Discovery*](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG) <span>**
-<br> 2019, 47(1):21-22
-
-
-**Can statistics help ornithologists "hear" birds?
-<span style="float:right;"> [*BranchLines*](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11) <span>**
-<br> 2018, , 29(3):11
 
 
 
