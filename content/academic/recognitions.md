@@ -14,6 +14,17 @@ subtitle:
 
 design:
   columns: '2'
+
+
+h1::before {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    padding-top: 50%;
+    }
+
 ---
 
 
@@ -57,32 +68,62 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 ### PUBLIC SCIENCE ARTICLES
-- **2024** Why do we band birds at all? *Nature Conservation Quarterly*, 124. 
 
-- **2023** Nest boxes for barn owl conservation. [*Nature Conservation Quarterly*, 122.](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf)
-
-
-- **2023** When beaver dam collapses. [*Nature Conservation Quarterly*, 121.](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf)
-
-- **2023** Listening to the whispers of the wings. [*Discovery*, 50(1):85-90.](https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link)
+**Why do we band birds at all?
+<span style="float:right;"> *Nature Conservation Quarterly* <span>**
+<br> 2024, 124
+<span style="float:right;"> <span>
 
 
-- **2022** Hey, there are wild black bears in my backyard. [*Nature Conservation Quarterly*, 117.](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf)
+**Nest boxes for barn owl conservation
+<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf) <span>**
+<br> 2023, 122
 
-- **2021** Avian field recordings (II). [*Feathers*, 301:22-27.](https://www.bird.org.tw/feather)
 
-- **2021** Avian field recordings (I). [*Feathers*, 300:38-41.](https://www.bird.org.tw/feather)
+**When beaver dam collapses
+<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf) <span>**
+<br> 2023, 121
 
-- **2019** Apply statistics on bird "listening". [*Discovery*, 47(1):21-22.](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG)
 
-- **2018** Can statistics help ornithologists "hear" birds? [*BranchLines*, 29(3):11.](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11)
+**Listening to the whispers of the wings
+<span style="float:right;"> [*Discovery*](https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link) <span>**
+<br> 2023, , 50(1):85-90
+
+
+**Hey, there are wild black bears in my backyard
+<span style="float:right;"> [*Nature Conservation Quarterly*](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf) <span>**
+<br> 2022, 117
+
+
+**Avian field recordings (II)
+<span style="float:right;"> [*Feathers*](https://www.bird.org.tw/feather) <span>**
+<br> 2021, 301:22-27
+
+
+**Avian field recordings (I)
+<span style="float:right;"> [*Feathers*](https://www.bird.org.tw/feather) <span>**
+<br> 2021, 300:38-41
+
+
+**Apply statistics on bird "listening"
+<span style="float:right;"> [*Discovery*](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG) <span>**
+<br> 2019, 47(1):21-22
+
+
+**Can statistics help ornithologists "hear" birds?
+<span style="float:right;"> [*BranchLines*](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11) <span>**
+<br> 2018, , 29(3):11
 
 
 
 ### ACADEMIC CONFERENCE
-
-<details>
+<details open>
 <summary>2024</summary>
+
+**Posit::conf
+<span style="float:right;"> Seattle, USA <span>**
+<br> Selected one of the 40 opportunity scholars of the year
+<span style="float:right;"> Aug.2024 <span>
 
 **AFO SCO-SOC WOS Joint Conference
 <span style="float:right;"> Peoria, USA <span>**
@@ -143,7 +184,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-<details>
+<details open>
 <summary>2021</summary>
 
 **AOS-SCO Joint Conference
@@ -302,50 +343,127 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 ### INFOGRAPIC DESIGNER
 
-I have been contracted for several scientific research publications, focusing on wildlife conservation. See my \href{https://sunshineland.netlify.app/science/}{\textcolor{blue}{portfolio}}.
+I have been contracted for several scientific research publications, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
+
+
 
 ### DATA SCIENTIST
-#### R PROGRAMING
 
-\item{\cventry{Jan.2024 -- Mar.2024}{Supervisor: David Bradley}{Birds Canada}{Langley, Canada}{}{}}
+<details>
+<summary>R PROGRAMING CONTRACT</summary>
 
-\item{\cventry{Apr.2020 -- Jul.2021}{Supervisor: Wan-Jyun Chen, Jerome Ko}{Endemic Species Research Institute}{Nantou, Taiwan}{}{}}
-
-\item{\cventry{Feb.2020 -- Mar.2020}{Supervisor: David Bradley}{Birds Canada}{Langley, Canada}{}{}}
-
-#### COURSE INSTRUCTOR & TEACHING ASSISTANT
-
-\item{\cventry{Sep.2021 -- present}{TA, Instructor: Eduardo Martins, Heather Bryan}{Applied Analysis Hub}{UNBC}{}{}}
-
-\item{\cventry{Sep.2023 - Dec.2023}{Instructor, Co-instructor: Lisa Koetke}{Advanced Statistical Analyses for Natural Resource Sciences}{UNBC}{}{}}
+**Birds Canada
+<span style="float:right;"> Sep.2024 -- present <span>**
+<br> Process field collected ARU data through BirdNET
 
 
-\item{\cventry{2019 fall}{TA, Instructor: Tiffany Timbers, Tomas Beuzen}{Data Wrangling}{UBC}{}{}}
-
-\item{\cventry{2018 fall, 2019 fall}{TA, Instructor: Mike Gelbart (2018), Vincenzo Coia (2019)}{Descriptive Statistics and Probability for Data Science}{UBC}{}{}}
-
-\item{\cventry{2019 spring, 2019 fall}{TA, Instructor: Gabriela Cohen Freue (I), Vincenzo Coia (II)}{Regression I, Regression II}{UBC}{}{}}
-
-\item{\cventry{2019 spring}{TA, Instructor: Mark Schmidt, Varada Kolhatkar}{Feature and Model Selection}{UBC}{}{}}
-
-\item{\cventry{2018 fall}{TA, Instructor: Bianca Eskelson}{Advanced Biometrics}{UBC}{}{}}
-
-#### WORKSHOP
-
-\item{\cventry{Mar.2023}{Host: Jennifer Wigglesworth}{Qualitative Analysis using R}{Virtual}{}{}}
-
-\item{\cventry{Nov.2022}{Host: Applied Analysis Hub}{Introduction to Git and Github}{Virtual}{}{}}
-
-\item{\cventry{Mar.2022}{Host: Applied Analysis Hub}{Data Wrangling with R}{UNBC}{}{}}
+**Endemic Species Research Institute
+<span style="float:right;"> Apr.2020 -- Jul.2021 <span>**
+<br> Field bird survey & eBird citizen science data analysis 
 
 
-%\item{\cventry{May.2021 -- Jul.2021}{Host: Jerome Ko}{Data Wrangling with R (4 sessions)}{Endemic Species Research Institute}{}{}}
+**Birds Canada
+<span style="float:right;"> Feb.2020 -- Mar.2020 <span>**
+<br> Digitalize historical BC bird survey data
 
-%\item{\cventry{Dec.2020 -- Mar.2021}{Host: Luna Fan}{Recording Techniques for Breeding Birds Survey (6 sessions)}{Endemic Species Research Institute}{}{}}
+</details>
 
-%\item{\cventry{Oct.2018}{Host: Kathy Martin}{Automatic bird sound detection: ARU data analysis}{Canadian Wildlife Service}{}{}}
 
-%\item{\cventry{Jan.2018 -- Apr.2018}{Host: Trevor Gareth Jones}{Statistical Analysis in Ecology (5 sessions)}{UBC}{}{}}
+<details>
+<summary>COURSE INSTRUCTOR & TEACHING ASSISTANT</summary>
+
+**Applied Analysis Hub (TA)
+<span style="float:right;"> UNBC <span>**
+<br> Instructor: Eduardo Martins, Heather Bryan
+<span style="float:right;"> Sep.2021 -- present <span>
+
+
+**NRES 776 Advanced Statistical Analyses for Natural Resource Sciences (co-instructor)
+<span style="float:right;"> UNBC <span>**
+<br> Co-instructor: Lisa Koetke
+<span style="float:right;"> 2023 fall <span>
+
+
+**Data Wrangling (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Tiffany Timbers, Tomas Beuzen
+<span style="float:right;"> 2019 fall <span>
+
+
+**Descriptive Statistics and Probability for Data Science (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Mike Gelbart (2018), Vincenzo Coia (2019)
+<span style="float:right;"> 2018 fall, 2019 fall <span>
+
+
+**Regression I, Regression II (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Gabriela Cohen Freue (I), Vincenzo Coia (II)
+<span style="float:right;"> 2019 spring, 2019 fall <span>
+
+
+**Feature and Model Selection (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Mark Schmidt, Varada Kolhatkar
+<span style="float:right;"> 2019 spring <span>
+
+
+**Advanced Biometrics (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Bianca Eskelson
+<span style="float:right;"> 2018 fall <span>
+
+</details>
+
+
+
+<details>
+<summary>WORKSHOP</summary>
+
+**Qualitative Analysis using R
+<span style="float:right;"> UNBC <span>**
+<br> Host: Jennifer Wigglesworth
+<span style="float:right;"> Mar.2023 <span>
+
+
+**Introduction to Git and Github
+<span style="float:right;"> UNBC <span>**
+<br> Host: Applied Analysis Hub
+<span style="float:right;"> Nov.2022 <span>
+
+
+**Data Wrangling with R
+<span style="float:right;"> UNBC <span>**
+<br> Host: Applied Analysis Hub
+<span style="float:right;"> Mar.2022 <span>
+
+
+**Data Wrangling with R (4 sessions)
+<span style="float:right;"> Endemic Species Research Institute <span>**
+<br> Host: Jerome Ko
+<span style="float:right;"> May.2021 -- Jul.2021 <span>
+
+
+**Recording Techniques for Breeding Birds Survey (6 sessions)
+<span style="float:right;"> Endemic Species Research Institute <span>**
+<br> Host: Luna Fan
+<span style="float:right;"> Dec.2020 -- Mar.2021 <span>
+
+
+**Automatic bird sound detection: ARU data analysis
+<span style="float:right;"> Canadian Wildlife Service <span>**
+<br> Host: Kathy Martin
+<span style="float:right;"> Oct.2018 <span>
+
+
+**Statistical Analysis in Ecology (5 sessions)
+<span style="float:right;"> UBC <span>**
+<br> Host: Trevor Gareth Jones
+<span style="float:right;"> Jan.2018 -- Apr.2018 <span>
+
+</details>
+
+
 
 
 <!--AWARDS-->
@@ -360,8 +478,6 @@ I have been contracted for several scientific research publications, focusing on
 
 
 
-
---- Here is the line ---
 
 **Significant Scholarships (full list in [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf))**
 
