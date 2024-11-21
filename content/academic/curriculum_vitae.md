@@ -6,10 +6,11 @@ widget: blank
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 40
 
-title: PUBLICATION
+# Order that this section appears on the page.
+weight: 70
+
+title: curriculum vitae
 subtitle:
 
 design:
@@ -18,9 +19,33 @@ design:
 
 ---
 
+
+<!--Education-->
+<center>
+<h2><b>EDUCATION</b></h2>
+</center>
+
+**PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
+<br>
+Supervisor: Ken Otter <br>
+Committee: Heather Bryan, Joseph Shea, and Dexter Hodder <br>
+Thesis:  Broad-scaled Avian Biodiversity Assessment with Passive Acoustic Monitoring
+
+**MSc, University of British Columbia <span style="float:right;"> Sep.2017 - Nov.2019 <span>**
+<br>
+Supervisor: Bianca Eskelson <br>
+Thesis: Innovative and Conventional Modelling for Avian Acoustic and Fire Severity Analyses 
+
+**Batchelor, National Taiwan University <span style="float:right;"> Sep.2012 - Jun.2017 <span>**
+<br>
+Double major: School of Forestry and Resource Conservation & Department of Physics <br>
+Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
+
+
+
 <!--PUBLICATION-->
 <center>
-
+<h2><b>PUBLICATION</b></h2>
 </center>
 
 ### JOURNAL ARTICLE
@@ -142,7 +167,7 @@ design:
 <summary>2021</summary>
 
 **AOS-SCO Joint Conference
-<span style="float:right;"> Nature Vancouver <span>**
+<span style="float:right;"> Vurtual <span>**
 <br> seewave and tuneR: sound analysis in ornithology (Oral)
 <span style="float:right;"> Aug.2021 <span>
 
@@ -255,7 +280,7 @@ design:
 <span style="float:right;"> Nov.2023 <span>
 
 
-**From Taiwan to Arctic Tundra - the Bird as a Bridge ([storytelling](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
+**From Taiwan to Arctic Tundra - the Bird as a Bridge ([recording](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
 <span style="float:right;"> London, Ontario <span>**
 <br> Story telling speaker for AOS annual meeting storytelling event
 <span style="float:right;"> Aug.2023 <span>
@@ -283,4 +308,174 @@ design:
 <span style="float:right;"> Online <span>**
 <br> Interview for Bird Notes
 <span style="float:right;"> May.2021 <span>
+
+
+
+
+
+
+<!--WORK EXPERIENCE-->
+<center>
+<h2><b>WORK EXPERIENCE</b></h2>
+</center>
+
+### INFOGRAPIC DESIGNER
+
+I have been contracted for several scientific research publications, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
+
+
+
+### DATA SCIENTIST
+
+<details>
+<summary>R PROGRAMING CONTRACT</summary>
+
+**Birds Canada
+<span style="float:right;"> Sep.2024 -- present <span>**
+<br> Process field collected ARU data through BirdNET
+
+
+**Endemic Species Research Institute
+<span style="float:right;"> Apr.2020 -- Jul.2021 <span>**
+<br> Field bird survey & eBird citizen science data analysis 
+
+
+**Birds Canada
+<span style="float:right;"> Feb.2020 -- Mar.2020 <span>**
+<br> Digitalize historical BC bird survey data
+
+</details>
+
+
+<details>
+<summary>COURSE INSTRUCTOR & TEACHING ASSISTANT</summary>
+
+**Applied Analysis Hub (TA)
+<span style="float:right;"> UNBC <span>**
+<br> Instructor: Eduardo Martins, Heather Bryan
+<span style="float:right;"> Sep.2021 -- present <span>
+
+
+**NRES 776 Advanced Statistical Analyses for Natural Resource Sciences (co-instructor)
+<span style="float:right;"> UNBC <span>**
+<br> Co-instructor: Lisa Koetke
+<span style="float:right;"> 2023 fall <span>
+
+
+**Data Wrangling (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Tiffany Timbers, Tomas Beuzen
+<span style="float:right;"> 2019 fall <span>
+
+
+**Descriptive Statistics and Probability for Data Science (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Mike Gelbart (2018), Vincenzo Coia (2019)
+<span style="float:right;"> 2018 fall, 2019 fall <span>
+
+
+**Regression I, Regression II (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Gabriela Cohen Freue (I), Vincenzo Coia (II)
+<span style="float:right;"> 2019 spring, 2019 fall <span>
+
+
+**Feature and Model Selection (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Mark Schmidt, Varada Kolhatkar
+<span style="float:right;"> 2019 spring <span>
+
+
+**Advanced Biometrics (TA)
+<span style="float:right;"> UBC <span>**
+<br> Instructor: Bianca Eskelson
+<span style="float:right;"> 2018 fall <span>
+
+</details>
+
+
+
+<details>
+<summary>WORKSHOP</summary>
+
+**Qualitative Analysis using R
+<span style="float:right;"> UNBC <span>**
+<br> Host: Jennifer Wigglesworth
+<span style="float:right;"> Mar.2023 <span>
+
+
+**Introduction to Git and Github
+<span style="float:right;"> UNBC <span>**
+<br> Host: Applied Analysis Hub
+<span style="float:right;"> Nov.2022 <span>
+
+
+**Data Wrangling with R
+<span style="float:right;"> UNBC <span>**
+<br> Host: Applied Analysis Hub
+<span style="float:right;"> Mar.2022 <span>
+
+
+**Data Wrangling with R (4 sessions)
+<span style="float:right;"> Endemic Species Research Institute <span>**
+<br> Host: Jerome Ko
+<span style="float:right;"> May.2021 -- Jul.2021 <span>
+
+
+**Recording Techniques for Breeding Birds Survey (6 sessions)
+<span style="float:right;"> Endemic Species Research Institute <span>**
+<br> Host: Luna Fan
+<span style="float:right;"> Dec.2020 -- Mar.2021 <span>
+
+
+**Automatic bird sound detection: ARU data analysis
+<span style="float:right;"> Canadian Wildlife Service <span>**
+<br> Host: Kathy Martin
+<span style="float:right;"> Oct.2018 <span>
+
+
+**Statistical Analysis in Ecology (5 sessions)
+<span style="float:right;"> UBC <span>**
+<br> Host: Trevor Gareth Jones
+<span style="float:right;"> Jan.2018 -- Apr.2018 <span>
+
+</details>
+
+
+
+
+<!--AWARDS-->
+<center>
+<h2><b>AWARDS</b></h2>
+</center>
+
+
+
+<!--SCHOLARSHIPSandRESEARCHGRANT-->
+<center>
+<h2><b>SCHOLARSHIP & GRANT</b></h2>
+</center>
+
+
+
+
+
+
+**Significant Scholarships (full list in [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf))**
+
+- NSERC Canada Graduate Scholarship - Doctorial (2023)
+- MITACS Accelerate Fellowship (2022)
+- National Geographic Early Career Grant (2021)
+- Werner and Hildegard HESSE Fellowship in Ornithology (2018)
+
+**Awards**
+
+- Best Student Presentation Award in TWS conference (2023)
+- 3 Minute Thesis Award (2023)
+- Teaching Excellence Award (2022)
+- Best Student Presentation Award in Congress of Animal Behavior and Ecology (2021)
+- Master of Data Science TA Award (2019)
+- 3 Minute Thesis Award (2019)
+
+
 
