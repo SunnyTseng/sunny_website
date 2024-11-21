@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: curriculum vitae
+title: Curriculum vitae
 subtitle:
 
 design:
@@ -50,13 +50,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 ### JOURNAL ARTICLE
 
-- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Submitted)
+- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (In preparation)
 <br>
 
-- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2024** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (In Revision)
+- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2024** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Under review)
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (In Revision)
+- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (Under review)
 <br>
 
 - **Tseng, S.**, Hodder, D., and Otter, K. **2024** Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification. [*Avian Conservation and Ecology*, 19(1):article23.](https://ace-eco.org/vol19/iss1/art23/)
@@ -446,9 +446,39 @@ I have been contracted for several scientific research publications, focusing on
 
 <!--AWARDS-->
 <center>
-<h2><b>AWARDS</b></h2>
+<h2><b>AWARD</b></h2>
 </center>
 
+
+\item{\cventry{Aug.2024}{Best oral presentation in the annual conference in Peoria, Illinois}{Student Presentation Award}{SCO-SOC}{}{}}
+
+%\item{\cventry{Jul.2024}{A travel award judged based on the quality of the abstract submitted}{Student \& Early Professional Travel Funding}{AFO-SCO-WOS joint meeting}{}{}}
+
+%\item{\cventry{Jul.2024}{A travel award provided by UNBC Office of Research and Innovation}{Graduate Student Travel Award}{UNBC}{}{}}
+
+%\item{\cventry{Jun.2024}{A travel award provided by Ecosystem Science and Management Department in UNBC}{ESM Travel Grant Award}{UNBC}{}{}}
+
+\item{\cventry{Mar.2023}{Best student oral presentation in The Wildlife Society conference}{Best Student Presentation Award}{BC \& CAN TWS}{}{}}
+
+%\item{\cventry{Mar.2023}{Outstanding proposal in The Wildlife Society conference}{Student Travel Award}{BC \& CAN TWS}{}{}}
+
+\item{\cventry{Feb.2023}{1st place \& people's choice of UNBC 3MT competition}{3 Minute Thesis Award}{UNBC}{}{}}
+
+\item{\cventry{Sep.2022}{Outstanding teaching performance as a teaching assistant}{Teaching Excellence Award}{UNBC}{}{}}
+
+\item{\cventry{Feb.2021}{Outstanding oral presentations in Congress of Animal Behavior and Ecology}{Outstanding Oral Presentation Award}{CABE}{}{}}
+
+\item{\cventry{Jun.2019}{Best TAs in Master of Data Science program of the academic year}{Master of Data Science TA Award}{UBC}{}{}}
+
+\item{\cventry{Feb.2019}{First place of 3MT competition in UBC Faculty of Forestry}{3 Minute Thesis Award}{UBC}{}{}}
+
+%\item{\cventry{Sep.2017}{International graduate student registered full-time in research-oriented master’s programs}{International Tuition Award}{UBC}{}{}}
+
+\item{\cventry{Aug.2017}{Top 5\% ranked research report}{College Student Research Creativity Award}{MOST}{}{}}
+
+\item{\cventry{Apr.2016}{Ranked 1, out of 14 groups, in physics department poster competition}{Outstanding Poster and Presentation Award}{NTU}{}{}}
+
+\item{\cventry{Jan.2016}{Top 5\% ranked student in the semester}{President Award}{NTU}{}{}}
 
 
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
@@ -456,10 +486,104 @@ I have been contracted for several scientific research publications, focusing on
 <h2><b>SCHOLARSHIP & GRANT</b></h2>
 </center>
 
+\item{\cventry{Jun.2024}{For graduate student with contributions to the graduate student culture and graduate program.}{NBCGSS Legacy Scholarship}{UNBC}{}{}}
+%500 CAD
+
+\item{\cventry{May.2024}{For graduate student with outstanding academic \& involvement with Nature Science.}{Hugh Hamilton Memorial Scholarship}{Nature Vancouver}{}{}}
+%5,000 CAD
+
+\item{\cventry{Jan.2024}{Outstanding proposal for R package development.}{rOpenSci Championship Program}{rOpenSci}{}{}}
+%1,000 CAD
+
+\item{\cventry{Apr.2023}{Rewarding and retaining high-calibre doctoral students at Canadian institutions.}{Canada Graduate Scholarship - Doctorial (CGS-D)}{NSERC}{}{}}
+%105,000 CAD
+
+\item{\cventry{Nov.2022}{Excellence academic performance}{Susan Stevenson Memorial Award}{UNBC}{}{}}
+%1,500 CAD
+
+\item{\cventry{Sep.2022}{Excellence academic performance}{CUPE Local 3799 Annual Bursary}{UNBC}{}{}}
+%1,000 CAD
+
+\item{\cventry{Jun.2022}{A long-term funding and internship option for PhD students in Canada}{Mitacs Accelerate Fellowship}{MITACS}{}{}}
+%90,000 CAD
+
+\item{\cventry{Jan.2021}{High academic performance for new graduate student}{Graduate Entrance Research Scholarship}{UNBC}{}{}}
+%25,000 CAD
+
+\item{\cventry{Jun.2020}{Leading a fieldwork in Siberia Arctic tundra for avian sound recordings}{Early Career Grant (Upcoming research project)}{National Geographic}{}{}}
+%5,700 CAD
+
+\item{\cventry{Sep.2019}{Conducting research in Forestry}{Mary and David Macaree Fellowship}{UBC}{}{}}
+%check
+
+\item{\cventry{Feb.2019}{Faculty of Forestry student in forest resource ecosystems}{VanDusen Graduate Fellowship in Forestry}{UBC}{}{}}
+%check
+
+\item{\cventry{Nov.2018}{Conducting research in Forestry}{Hugh Robert Duncan Chisholm Scholarship in Forestry}{UBC}{}{}}
+%230 CAD
+
+\item{\cventry{Oct.2018}{Conducting research in Ornithology}{Werner and Hildegard HESSE Fellowship in Ornithology}{UBC}{}{}}
+%13,500 CAD
+
+\item{\cventry{Oct.2018}{Taiwanese students pursuing higher education in Canada}{Pei-Huang Tung and Tan-Wen Tung Graduate Fellowship}{UBC}{}{}}
+%2,500 CAD
+
+\item{\cventry{Sep.2018}{Students in Faculty of Forestry studying forest resource ecosystems}{Mary and David Macaree Fellowship}{UBC}{}{}}
+%2,700 CAD
+
+\item{\cventry{Aug.2018}{Conducting research about forest fire ecology}{BA Blackwell \& Associates Scholarship in Fire Science}{BA Blackwell \& Associates}{}{}}
+%1,000 CAD
+
+\item{\cventry{Feb.2018}{Soundscape or sound associated research}{Soundscape and Sound Research Scholarship}{SAT}{}{}}
+%10,000 TWD
+
+\item{\cventry{Sep.2017}{Top 20\% ranked student}{Faculty of Forestry Strategic Recruitment Fellowships}{UBC}{}{}}
+%12,000 CAD
+
+\item{\cventry{Apr.2017}{Selected researcher for Arctic research project}{Arctic Research Cooperation Scholarship}{TEEDF}{}{}}
+%100,000 TWD
+
+\item{\cventry{Jun.2016}{Excellent research proposal}{College Student Research Scholarship}{MOST}{}{}}
+%20,000 TWD
+
+\item{\cventry{Dec.2015}{3 awardees per year for outstanding academic achievement}{Alumnus scholarship in NTU Physics}{NTU}{}{}}
+%1,000 TWD
+
+\item{\cventry{Sep.2012}{Scholarship for outstanding female students}{Outstanding College Student Scholarship}{The international Women's Educational Foundation}{}{}}
+%80,000 TWD
+
+## Others (volunteers and member and credential)
+
+\item{\cventry{Sep.2018 -- present}{Mist net set up, bird extraction, banding, data describing}{Intermediate Bird Bander}{Iona Island Bird Observatory}{}{}}
+
+\item{\cventry{Sep.2018 -- present}{Specimen preparation for museum demonstration and research purpose}{Bird Specimen Preparation}{Beaty Biodiversity Museum}{}{}}
+
+% \item{\cventry{Dec.2017 -- Nov.2019}{Participate events for birding}{Member of UBC Birding Club}{UBC}{}{}}
+
+\item{\cventry{Sep.2018 -- present}{Give presentations, lead eco-walks, and attend various activities with the community}{Member}{Nature Vancouver}{}{}}
+
+% \item{\cventry{Mar.2019 -- May.2019}{Deliver lectures for grade 3 students about scientific research topics}{Volunteer for Modules in Ecology and Evolution Development}{UBC}{}{}}
+
+%\item{\cventry{Sep.2017 -- Apr.2018}{Join weekly toastmaster meeting for training public speaking skills}{Member of Walter Gage Toastmasters}{UBC}{}{}}
+
+%\item{\cventry{Nov.2016}{Organize 3-days conferences for international participants.}{Emcee of International Workshop on Holography \& Biomedical Molecular Imaging}{NTU}{}{}}
+
+%\item{\cventry{Dec.2015 -- Jun.2016}{Serve weekly in NTU outdoor swimming pool.}{Lifeguard in Aquatic Service Team}{NTU}{}{}}
+
+% \item{\cventry{Mar.2015 -- Mar.2016}{Introduce herbarium to public on weekends}{Volunteer in NTU Herbarium}{NTU}{}{}}
+
+%\item{\cventry{Jul.2014 -- Jul.2015}{Organize activities and work on student affairs with team members in physic department.}{Vice President of Student Association}{NTU Phys}{}{}}
+
+%\item{\cventry{Jul.2014 -- Jun.2015}{Led the team to win victory in interscholastic Physics Cup and NTU Sciences Cup.}{Team Leader of Department Table Tennis Team}{NTU Phys}{}{}}
+
+%\item{\cventry{Aug. 2013}{Help Cambodia local residents build houses, restrooms and provide health education.}{Volunteer in ELIV Social Enterprise}{Cambodia}{}{}}
+
+\item{\textbf{Advanced Open Water Diving Certificate} PADI}
+
+\item{\textbf{Lifeguard License} Chinese Taipei Water Life Saving Association}
 
 
-
-
+## Old version
 
 **Significant Scholarships (full list in [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf))**
 
