@@ -22,7 +22,7 @@ design:
 
 <!--Education-->
 <center>
-<h2>EDUCATION</h2>
+<h1><b>EDUCATION</h1>
 </center>
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
@@ -45,10 +45,10 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <!--PUBLICATION-->
 <center>
-<h2>PUBLICATION</h2>
+<h2><b>PUBLICATION</h2>
 </center>
 
-### JOURNAL ARTICLES
+### JOURNAL ARTICLE
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Submitted)
 <br>
@@ -72,7 +72,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-### POPULAR SCIENCE ARTICLES
+### POPULAR SCIENCE ARTICLE
 
 - Why do we band birds at all? **2024** *Nature Conservation Quarterly*, 124
 
