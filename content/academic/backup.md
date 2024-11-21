@@ -22,7 +22,7 @@ design:
 
 <!--Education-->
 <center>
-<h1><b>EDUCATION</h1>
+<h2><b>EDUCATION</b></h2>
 </center>
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
@@ -45,7 +45,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <!--PUBLICATION-->
 <center>
-<h2><b>PUBLICATION</h2>
+<h2><b>PUBLICATION</b></h2>
 </center>
 
 ### JOURNAL ARTICLE
@@ -316,7 +316,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <!--WORK EXPERIENCE-->
 <center>
-<h2>WORK EXPERIENCE</h2>
+<h2><b>WORK EXPERIENCE</b></h2>
 </center>
 
 ### INFOGRAPIC DESIGNER
@@ -446,14 +446,14 @@ I have been contracted for several scientific research publications, focusing on
 
 <!--AWARDS-->
 <center>
-<h2>AWARDS</h2>
+<h2><b>AWARDS</b></h2>
 </center>
 
 
 
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
 <center>
-<h2>SCHOLARSHIP & GRANT</h2>
+<h2><b>SCHOLARSHIP & GRANT</b></h2>
 </center>
 
 
