@@ -23,7 +23,7 @@ design:
 
 </center>
 
-### JOURNAL ARTICLES
+### JOURNAL ARTICLE
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Submitted)
 <br>
@@ -47,7 +47,7 @@ design:
 
 
 
-### POPULAR SCIENCE ARTICLES
+### POPULAR SCIENCE ARTICLE
 
 - Why do we band birds at all? **2024** *Nature Conservation Quarterly*, 124
 
@@ -142,7 +142,7 @@ design:
 <summary>2021</summary>
 
 **AOS-SCO Joint Conference
-<span style="float:right;"> Vurtual <span>**
+<span style="float:right;"> Nature Vancouver <span>**
 <br> seewave and tuneR: sound analysis in ornithology (Oral)
 <span style="float:right;"> Aug.2021 <span>
 
@@ -255,7 +255,7 @@ design:
 <span style="float:right;"> Nov.2023 <span>
 
 
-**From Taiwan to Arctic Tundra - the Bird as a Bridge ([recording](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
+**From Taiwan to Arctic Tundra - the Bird as a Bridge ([storytelling](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
 <span style="float:right;"> London, Ontario <span>**
 <br> Story telling speaker for AOS annual meeting storytelling event
 <span style="float:right;"> Aug.2023 <span>
