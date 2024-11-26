@@ -19,11 +19,13 @@ design:
 
 ---
 
----
+
 <!--Education-->
 <center>
 <h2><b>EDUCATION</b></h2>
 </center>
+
+---
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
 <br>
@@ -43,11 +45,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
----
+
 <!--PUBLICATION-->
 <center>
 <h2><b>PUBLICATION</b></h2>
 </center>
+
+---
 
 ### JOURNAL ARTICLE
 
@@ -320,11 +324,12 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
----
 <!--WORK EXPERIENCE-->
 <center>
 <h2><b>WORK EXPERIENCE</b></h2>
 </center>
+
+---
 
 ### INFOGRAPIC DESIGNER
 
@@ -450,11 +455,13 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 
----
+
 <!--AWARDS-->
 <center>
 <h2><b>AWARD</b></h2>
 </center>
+
+---
 
 **Student Presentation Award
 <span style="float:right;"> SCO-SOC <span>**
@@ -551,11 +558,13 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 
----
+
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
 <center>
 <h2><b>SCHOLARSHIP & GRANT</b></h2>
 </center>
+
+---
 
 **NBCGSS Legacy Scholarship
 <span style="float:right;"> UNBC <span>**
