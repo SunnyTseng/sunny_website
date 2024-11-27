@@ -21,11 +21,11 @@ design:
 
 
 <!--Education-->
-<span style="color: #45cfb4">
+<span style="color: #45cfb4;">
 <h2><b>EDUCATION</b></h2>
 </span>
 
----
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
 <br>
@@ -47,6 +47,16 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
+<span style="color: #45cfb4">
+<h2><b>PUBLICATION</b></h2>
+</span>
+
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
+
+<div style="display: flex; align-items: baseline; color: #45cfb4;">
+    <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
+    <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
 
 
 
