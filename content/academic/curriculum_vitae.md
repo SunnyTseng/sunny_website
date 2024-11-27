@@ -116,7 +116,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 **Posit::conf
 <span style="float:right;"> Seattle, USA <span>**
-<br> Selected one of the 40 opportunity scholars of the year
+<br> Selected as one of the 40 opportunity scholars in the conference
 <span style="float:right;"> Aug.2024 <span>
 
 **AFO SCO-SOC WOS Joint Conference
@@ -588,7 +588,7 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 **NBCGSS Legacy Scholarship
 <span style="float:right;"> UNBC <span>**
-<br> For graduate student with contributions to the graduate student culture and graduate program
+<br> For graduate student with contributions to the graduate program
 <span style="float:right;"> Jun.2024 <span>
 <!-- 500 CAD -->
 
