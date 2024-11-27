@@ -21,9 +21,9 @@ design:
 
 
 <!--Education-->
-<center>
+<span style="color: #45cfb4 ;">
 <h2><b>EDUCATION</b></h2>
-</center>
+</span>
 
 ---
 
@@ -47,13 +47,17 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
-<center>
+<span style="color: #45cfb4 ;">
 <h2><b>PUBLICATION</b></h2>
-</center>
+</span>
 
----
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
 
-### JOURNAL ARTICLE
+
+<div style="display: flex; align-items: baseline; color: #45cfb4;">
+    <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
+    <div style="flex-grow: 1; border-bottom: 1px dashed #45cfb4; margin-left: 10px;"></div>
+</div>
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (In preparation)
 <br>
