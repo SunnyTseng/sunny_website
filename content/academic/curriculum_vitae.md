@@ -21,9 +21,9 @@ design:
 
 
 <!--Education-->
-<h2><b>EDUCATION</b></h2>
+<h2 style="text-align: center;"><b>EDUCATION</b></h2>
 
-<hr style="border: none; border-top: 1px solid #45cfb4;" />
+---
 
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
@@ -46,13 +46,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
-<h2><b>PUBLICATION</b></h2>
+<h2 style="text-align: center;"><b>PUBLICATION</b></h2>
 
-<hr style="border: none; border-top: 1px solid #45cfb4;" />
+---
 
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
 
@@ -81,7 +81,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
 
@@ -107,7 +107,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">ACADEMIC CONFERENCE</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
  
@@ -291,7 +291,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
 
@@ -341,18 +341,25 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--WORK EXPERIENCE-->
-<h2><b>WORK EXPERIENCE</b></h2>
+<h2 style="text-align: center;"><b>WORK EXPERIENCE</b></h2>
 
-<hr style="border: none; border-top: 1px solid #45cfb4;" />
+---
 
-
-### INFOGRAPIC DESIGNER
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+ 
 
 I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
 
 
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">DATA SCIENTIST</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
 
-### DATA SCIENTIST
+
 
 <details>
 <summary>R PROGRAMING CONTRACT</summary>
@@ -472,10 +479,9 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 <!--AWARDS-->
-<h2><b>AWARDS</b></h2>
+<h2 style="text-align: center;"><b>AWARD</b></h2>
 
-<hr style="border: none; border-top: 1px solid #45cfb4;" />
-
+---
 
 **Student Presentation Award
 <span style="float:right;"> SCO-SOC <span>**
@@ -574,9 +580,9 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
-<h2><b>SCHOLARSHIP & GRANT</b></h2>
+<h2 style="text-align: center;"><b>SCHOLARSHIP & GRANT</b></h2>
 
-<hr style="border: none; border-top: 1px solid #45cfb4;" />
+---
 
 
 
