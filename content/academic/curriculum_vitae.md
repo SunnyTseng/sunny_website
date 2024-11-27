@@ -21,11 +21,10 @@ design:
 
 
 <!--Education-->
-<span style="color: #45cfb4;">
 <h2><b>EDUCATION</b></h2>
-</span>
 
 <hr style="border: none; border-top: 1px solid #45cfb4;" />
+
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
 <br>
@@ -47,15 +46,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
-<span style="color: #45cfb4">
 <h2><b>PUBLICATION</b></h2>
-</span>
 
 <hr style="border: none; border-top: 1px solid #45cfb4;" />
 
-<div style="display: flex; align-items: baseline; color: #45cfb4;">
-    <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
-    <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
 </div>
 
 
@@ -82,7 +79,11 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-### POPULAR SCIENCE ARTICLE
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+</div>
+
 
 - Why do we band birds at all? **2024** *Nature Conservation Quarterly*, 124
 
@@ -104,8 +105,12 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">ACADEMIC CONFERENCE</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+</div>
 
-### ACADEMIC CONFERENCE
+ 
 <details open>
 <summary>2024</summary>
 
@@ -283,7 +288,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-### INVITED TALK & INTERVIEW
+
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px; color: #45cfb4;"></div>
+</div>
+
+
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
 <span style="float:right;"> BLISS <span>**
 <br> A weekly seminar for UBC students, visiting scholars and researchers
@@ -330,11 +341,10 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--WORK EXPERIENCE-->
-<center>
 <h2><b>WORK EXPERIENCE</b></h2>
-</center>
 
----
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
+
 
 ### INFOGRAPIC DESIGNER
 
@@ -462,11 +472,10 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 <!--AWARDS-->
-<center>
-<h2><b>AWARD</b></h2>
-</center>
+<h2><b>AWARDS</b></h2>
 
----
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
+
 
 **Student Presentation Award
 <span style="float:right;"> SCO-SOC <span>**
@@ -565,11 +574,11 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 <!--SCHOLARSHIPSandRESEARCHGRANT-->
-<center>
 <h2><b>SCHOLARSHIP & GRANT</b></h2>
-</center>
 
----
+<hr style="border: none; border-top: 1px solid #45cfb4;" />
+
+
 
 **NBCGSS Legacy Scholarship
 <span style="float:right;"> UNBC <span>**
