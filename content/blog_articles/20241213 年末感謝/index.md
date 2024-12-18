@@ -16,6 +16,16 @@ image:
   preview_only: true
 ---
 
+### # 感謝有貢獻感的工作們 - 人際關係、獨立、和堅持
+
+回顧過去的一年，覺得自己的工作就像是舞動的生命一樣，流到這裡流去那裡
+
+--- 關於設計
+
+最幸福的大概就是做這些事情完全都是為了己的選擇。
+
+覺得想要學 Vector Design 就跑去參加 BirdNote 的 logo 甄選，然後在一周之內跟 Gintas 兩個人把 inkscape 摸熟；覺得想要在朋友的
+
 ### # 感謝工作夥伴們 - 野生動物、鳥鳥、還有 Data Scientists
 
 在聖誕節將近的這周，一連參加了三個不同工作的聚會 (今年真的接了很多工作)。UBC Wild-Co lab 去了超級熱鬧的 bar、rOpenSci Championship program 從世界各地一起 zoom call (我的早上六點吃早餐)，到 Birds Canada 在餐廳大聊鳥鳥，再相約隔天一起淋雨去 Christmas Bird Count。
