@@ -57,13 +57,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2024** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (In preparation)
+- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Under review)
 <br>
 
-- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2024** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Under review)
+- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2025** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Under review)
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (Under review)
+- **Tseng, S.**, Hodder, D., and Otter, K. **2025** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (Under review)
 <br>
 
 - **Tseng, S.**, Hodder, D., and Otter, K. **2024** Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification. [*Avian Conservation and Ecology*, 19(1):article23.](https://ace-eco.org/vol19/iss1/art23/)
