@@ -585,6 +585,12 @@ I take design commissions for scientific visual design, focusing on wildlife con
 ---
 
 
+**Early Career Grant (Upcoming research project)
+<span style="float:right;"> National Geographic <span>**
+<br> Leading a fieldwork in Lithuania for avian acoustic monitoring
+<span style="float:right;"> May.2025 <span>
+<!-- 5,600 USD -->
+
 
 **NBCGSS Legacy Scholarship
 <span style="float:right;"> UNBC <span>**
@@ -641,12 +647,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <span style="float:right;"> Jan.2021 <span>
 <!-- 25,000 CAD -->
 
-
-**Early Career Grant (Upcoming research project)
-<span style="float:right;"> National Geographic <span>**
-<br> Leading a fieldwork in Siberia Arctic tundra for avian sound recordings
-<span style="float:right;"> Jun.2020 <span>
-<!-- 5,000 USD -->
 
 
 **Mary and David Macaree Fellowship
@@ -741,7 +741,7 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <!-- 80,000 TWD TWD -->
 
 
-
+<!--
 
 ## Others (volunteers and member and credential)
 
@@ -774,6 +774,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 \item{\textbf{Lifeguard License} Chinese Taipei Water Life Saving Association}
 
 
-
+-->
 
 
