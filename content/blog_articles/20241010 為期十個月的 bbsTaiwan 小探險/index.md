@@ -16,11 +16,16 @@ image:
   preview_only: true
 ---
 
-### 啟程，起飛，慢慢走
+關於我和 bbsTaiwan 的故事。
 
-「妳會對 Championship Program 有興趣的!」去年八月偶然和 Steffi 聊天，她這麼跟我說。我和 Steffi 提過我很想要學自己寫 R package，特別是看到她在做 bbsBayes 整個被啟發，看 Steffi 做事總是讓人有明星感。當時的我對於到底怎麼建一個 R package 所知不多。「妳會寫 function 對吧，那妳沒問題的啦!」就這樣，一步踏進了 R package developer 的旅程。
+2023 年的八月，我參加了位於 London, Ontario 的 SCO 會議，一年一度的加拿大鳥類學會議，吸引了超過四百多人參與，包含我和 Steffi。Steffi 水獺先生的 PhD 學生，但在我加入 lab 前幾年就畢業了，我們在 lab 的時間並沒有重疊，但關於她的故事卻是常常被流傳。她知道我對於 data science 的熱愛後，邀了我參與她主辦的 SCO-SOC R in ornithology seminar，我則是邀約她來 AAH 講了第一場工作坊。因為興趣及緣分，我們當過將近一年的筆友，互相交換彼此的生活。當初她剛搬到 MB 我則是剛到 PG，我在 PG 很艱困艱辛的時候，都幸好有 Steffi 一路上的鼓勵，不論是 data science career 上面或是 PhD 研究上面。
 
-收到錄取信的當下，整個興奮到要跳起來!天啊! 有人付我錢來教我想學的東西，是有沒有這麼幸運的機會。
+總而言之，那場會議的一大亮點就是跟筆友見面。
+
+「妳會對 Championship Program 有興趣的!」。我們見面後聊了許多，她像是前輩一樣充滿光環和熱情，她留下了兩個主要的建議，一個是 SCO-SOC 的 mentoring program (另一段驚喜的故事)，另一個是 rOpenSci 的 championship program - 簡單來說就是會有個人來教妳怎麼寫 R package，還會付妳錢。
+
+然後我就超幸運的申請上了。全球只有 10 個名額的第二屆 rOpenSci Championship program。收到錄取信的當下，在辦公室，整個興奮到要尖叫跳起來!
+
 
 
 
