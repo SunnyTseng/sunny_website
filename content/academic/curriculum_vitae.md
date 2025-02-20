@@ -60,7 +60,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Under review)
 <br>
 
-- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2025** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Under review)
+- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2025** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Accepted)
 <br>
 
 - **Tseng, S.**, Hodder, D., and Otter, K. **2025** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (In print)
@@ -109,6 +109,19 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">ACADEMIC CONFERENCE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
+
+
+
+<details open>
+<summary>2025</summary>
+
+**Ecological Data Science Summit ([meeting note](https://sunnytseng.ca/blog_articles/20250203-eds_mexico/))
+<span style="float:right;"> Santa Barbara, USA <span>**
+<br> Participants were teamed up to work on various projects related to AI usage
+<span style="float:right;"> Feb.2025 <span>
+
+</details>
+
 
  
 <details open>
