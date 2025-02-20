@@ -66,16 +66,16 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 - **Tseng, S.**, Hodder, D., and Otter, K. **2025** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (In print)
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2024** Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification. [*Avian Conservation and Ecology*, 19(1):article23.](https://ace-eco.org/vol19/iss1/art23/)
+- **Tseng, S.**, Hodder, D., and Otter, K. **2024** [Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification](https://ace-eco.org/vol19/iss1/art23/). *Avian Conservation and Ecology*, 19(1):article23.
 <br>
 
-- Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** **2021** Using Landsat imagery to assess burn severity of National Forest Inventory plots. [*Remote Sensing*, 12:10.](https://www.mdpi.com/2072-4292/13/10/1935)
+- Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** **2021** [Using Landsat imagery to assess burn severity of National Forest Inventory plots](https://www.mdpi.com/2072-4292/13/10/1935). *Remote Sensing*, 12:10.
 <br>
 
-- **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. **2021**. Automatic bird sound detection: Logistic model based acoustic occupancy model. [*Bioacoustics*, 30(3):324-340.](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+- **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. **2021**. [Automatic bird sound detection: Logistic model based acoustic occupancy model](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241). *Bioacoustics*, 30(3):324-340.
 <br>
 
-- **Tseng, Y.-C.**, and Chu, S.-W. **2017** High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. [*Plant Methods*, 13:43.](https://doi.org/10.1186/s13007-017-0194-2)
+- **Tseng, Y.-C.**, and Chu, S.-W. **2017** [High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer](https://doi.org/10.1186/s13007-017-0194-2). *Plant Methods*, 13:43.
 
 
 
@@ -127,18 +127,18 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2024</summary>
 
-**Posit::conf
+**Posit::conf ([meeting note](https://sunnytseng.ca/blog_articles/20240812-2024-posit-conf/))
 <span style="float:right;"> Seattle, USA <span>**
 <br> Selected as one of the 40 opportunity scholars in the conference
 <span style="float:right;"> Aug.2024 <span>
 
-**AFO SCO-SOC WOS Joint Conference
+**AFO SCO-SOC WOS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20240729-peoria-%E4%B9%8B-sco-annual-conference/))
 <span style="float:right;"> Peoria, USA <span>**
 <br> Evaluation and application of BirdNET: identification of bird species by their sounds (Oral)
 <span style="float:right;"> Aug.2024 <span>
 
 
-**International Ecoacoustic Congress
+**International Ecoacoustic Congress ([meeting note](https://sunnytseng.ca/blog_articles/20240705-%E9%A6%AC%E5%BE%B7%E9%87%8C%E4%B8%8D%E6%80%9D%E8%AD%B0%E4%B9%8B-ecoacoustic-congress/))
 <span style="float:right;"> Madrid, Spain <span>**
 <br> Setting BirdNET confidence thresholds: Species-specific vs. universal approaches (Oral)
 <span style="float:right;"> Jul.2024 <span>
@@ -157,13 +157,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2023</summary>
 
-**AOS-SCO Joint Conference
+**AOS-SCO Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230814-aos-in-london-ontario/))
 <span style="float:right;"> London, Canada <span>**
 <br> Large scale biodiversity assessment with bird sound (Poster)
 <span style="float:right;"> Aug.2023 <span>
 
 
-**BC/Canada TWS Joint Conference
+**BC/Canada TWS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230401-tws-conference-presentation/))
 <span style="float:right;"> Victoria, Canada <span>**
 <br> Passive acoustic as a tool to monitor individual Barred Owls (Oral)
 <span style="float:right;"> Mar.2023 <span>
@@ -226,7 +226,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details>
 <summary>2019</summary>
 
-**Annual meeting of Ecological Society of America
+**Annual meeting of Ecological Society of America ([meeting note](https://sunnytseng.ca/blog_articles/20190811-%E5%9C%8B%E9%9A%9B%E7%94%9F%E6%85%8B%E5%AD%B8%E7%A0%94%E8%A8%8E%E6%9C%83/))
 <span style="float:right;"> Louisville, USA <span>**
 <br> Relationships between successive forest fires: A case study in central interior BC, Canada (Poster)
 <span style="float:right;"> Aug.2019 <span>
