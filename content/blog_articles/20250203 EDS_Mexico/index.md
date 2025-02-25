@@ -98,6 +98,26 @@ PS.2 晚上在 Santa Barbara Hostel 吃的 Butter Chicken 真的超辣。明天�
 ![](./IMG_7740.jpeg)
 
 
+---
+### Post-summit summary
+
+
+Just came back from the 2025 Ecological Data Science Summit, where we had 100 ecologists from academia, NGOs, companies, and government policy makers gathering together discussing "The Future of AI in Conservation & Management". All the participants were grouped to work on various projects (that we had 3 days to work together). Here are some highlights of the summit:
+
+- Our group made this infographic to showcase the energy consumption of using large language model (LLM) and the tips that we, as an individual, can do to lower such energy consumption. I am personally using the ECOSIA search engine instead of google to avoid auto-generated results.
+
+- We also made this art piece to study the emotional impact of AI, where we invited participants to express their emotions towards AI using text, drawing, colour, or any visualization. We found that most participants have mixed emotions (excited, curious, cautious, worried, fatigue, etc). Messages of worries were like: "no regulations towards the use of the tool", "art requires people", and "we should focus on human interactions more".
+
+- There is another group created an [ArcGIS Dashboard to map the location of US data centers](https://mappingjustice.maps.arcgis.com/apps/dashboards/4778e54f1323451fa38f633375ed282e) and the energy source (wind, solar, coal, etc) that each data centers is using. I found it super informative, at least to know where these data centers are.
+
+There are few good readings about the opportunity (e.g., augmenting data-scarce datasets) and challenges (e.g., privacy risks, model biases and environmental effects) provided by AI in Ecology. Would recommend here:
+
+- [Generative AI as a tool to accelerate the field of ecology](https://www.nature.com/articles/s41559-024-02623-1) (Rafig et al., 2024, in Nature Ecology & Evolution)
+- [Beyond the Hype: Navigating the Conservation Implications of Artificial Intelligence](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13076) (Chris Sandbrook, in Conservation Letters)
+
+I personally also have mixed feelings about the AI, as I used BirdNET heavily in my bird acoustic analysis and the acoustic field has advanced so much with this tool. While I am also aware the harm that AI can cause, regarding the model bias, environmental impact, and the creation of arts and images. A lot of caution are required while using these tools.
+
+![](./AI%20Environmental%20Impact.jpg)
 
 
 ---
