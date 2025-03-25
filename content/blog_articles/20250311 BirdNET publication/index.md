@@ -1,7 +1,7 @@
 ---
 title: BirdNET publication
-subtitle: 
-summary: 
+subtitle: 每篇文章的背後，都是滿腹的用心與回憶
+summary: 博士研究的第二篇文章正式出場啦!燒燙燙、燙燙燒，是非常喜歡的 BirdNET 研究，同樣也是在心愛的期刊 Journal of Ornithology! (心愛期刊的標準是排版要漂亮)。
 
 date: 2025-03-11
 math: true
@@ -20,6 +20,8 @@ image:
 ### 整體來說
 
 博士研究的第二篇文章正式出場啦!燒燙燙、燙燙燒，是非常喜歡的 BirdNET 研究，同樣也是在心愛的期刊 Journal of Ornithology! (心愛期刊的標準是排版要漂亮)。
+
+期刊論文全文在這裡: https://rdcu.be/ebiVI
 
 正式上線其實已經是一個月前了，但無奈這幾周被鄰居的總統鬧場，整個楓葉國都翻滾地沸沸揚揚，直到現在才稍微安定一些，可以安靜地寫寫東西。
 
