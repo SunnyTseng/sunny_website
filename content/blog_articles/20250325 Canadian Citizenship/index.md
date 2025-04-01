@@ -30,9 +30,7 @@ image:
 - 2/27 通知已經在政府的系統上登錄公民申請，並已經開始審核
 - 3/18 通知必須在一個月內完成公民考試
 
-
+![alt text](image.png)
 
 (Bird box cleaning, Italian photographer, T-shirt design, fieldwork preparation)
-
-### Reading Notes
 
