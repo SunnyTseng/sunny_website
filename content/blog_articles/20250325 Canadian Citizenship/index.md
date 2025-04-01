@@ -32,7 +32,7 @@ image:
 
 
 
-(Bird box cleaning, Italian, fieldwork preparation)
+(Bird box cleaning, Italian photographer, T-shirt design, fieldwork preparation)
 
 ### Reading Notes
 
