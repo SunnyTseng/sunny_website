@@ -17,7 +17,7 @@ image:
   preview_only: true
 ---
 
-### 申請加拿大公民
+## 申請加拿大公民
 
 回想起與加拿大移民署（IRCC）的交手，從 2017 年 8 月 26 號，落地加拿大的那刻就開始了。學生簽證、學生簽證補發、工作簽證，一路上都覺得能在國外存活的人們都好不可思議。最後是手續繁複到不行的 PR 申請，途中還因為 COVID 回台灣住了一年半。從 2020 二月開始申請，一直到 2022 年 1 月 22 號，才正式成為加拿大永久居民。
 
@@ -33,4 +33,81 @@ image:
 ![alt text](image.png)
 
 (Bird box cleaning, Italian photographer, T-shirt design, fieldwork preparation)
+
+
+## Rights and responsibilities of citizenship 公民的責任與義務
+
+### 大憲章 Manga Carta (Great Charter of Freedoms) in 1215 
+- Conscience and religion
+- Thoughts, belief, opinion, expression, speech and press
+- Assembly
+- Association
+
+### 加拿大憲法 Canadian Charter of Rights and Freedoms in 1982 
+- Mobility right
+- Aboriginal people's right
+- Official language rights and minotiry language educational rights
+- Multiculturalism
+
+### Citizenship responsibilities
+- Obeying the law
+- Taking responsibility for oneself and one's family
+- Serving on jury
+- Voting in elections
+- Helping others in the community
+- Protecting and enjoying our heritage and environment
+
+
+## Who we are 我們是誰
+
+We are the only consititutional monarchy in North America. Our institutions uphold a commitment to Peace, Order, and Good Government, a key phrase in Canada's original consititutional document in 1867, the British North America Act. The poets and songwriters have hailed Canada as the "Great Dominion". 
+
+### Aborigial peoples
+The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago. From 1800s until the 1980s, the federal government placed many aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture. Aboriginal languages and cultural practices were mostly prohibited. In 2008, Ottwa formally apologized to the former students. 
+
+Today, the term Aboriginal peoples refers to three distinct groups: 
+- Indian/First Nations (65%): who are not Inuit or Metis. 
+- Inuit (4%): which means "the people" in the Inuktitut language.  
+- Metis (30%): a distinct people of mixed Aboriginal and European ancestry, having their own language, Michif. 
+
+### English and French
+English and French defines the reality of day-to-day life for most people and are the country's official languages. 18 million Anglophones and 7 million Francophones. New Brunswick is the only officially bilingual province. 
+
+- Acadians: the descendants of French colonists who began settling in Maritime provinces and got deported between 1755 - 1763, during the war between Britian and France. 
+- Quebecers: the people of Quebec, Anglo-Quebecers.
+- Anglophones: English-Canadian.
+
+
+### Diversity in Canada
+Canada is often referred to as a land of immigrants. Since the 1970s, most immigrants have come from Asian countries. Chinese languages are the second most-spoken at home, after English. In Vancouver, 13% of the population speak Chinese languages. 
+
+The largest religious affiliation is Catholic, followed by various Protestant churches. Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage. 
+
+
+## Canada's history 加拿大歷史
+
+### Aboriginal peoples
+When Europeans explored Canada they found all regions occupied by native peoples they called Indians, because the first explorers thought they had reached the East Indies. Large numbers of Aboriginals died of European diseases to which they lacked immunity. 
+
+### The first Europeans
+The Vikings from Iceland who colonized Greeland also reached Labrador and the island of Newfoundland. John Cabot, in 1497, was the first to draw a map of Canada's East Coast. 
+
+Jacques Cartier claimed the land for King Francis I. Two captured guides speak the Iroquoian word "Kanata", meaning "village". Later the name of "Canada" began appearing on maps. 
+
+### Royal new France
+In 1604, the first European settlement was established by French explorers Pierre de Monts and Samuel de Champlain, in Maine and Nova Scotia (Acadia). The French and Aboriginal people collaborated in the vast fur-trade economy (beaver pelt). 
+
+### Struggle for a continent
+In 1670s, King Charles II of England granted the Hudson's Bay Company exclusive trading rights over the watershed draining into Hudson Bay. English colonies eventually became richer and more populous than New France. In the 1700s, France and Great Britian battled for control of North America. In 1759, the British defeated the French in the Battle of the Plains of Abraham. 
+
+Following the war, Great Britian renamed the colony the "Province of Quebec." The French speaking people, known as habitants or Canadiens, preserve their way of life in the English-speaking British Empire. 
+
+### A tradition of accommodation
+The British Parliament passed the Quebec Act of 1774, one of the constitutional foundations of Canada, to better govern the French majority. The Quebec Act restored French civil law while maintaining British criminal law. 
+
+### United empire loyalists
+In 1776, the 13 British colonies to the south of Quebec declared independence and formed the United States. North America was again divided by war. More than 40,000 people loyal to the Crown, called "Loyalists" fled to settle in Nova Scotia and Quebec. 
+
+### The beginning of democracy
+Democratic institutions developed gradually and peacefully. The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Then PEI and New Brunswick. In 1791, The Constitutional Act divided the Province of Quebec to Upper Canada (later Ontario) and Lower Canada (later Quebec). 
 
