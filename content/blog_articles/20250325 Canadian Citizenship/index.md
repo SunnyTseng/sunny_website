@@ -37,25 +37,30 @@ image:
 
 ## Rights and responsibilities of citizenship 公民的責任與義務
 
-### 大憲章 Manga Carta (Great Charter of Freedoms) in 1215 
+### 大憲章 Manga Carta (Great Charter of Freedoms) in 1215
+Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law.  
 - Conscience and religion
 - Thoughts, belief, opinion, expression, speech and press
 - Assembly
 - Association
 
-### 加拿大憲法 Canadian Charter of Rights and Freedoms in 1982 
+### 加拿大憲章 Canadian Charter of Rights and Freedoms in 1982 
+The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms, which begin with the words, "Whereas Canada is founded upon principles that recognize the supremacy of God and the fule of law." 
+
 - Mobility right
 - Aboriginal people's right
 - Official language rights and minotiry language educational rights
 - Multiculturalism
 
 ### Citizenship responsibilities
+There is no compulsory millitary services in Canada. However, there are some responsibilities, including:
 - Obeying the law
 - Taking responsibility for oneself and one's family
 - Serving on jury
 - Voting in elections
 - Helping others in the community
 - Protecting and enjoying our heritage and environment
+
 
 
 ## Who we are 我們是誰
@@ -73,7 +78,7 @@ Today, the term Aboriginal peoples refers to three distinct groups:
 ### English and French
 English and French defines the reality of day-to-day life for most people and are the country's official languages. 18 million Anglophones and 7 million Francophones. New Brunswick is the only officially bilingual province. 
 
-- Acadians: the descendants of French colonists who began settling in Maritime provinces and got deported between 1755 - 1763, during the war between Britian and France. 
+- Acadians: the descendants of French colonists who began settling in Maritime provinces and got deported between 1755 - 1763 "Great Upheaval", during the war between Britian and France. 
 - Quebecers: the people of Quebec, Anglo-Quebecers.
 - Anglophones: English-Canadian.
 
@@ -82,6 +87,8 @@ English and French defines the reality of day-to-day life for most people and ar
 Canada is often referred to as a land of immigrants. Since the 1970s, most immigrants have come from Asian countries. Chinese languages are the second most-spoken at home, after English. In Vancouver, 13% of the population speak Chinese languages. 
 
 The largest religious affiliation is Catholic, followed by various Protestant churches. Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage. 
+
+![Me and Alice in Williams Lake](./IMG_4780.JPG)
 
 
 ## Canada's history 加拿大歷史
@@ -94,20 +101,48 @@ The Vikings from Iceland who colonized Greeland also reached Labrador and the is
 
 Jacques Cartier claimed the land for King Francis I. Two captured guides speak the Iroquoian word "Kanata", meaning "village". Later the name of "Canada" began appearing on maps. 
 
-### Royal new France
+### Royal new France 
 In 1604, the first European settlement was established by French explorers Pierre de Monts and Samuel de Champlain, in Maine and Nova Scotia (Acadia). The French and Aboriginal people collaborated in the vast fur-trade economy (beaver pelt). 
 
 ### Struggle for a continent
 In 1670s, King Charles II of England granted the Hudson's Bay Company exclusive trading rights over the watershed draining into Hudson Bay. English colonies eventually became richer and more populous than New France. In the 1700s, France and Great Britian battled for control of North America. In 1759, the British defeated the French in the Battle of the Plains of Abraham. 
 
+### A tradition of accommodation - Quebec Act (1774)
 Following the war, Great Britian renamed the colony the "Province of Quebec." The French speaking people, known as habitants or Canadiens, preserve their way of life in the English-speaking British Empire. 
 
-### A tradition of accommodation
 The British Parliament passed the Quebec Act of 1774, one of the constitutional foundations of Canada, to better govern the French majority. The Quebec Act restored French civil law while maintaining British criminal law. 
 
-### United empire loyalists
+### US independence in 1776: united empire loyalists
 In 1776, the 13 British colonies to the south of Quebec declared independence and formed the United States. North America was again divided by war. More than 40,000 people loyal to the Crown, called "Loyalists" fled to settle in Nova Scotia and Quebec. 
 
-### The beginning of democracy
-Democratic institutions developed gradually and peacefully. The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Then PEI and New Brunswick. In 1791, The Constitutional Act divided the Province of Quebec to Upper Canada (later Ontario) and Lower Canada (later Quebec). 
+### The beginning of democracy - Constitutional Act (1791)
+The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Then PEI and New Brunswick. In 1791, The Constitutional Act divided the Province of Quebec to Upper Canada (later Ontario) and Lower Canada (later Quebec). The name Canada became official and collectively known as British North America. 
 
+### The War of 1812: the fight for Canada
+The United States launched an invasion to Canada, which they burned Government House and the Parliament Buildings in York (now Toronto). In retaliation, Robert Ross led an expedition that burned down the White House and other buildings in Washington, D.C. The present-day Canada-USA border is partly an outcome of the War of 1812, which ensured that Canada would remain independent of the US. 
+
+### Confederation - British North America Act (1867)
+In 1840, upper and lower Canada were united as the Province of Canada. The first British North America colony to attain full responsible government was Nova Scotia. 
+
+From 1864 - 1867, representatives of Nova Scotia, New Brunswick and the Province of Canada, with British support, worked together to establish a new country. They created two levels of government: federal and provincial. The Province of Canada was split into two new provinces: Ontario and Quebec. 
+
+The British Parliament passed the British North America Act, and the Dominion of Canada was officially born on July 1, 1867, which is known as Canada Day. The first prime minister is Sir John Alexander Macdonald. 
+
+### Challenge in the west (1867 - 1871)
+After the Metis uprising in Manitoba and Saskatchewan, PM Macdonald established the North West Mounted Police (NWMP) to pacify the West and assist in negotiations with the Indians, with Regina as the headquarters. Toady, the Royal Canadian Mounted Police (RCMP) are the nationa lpolice force and one of Canada's best-known symbols. 
+
+British Columbia joined Canada in 1871 after Ottwa promised to build a railway to the West Coast, Canadian Pacific Railway (CPR). Afterwards the Chinese were subject to discrimination, including the had tax. The government apologized in 2006. 
+
+
+### The first world war & women get the vote (1914)
+More than 600,000 Canadians served in the first world war in 1914. At the time of Confederation, the vote was limited to proterty-owned adult white males. The women's suffrage movement. Its founder was Dr. Emily Stowe, the first Canadian woman to practise medicine in Canada. In 1916, Manitoba became the first province to grant voting rights to women. In 1921, Agnes Macphail became the first woman MP. 
+
+
+### Between the wars 
+The British Empire evolved into a free association of states known as the British Coommonwealth of Nations, including India, Australia, New Zealand, and several African and Caribbean countries. 
+
+The stock market crash of 1929, led to the Great Depression or the "Dirty Thirties." Unemployment reached 27% in 1933. The Bank of Canada was created in 1934 to manage the money supply. 
+
+
+### The second world war (1939 - 1945)
+Canada joined with its democratic allies in the fight to defeat tyranny by force of arms. In the Pacific war, Japan invaded the Aleutian Islands, attached a lighthouse on Vancouver Island. Regrettably, relocation of Canadians of Japanese origin by the federal government was done after Japan surrendered. The government of Canada apologized in 1988. 
