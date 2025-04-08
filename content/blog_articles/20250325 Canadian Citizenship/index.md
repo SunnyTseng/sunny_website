@@ -45,7 +45,7 @@ Habeas corpus, the right to challenge unlawful detention by the state, comes fro
 - Association
 
 #### 加拿大憲章 Canadian Charter of Rights and Freedoms in 1982 
-The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms, which begin with the words, "Whereas Canada is founded upon principles that recognize the supremacy of God and the fule of law." 
+The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms, which begin with the words, "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law." 
 
 - Mobility right
 - Aboriginal people's right
@@ -61,7 +61,7 @@ There is no compulsory millitary services in Canada. However, there are some res
 - Helping others in the community
 - Protecting and enjoying our heritage and environment
 
-
+![](IMG_2323.JPG)
 
 ### Who we are 我們是誰
 
@@ -146,3 +146,6 @@ The stock market crash of 1929, led to the Great Depression or the "Dirty Thirti
 
 #### The second world war (1939 - 1945)
 Canada joined with its democratic allies in the fight to defeat tyranny by force of arms. In the Pacific war, Japan invaded the Aleutian Islands, attached a lighthouse on Vancouver Island. Regrettably, relocation of Canadians of Japanese origin by the federal government was done after Japan surrendered. The government of Canada apologized in 1988. 
+
+![](IMG_0984.JPG)
+
