@@ -35,7 +35,7 @@ image:
 (Bird box cleaning, Italian photographer, T-shirt design, fieldwork preparation)
 
 
-### Rights and responsibilities of citizenship 公民的責任與義務
+### Ch1. Rights and responsibilities of citizenship 公民的責任與義務
 
 #### 大憲章 Manga Carta (Great Charter of Freedoms) in 1215
 Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law.  
@@ -61,9 +61,9 @@ There is no compulsory millitary services in Canada. However, there are some res
 - Helping others in the community
 - Protecting and enjoying our heritage and environment
 
-![](IMG_2323.JPG)
+![](IMG_0823.JPG)
 
-### Who we are 我們是誰
+### Ch2. Who we are 我們是誰
 
 We are the only consititutional monarchy in North America. Our institutions uphold a commitment to Peace, Order, and Good Government, a key phrase in Canada's original consititutional document in 1867, the British North America Act. The poets and songwriters have hailed Canada as the "Great Dominion". 
 
@@ -83,7 +83,7 @@ English and French defines the reality of day-to-day life for most people and ar
 - Anglophones: English-Canadian.
 
 
-#### Diversity in Canada
+#### Ch3. Diversity in Canada
 Canada is often referred to as a land of immigrants. Since the 1970s, most immigrants have come from Asian countries. Chinese languages are the second most-spoken at home, after English. In Vancouver, 13% of the population speak Chinese languages. 
 
 The largest religious affiliation is Catholic, followed by various Protestant churches. Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage. 
@@ -91,7 +91,7 @@ The largest religious affiliation is Catholic, followed by various Protestant ch
 ![Me and Alice in Williams Lake](./IMG_4780.JPG)
 
 
-### Canada's history 加拿大歷史
+### Ch4. Canada's history 加拿大歷史
 
 #### Aboriginal peoples
 When Europeans explored Canada they found all regions occupied by native peoples they called Indians, because the first explorers thought they had reached the East Indies. Large numbers of Aboriginals died of European diseases to which they lacked immunity. 
@@ -149,3 +149,69 @@ Canada joined with its democratic allies in the fight to defeat tyranny by force
 
 ![](IMG_0984.JPG)
 
+
+### Ch5. Modern Canada 現代加拿大
+
+#### Trade trade economic growth
+The world's restrictive trading policies in the Depression era were opened up by such treaties as the General Agreement on Tariffs and Trade (GATT), now the World Trade Organization (WTO). The discovery of oil in Alberta in 1947 began Canada's modern energy industry. The Canada Health Act ensures common elements and a basic standard of coverage. 
+
+#### International engagement
+Canada joined with other democratic countries of the West to form the North Atlantic Treaty Organization (NATO), a military alliance, and wit hthe United States in the North American Aerospace Defence Command (NORAD). 
+
+#### Canada and Quebec
+Quebec experienced an era of rapid change in the 1960s known as the Wuiet Revolution. Many Quebecers sought to separate from Canada. In 1963, Parliament established the Royal Commission on Bilingualism and Biculturalism. 
+
+After much negotiation, in 1982, the Constitution was amended without the agreement of Quebec. The autonomy of Quebec within Canada remains a lively topic, part of the dynamic that continues to shape our country. 
+
+#### A changing society
+Today every citizen over the age of 18 may vote. Canada welcomed throusands of refugees from Communist oppression, including about 37,000 who escaped Soviet tyranny in Hungary in 1956. By the 1960s, one-third of Canadians had origins that were neither British nor French, and took pride in preserving their distinct culture in the Canadian fabric. 
+
+#### Arts and culture in Canada
+Emily Carr painted the forests and Aboriginal artifacts of the West Coast. Basketball was invented by Canadian James Naismith in 1891. Many major league sports boast Canadian talent and in the national sport of ice hockey. One of the best hockey players of all time, Wayne Gretzky, played for the Edmonton Oilers from 1979 to 1988. In 1980, Terry Fox, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the "Marathon of Hope," to raise money for cancer research. 
+
+#### Great Canadian discoveries and inventions
+- Telephone (Alexander Graham Bell)
+- Snowmobile
+- World system of standard time zones
+- Electric light bulb
+- Wireless voice message
+- Cardiac pacemaker
+- BlackBerry cellphone
+
+![](./IMG_9649.JPG)
+
+
+
+### Ch6. How Canadians Govern 加拿大政府
+
+There are three key facts about Canada's system of government: our country is a federal state, a parliamentary democracy and a constitutional monarchy. 
+
+#### Fedaral state
+There are federal, provincial, territorial and municipal governments in Canada. The responsibilities of these levels were defined in 1867 the British North America Act, now known as the Constitution Act. 
+
+Every province has its own elected Legislative Assembly, like the House of Commons in Ottawa. The three northern territories do not have the status of provinces, but their governments and assemblies carry out many of the same functions. 
+
+- Federal: Prime Minister & members of parliament
+- Provincial: Primer/Commissioner & members of the legislature
+
+
+#### Parliamentary democracy
+The people elect members to the House of Commons in Ottwa and to the provincial and territorial legislatures. Cabinet ministers are responsible to the elected representatives, which means they must retain the "confidence of the House" and have to resign if they are defeated in a non-confidence vote. 
+
+Parliament has three parts:
+1. Sovereign: Queen or King
+2. House of Commons (眾議院) -> made up by members of parliament elected by the people (4 years)
+3. Senate (參議院) -> made up by senators, appointed by the Governor General on the advice of the Prime Minister (until age 75)
+
+
+#### Constitutional monarchy
+As a constitutional monarchy, Canada's Head of State is Sovereign (Queen or King), who reigns in accordance with the Constitution: the rule of law. As head of the commonwealth, the sovereign links Canada to 53 other nations that cooperate to advance social, economic and cultural progress. 
+
+There is a clear distinction in Canada between the head of state (the sovereign) and the head of government (the prime ministor). 
+
+The sovereign is represented in Canada by the Governor General (5 years), and represented in Provinces by the Lieutenant Governor (5 years), appointed by the Governor General with the advice of the Prime Minister. 
+
+![](./IMG_2323.JPG)
+
+
+### Ch7. Federal elections
