@@ -192,7 +192,7 @@ There are federal, provincial, territorial and municipal governments in Canada. 
 Every province has its own elected Legislative Assembly, like the House of Commons in Ottawa. The three northern territories do not have the status of provinces, but their governments and assemblies carry out many of the same functions. 
 
 - Federal: Prime Minister & members of parliament
-- Provincial: Primer/Commissioner & members of the legislature
+- Provincial: Primer & members of the legislature
 
 
 #### Parliamentary democracy
@@ -214,4 +214,162 @@ The sovereign is represented in Canada by the Governor General (5 years), and re
 ![](./IMG_2323.JPG)
 
 
-### Ch7. Federal elections
+### Ch7. Federal elections 聯邦選舉
+Canadians vote in elections for the people they want to represent them in the House of Commons. Members of the House of Commons are also known as members of Parliament or MPs. 
+
+Canada is divided into 308 electoral districts, also known as ridings or constituencies. Canadian citizens who are 18 years old or older may run in a federal election. The people in each electoral district vote for the candidate and political party of their choice. 
+
+#### Voting
+You are eligible to vote in a federal election or cast a ballot in a federal referedum if you are: 
+
+- a Canadian citizen
+- at least 18 years old on voting day
+- on the voter's list (National Register of Electors by Election Canada)
+
+#### After the election
+The leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government. If the party in power holds at least half of the seats in the House of Common, this is called a majority government; if the party in power holds less than half of the seats in the House of Commons, this is called a minority government. 
+
+if a majority of the members of the House of Commons vote against a major government decision, the party in power is defeated, which usually results in the Prime Minister asking the Governor General, on behalf of the Sovereign, to call an election. 
+
+The prime minister and the Cabinet ministers are called the Cabinet. The opposition party with the most members of the House of Commons is the Official Opposition or Her Majesty's Loyal Opposition. 
+
+- Conservative Party
+- New Democratic Party
+- Liberal Party
+
+#### Other levels of government in Canada
+Municipal governments usually have a council that passes laws called "by-laws" that affect only the local community. 
+
+
+
+### Ch8. The justice system 司法系統
+The Canadian justice system guarantees everyone due process under the law. Our judical system is founded on the presumption of innocence in criminal matters, meaning everyone is innocent until proven guilty. 
+
+#### Courts 
+The supreme court of Canada is our country's highest court. In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen's Bench or the Supreme Court. 
+
+#### Police
+There are provincial police forces in Ontario and Quebec and municipal police departments in all provinces. The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada and serve as the provincial police in all provinces and territories except Ontario and Quebec. 
+
+
+
+### Ch9. Canada's symbols 加拿大的代表物
+
+#### The Canadian Crown 
+The crown is a symbol of government, including Parliament, the legislatures, the courts, police services and the Canadian Forces. 
+
+#### Flags in Canada
+A new Canadian flag was raised for the first time in 1965. The red-white-red pattern comes from the flag of the Royal Military College, Kingston, founded in 1876. Red and white had been colours of France and England and the national colours of Canada. The Union Jack is our official Royal Flag. 
+
+#### Maple leaf
+The maple leaf is Canada's best-known symbol. 
+
+#### The Fleur-de-lys
+It's said that the lily flower was adopted by the French king in the year of 496. Quebec adopted its own flag, based on the Cross and the fleur-de-lys. 
+
+#### Coat of arms and motto
+Canada adopted an official coat of arms and a national motto, meaning "from sea to sea". The arms contain symbols of England, France, Scotland and Ireland, as well as red maple leaves. 
+
+#### Parliament buildings
+The peace tower was completed in the momory of the First World War. The memorial Chamber within the Tower contains the books of rememberance in which are written the names of soldiers, sailors, and airmen who died serving Canada in wars or while on duty. 
+
+#### Popular sports
+Hockey is Canada's most popular spectator sport and is considered to be the national winter sport. 
+
+#### The beaver
+The beaver was adopted centuries ago as a symbol of the Hudson's Bay Company. This industrious rodent can be seen on the five-cent coin, on the coats of arms of Saskatchewan and Alberta, and of cities such as Montreal and Toronto. 
+
+#### Canada's official languages
+English and French are the two official languages and are important symbols of identity. Parliament passed the Official Languages Act in 1969, to establish equality between French and English in Prliament, maintain and develop official language minority communities in Canada, and Promote equality of Fench and English in Canadian society. 
+
+
+#### national anthem
+O Canada... "O Canada! Our home and native land!"
+
+#### The order of Canada and other honours
+Official awards are called honours, consisting of orders, decorations, and medals. Canada started its own honours system with the Order of Canada in 1976. The Victoria cross (V.C.) is the highest honour available to Caiadians. 
+
+
+### Ch10. Canada's economy 加拿大的經濟
+As Canadians, we could not maintain our standard of living without engaging in trade with other nations. Today, Canada has one of the ten largest economies in the world and is part of the G8 group of leading industrialized countries with the US, Germany, the UK, Italy, France, Japan, and Russia. Canada's economy includes three main types of industries:
+
+- Service industries: More than 75% of working Canadians now have jobs in service industries. 
+- Manufacturing industries: Making products to sell in Canada and around the world. Our largest trading partner is United States. 
+- Natural resources industries: forestry, fishing, agriculture, mining and energy. 
+
+Canada enjoys close relations with the United States and each is the other's largest trading partner. Over three-quarters of Canadian exports are destined for the USA. 
+
+
+
+
+### Ch11. Canada's regions 加拿大地理
+Canada is teh second largest country on earth - 10 millions square kilometers. Three ocean line Canada's frontiers: The Pacific Ocean, Atlantic Ocean, and the Arctic Ocean.   
+
+#### General overview of Canada
+Ottwa, located on the Ottwa River, was chosen as the capital in 1857 by Queen Victoria. Today it is Canada's fourth largest metropolitan area. Canada has 10 provinces and 3 territories. Canada has a population of 34 million people. 
+
+Provincial capitals 
+- Atlantic provinces
+  - Newfoundland and Laborador: St Jone's 
+  - Prince Edward Island: Charlottetown
+  - Nova Scotia: Halifax
+  - New Brunswick: Federicton
+
+- Central Canada
+  - Quebec: Quebec city
+  - Ontario: Toronto
+
+- Prairie Provinces
+  - Manitoba: Winnipeg
+  - Saskatchewan: Regina
+  - Alberta: Edmonton
+
+- West Coast
+  - British Columbia: Victoria 
+
+- North
+  - Nunavut: Iqaluit
+  - Northwest Territories: Yellowknife
+  - Yukon Territory: Whitehorse
+
+#### Newfoundland and Laborador
+The most easterly point in North America and has its own time zone. The oldest colony of the British Empire and a strategic prize in Canada's early history. Labradoe also has immense hydro-electric resources. 
+
+#### Prince Edward Idland
+The smallest province, known for its beaches, red soil and agriculture, especially potatoes. PEI is the birthplace of Confederation, connected to mainland Canada by one of the longest continuous multispan bridges in the world, the Confederation Bridge. 
+
+#### Nova Scotia
+Nova Scotia is the most populous Atlantic Province, with rich history as the gateway to Canada, known for the world's highest tides in the Bay of Fundy. Halifax has played an important role in Atlantic trade and defence and is home to Canada's largest naval base. Nova Scotia is home to over 700 annual festivals. 
+
+#### New Brunswick
+The province was founded by the United Empire Loyalists and has the second largest river system on North America's Atlantic coastline, the St. John River system. New Brunswick is the only officially billingual province, and about 1/3 of the population lives and works in French. 
+
+#### Quebec
+The vast majority of the population live along or near the St. Lawrence River. More than 3/4 speak French as their first language. The province huge supply of fresh water has made it Canada's largest producer of hydro-electricity. Montreal, Canada's second largest city is famous for its cltural diversity. 
+
+#### Ontario
+The people of Ontario make up more than 1/3 of Canadians. Toronto is the largest city in Canada. There are five Great Lakes located between Ontario and the US, with Lake Superior the largest freshwater lake in the world. 
+
+#### Manitoba
+Manitoba is also an important centre of Ukrainian culture, and the largest Aboriginal population of any province, at over 15%. 
+
+#### Saskatchewan
+Once known as the breadbasket of the world and the wheat province, is the country's largest producer of grains and oilseeds. It's home to the training academy of the Royal Canadian Mounted Police. 
+
+#### Alberta
+The most populous Prairie province. Alberta is the largest poroducer of oil and gas, and the oil sands in the north are being developed as a major energy source. 
+
+#### British Columbia
+About half of all the goods produced in BC are forestry products, including lumber, newsprint, and pulp and paper products - the most valuable forestry inductry in Canada. BC has the most extensive park system in Canada, with about 600 provincial parks. 
+
+#### Yukon
+Thousands of miners came to the Yukon during the Gold Rush of the 1890s. Yukon holds the record for the coldest temperature ever recorded in Canada (-63C).
+
+#### Northwest Territories 
+Yellowknif is called the diamond capital of North America. More than half of the population is Aboriginal. 
+
+#### Nunavut 
+Nunavut meaning "our land". 
+
+
+
