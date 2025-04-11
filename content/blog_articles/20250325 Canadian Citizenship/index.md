@@ -83,7 +83,7 @@ English and French defines the reality of day-to-day life for most people and ar
 - Anglophones: English-Canadian.
 
 
-#### Ch3. Diversity in Canada
+### Diversity in Canada 
 Canada is often referred to as a land of immigrants. Since the 1970s, most immigrants have come from Asian countries. Chinese languages are the second most-spoken at home, after English. In Vancouver, 13% of the population speak Chinese languages. 
 
 The largest religious affiliation is Catholic, followed by various Protestant churches. Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage. 
@@ -91,7 +91,7 @@ The largest religious affiliation is Catholic, followed by various Protestant ch
 ![Me and Alice in Williams Lake](./IMG_4780.JPG)
 
 
-### Ch4. Canada's history 加拿大歷史
+### Ch3. Canada's history 加拿大歷史
 
 #### Aboriginal peoples
 When Europeans explored Canada they found all regions occupied by native peoples they called Indians, because the first explorers thought they had reached the East Indies. Large numbers of Aboriginals died of European diseases to which they lacked immunity. 
@@ -150,7 +150,7 @@ Canada joined with its democratic allies in the fight to defeat tyranny by force
 ![](IMG_0984.JPG)
 
 
-### Ch5. Modern Canada 現代加拿大
+### Ch4. Modern Canada 現代加拿大
 
 #### Trade trade economic growth
 The world's restrictive trading policies in the Depression era were opened up by such treaties as the General Agreement on Tariffs and Trade (GATT), now the World Trade Organization (WTO). The discovery of oil in Alberta in 1947 began Canada's modern energy industry. The Canada Health Act ensures common elements and a basic standard of coverage. 
@@ -182,7 +182,7 @@ Emily Carr painted the forests and Aboriginal artifacts of the West Coast. Baske
 
 
 
-### Ch6. How Canadians Govern 加拿大政府
+### Ch5. How Canadians Govern 加拿大政府
 
 There are three key facts about Canada's system of government: our country is a federal state, a parliamentary democracy and a constitutional monarchy. 
 
@@ -214,7 +214,7 @@ The sovereign is represented in Canada by the Governor General (5 years), and re
 ![](./IMG_2323.JPG)
 
 
-### Ch7. Federal elections 聯邦選舉
+### Ch6. Federal elections 聯邦選舉
 Canadians vote in elections for the people they want to represent them in the House of Commons. Members of the House of Commons are also known as members of Parliament or MPs. 
 
 Canada is divided into 308 electoral districts, also known as ridings or constituencies. Canadian citizens who are 18 years old or older may run in a federal election. The people in each electoral district vote for the candidate and political party of their choice. 
@@ -242,7 +242,7 @@ Municipal governments usually have a council that passes laws called "by-laws" t
 
 
 
-### Ch8. The justice system 司法系統
+### Ch7. The justice system 司法系統
 The Canadian justice system guarantees everyone due process under the law. Our judical system is founded on the presumption of innocence in criminal matters, meaning everyone is innocent until proven guilty. 
 
 #### Courts 
@@ -253,7 +253,7 @@ There are provincial police forces in Ontario and Quebec and municipal police de
 
 
 
-### Ch9. Canada's symbols 加拿大的代表物
+### Ch8. Canada's symbols 加拿大的代表物
 
 #### The Canadian Crown 
 The crown is a symbol of government, including Parliament, the legislatures, the courts, police services and the Canadian Forces. 
@@ -290,7 +290,7 @@ O Canada... "O Canada! Our home and native land!"
 Official awards are called honours, consisting of orders, decorations, and medals. Canada started its own honours system with the Order of Canada in 1976. The Victoria cross (V.C.) is the highest honour available to Caiadians. 
 
 
-### Ch10. Canada's economy 加拿大的經濟
+### Ch9. Canada's economy 加拿大的經濟
 As Canadians, we could not maintain our standard of living without engaging in trade with other nations. Today, Canada has one of the ten largest economies in the world and is part of the G8 group of leading industrialized countries with the US, Germany, the UK, Italy, France, Japan, and Russia. Canada's economy includes three main types of industries:
 
 - Service industries: More than 75% of working Canadians now have jobs in service industries. 
@@ -302,7 +302,7 @@ Canada enjoys close relations with the United States and each is the other's lar
 
 
 
-### Ch11. Canada's regions 加拿大地理
+### Ch10. Canada's regions 加拿大地理
 Canada is teh second largest country on earth - 10 millions square kilometers. Three ocean line Canada's frontiers: The Pacific Ocean, Atlantic Ocean, and the Arctic Ocean.   
 
 #### General overview of Canada
