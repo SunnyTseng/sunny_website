@@ -83,7 +83,7 @@ English and French defines the reality of day-to-day life for most people and ar
 - Anglophones: English-Canadian.
 
 
-### Diversity in Canada 
+#### Diversity in Canada 
 Canada is often referred to as a land of immigrants. Since the 1970s, most immigrants have come from Asian countries. Chinese languages are the second most-spoken at home, after English. In Vancouver, 13% of the population speak Chinese languages. 
 
 The largest religious affiliation is Catholic, followed by various Protestant churches. Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage. 
