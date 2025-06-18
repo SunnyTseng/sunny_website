@@ -47,7 +47,7 @@ social:
 
   
 superuser: false
-title: 
+title: Sunny Tseng
 ---
 
 Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. I work as an independent consultant, offering services as an **R data scientist** and **scientific infographic designer**. If you're interested in collaborating or learning more, feel free to get in touch!
