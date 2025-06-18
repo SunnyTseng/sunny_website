@@ -58,5 +58,4 @@ Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. I
 
 - 🐦 I'm an ornithologist focused on avian acoustic research, but I'm also interested in many other bird-related topics—like bird ringing, nest box building, and taxidermy. Check out my popular science articles where I share these fun experiences!
 
-Want to learn more? Check out the full version of [my CV](https://sunnytseng.ca/academic/)!
 
