@@ -350,19 +350,16 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details>
 <summary>R PACKAGE DEVELOPER</summary>
 
-**Birds Canada
-<span style="float:right;"> Sep.2024 -- present <span>**
-<br> Process field collected ARU data through BirdNET
+**birdnetTools
+<span style="float:right;"> Jan.2025 - July.2025 <span>**
+<br> main developer, maintainer
 
 
-**Endemic Species Research Institute
-<span style="float:right;"> Apr.2020 -- Jul.2021 <span>**
-<br> Field bird survey & eBird citizen science data analysis 
+**bbsTaiwan
+<span style="float:right;"> Oct.2023 - Nov.2024 <span>**
+<br> main developer, maintainer
 
 
-**Birds Canada
-<span style="float:right;"> Feb.2020 -- Mar.2020 <span>**
-<br> Digitalize historical BC bird survey data
 
 </details>
 
@@ -373,17 +370,17 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <summary>R SCRIPT DEVELOPMENT</summary>
 
 **Birds Canada
-<span style="float:right;"> Sep.2024 -- present <span>**
+<span style="float:right;"> Sep.2024 - present <span>**
 <br> Process field collected ARU data through BirdNET
 
 
 **Endemic Species Research Institute
-<span style="float:right;"> Apr.2020 -- Jul.2021 <span>**
+<span style="float:right;"> Apr.2020 - Jul.2021 <span>**
 <br> Field bird survey & eBird citizen science data analysis 
 
 
 **Birds Canada
-<span style="float:right;"> Feb.2020 -- Mar.2020 <span>**
+<span style="float:right;"> Feb.2020 - Mar.2020 <span>**
 <br> Digitalize historical BC bird survey data
 
 </details>
@@ -398,7 +395,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 **Applied Analysis Hub (TA)
 <span style="float:right;"> UNBC <span>**
 <br> Instructor: Eduardo Martins, Heather Bryan
-<span style="float:right;"> Sep.2021 -- present <span>
+<span style="float:right;"> Sep.2021 - present <span>
 
 
 **NRES 776 Advanced Statistical Analyses for Natural Resource Sciences (co-instructor)

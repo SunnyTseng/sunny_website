@@ -47,14 +47,16 @@ social:
 
   
 superuser: false
-title: Sunny Tseng
+title: Sunny Tseng 曾奕晴
 ---
 
-Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. ❤️ Growing up, I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. When I am not in the office, you can often find me outside hiking, recording, swimming (scuba diving), or simply staying home enjoying a cup of tea.
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan. I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. I work as an independent consultant, offering services as an **R data scientist** and **scientific infographic designer**. If you're interested in collaborating or learning more, feel free to get in touch!
 
+- 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)!
 
-- 🐦 I’m a PhD candidate working on avian acoustics, living in Vancouver, Canada.
-- 🎨 I’m taking commissions for scientific infographics! Check out [my works](https://sunnytseng.ca/science)! 😸
-- 💻 I’m taking contracts for R teaching and data analysis, currently polishing my skills in developing R packages. 
+- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)!
 
-{{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf" "newtab" >}}CV{{< /staticref >}} for more info!
+- 🐦 I'm an ornithologist focused on avian acoustic research, but I'm also interested in many other bird-related topics—like bird ringing, nest box building, and taxidermy. Check out my popular science articles where I share these fun experiences!
+
+Want to learn more? Check out the full version of [my CV](https://sunnytseng.ca/academic/)!
+
