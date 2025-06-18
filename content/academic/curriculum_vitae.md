@@ -49,12 +49,11 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <h2 style="text-align: center;"><b>PUBLICATION</b></h2>
 
 ---
-
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-
+<br>
 
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. Nature Ecology and Evolution (In Revision)
@@ -78,46 +77,55 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 - **Tseng, Y.-C.**, and Chu, S.-W. **2017** **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
 
 
-
+<br>
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
+<br>
+
+- **為鳥兒戴上腳環身分證──捕獲、標記及野放下的鳥兒點點名 Why do we band birds at all?** [2024 Nature Conservation Quarterly, 124](https://github.com/SunnyTseng/sunny_cv/blob/main/%E7%82%BA%E9%B3%A5%E5%85%92%E6%88%B4%E4%B8%8A%E8%85%B3%E7%92%B0%E8%BA%AB%E5%88%86%E8%AD%89%E6%8D%95%E7%8D%B2%E6%A8%99%E8%A8%98%E5%8F%8A%E9%87%8E%E6%94%BE%E4%B8%8B%E7%9A%84%E9%B3%A5%E5%85%92%E9%BB%9E%E9%BB%9E%E5%90%8D-%E8%B7%A8.pdf)
+
+- **倉鴞巢箱建造大隊 Nest boxes for barn owl conservation** [2023 Nature Conservation Quarterly, 122](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf)
+
+- **河狸大壩垮下來 When beaver dam collapses** [2023 Nature Conservation Quarterly, 121](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf)
+
+- **Listening to the whispers of the wings**  [2023 Discovery, 50(1):85-90]((https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link))
+
+- **我家後院有黑熊 Hey, there are wild black bears in my backyard** [2022 Nature Conservation Quarterly, 117](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf)
+
+- **鳥類錄音的管理、編輯與上傳 2 Avian field recordings (II)** [2021 Feathers, 301:22-27](https://www.bird.org.tw/feather)
+
+- **鳥類錄音的管理、編輯與上傳 1 Avian field recordings (I)** [2021 Feathers, 300:38-41](https://www.bird.org.tw/feather)
+
+- **Apply statistics on bird "listening"**  [2019 Discovery, 47(1):21-22](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG)
+
+- **Can statistics help ornithologists "hear" birds?** [2018 BranchLines, 29(3):11](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11)
 
 
-- Why do we band birds at all? **2024** *Nature Conservation Quarterly*, 124
-
-- [Nest boxes for barn owl conservation](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf) **2023** *Nature Conservation Quarterly*, 122
-
-- [When beaver dam collapses](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf) **2023** *Nature Conservation Quarterly*, 121 
-
-- [Listening to the whispers of the wings](https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link)  **2023** *Discovery*, 50(1):85-90
-
-- [Hey, there are wild black bears in my backyard](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf) **2022** *Nature Conservation Quarterly*, 117
-
-- [Avian field recordings (II)](https://www.bird.org.tw/feather) **2021** *Feathers*, 301:22-27
-
-- [Avian field recordings (I)](https://www.bird.org.tw/feather) **2021** *Feathers*, 300:38-41
-
-- [Apply statistics on bird "listening"](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG)  **2019** *Discovery*, 47(1):21-22
-
-- [Can statistics help ornithologists "hear" birds?](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11) **2018** *BranchLines*, 29(3):11
 
 
-
+<br>
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">ACADEMIC CONFERENCE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
+<span style="float:right;"> ★ conference award received <span>
 
 
 <details open>
 <summary>2025</summary>
 
-**Ecological Data Science Summit ([meeting note](https://sunnytseng.ca/blog_articles/20250203-eds_mexico/))
+**SCO-SOC Annual Meeting
+<span style="float:right;"> Saskatoon, Canada <span>**
+<br> Logo & merchandize designer, art booth, BirdNET workshop organizer, invited seminar speaker
+<span style="float:right;"> Aug.2025 <span>
+
+
+**Ecological Data Science Summit ([meeting note](https://sunnytseng.ca/blog_articles/20250203-eds_mexico/)) ★
 <span style="float:right;"> Santa Barbara, USA <span>**
-<br> Participants were teamed up to work on various projects related to AI usage
+<br> Invited by conference organizer for discussion of current AI use in ecology
 <span style="float:right;"> Feb.2025 <span>
 
 </details>
@@ -127,12 +135,12 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2024</summary>
 
-**Posit::conf ([meeting note](https://sunnytseng.ca/blog_articles/20240812-2024-posit-conf/))
+**Posit::conf ([meeting note](https://sunnytseng.ca/blog_articles/20240812-2024-posit-conf/)) ★
 <span style="float:right;"> Seattle, USA <span>**
-<br> Selected as one of the 40 opportunity scholars in the conference
+<br> Selected as one of the 40 opportunity scholars, early career software developer 
 <span style="float:right;"> Aug.2024 <span>
 
-**AFO SCO-SOC WOS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20240729-peoria-%E4%B9%8B-sco-annual-conference/))
+**AFO SCO-SOC WOS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20240729-peoria-%E4%B9%8B-sco-annual-conference/)) ★
 <span style="float:right;"> Peoria, USA <span>**
 <br> Evaluation and application of BirdNET: identification of bird species by their sounds (Oral)
 <span style="float:right;"> Aug.2024 <span>
@@ -154,7 +162,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-<details open>
+<details>
 <summary>2023</summary>
 
 **AOS-SCO Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230814-aos-in-london-ontario/))
@@ -163,13 +171,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Aug.2023 <span>
 
 
-**BC/Canada TWS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230401-tws-conference-presentation/))
+**BC/Canada TWS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230401-tws-conference-presentation/)) ★
 <span style="float:right;"> Victoria, Canada <span>**
 <br> Passive acoustic as a tool to monitor individual Barred Owls (Oral)
 <span style="float:right;"> Mar.2023 <span>
 
 
-**UNBC Research Week
+**UNBC Research Week ★
 <span style="float:right;"> Prince George, Canada <span>**
 <br> Passive acoustic as a tool to monitor individual Barred Owls (Oral)
 <span style="float:right;"> Feb.2023 <span>
@@ -200,7 +208,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Aug.2021 <span>
 
 
-**Congress of Animal Behavior and Ecology
+**Congress of Animal Behavior and Ecology ★
 <span style="float:right;"> Tainan, Taiwan <span>**
 <br> Modelling avian annual cycle distribution in Taiwan using citizen science data (Oral)
 <span style="float:right;"> Feb.2021 <span>
@@ -250,7 +258,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Aug.2018 <span>
 
 
-**Annual Meeting of Soundscape Association
+**Annual Meeting of Soundscape Association *
 <span style="float:right;"> Taipei, Taiwan <span>**
 <br> Automatic bird sound detection: Logistic regression based acoustic occupancy model (Poster)
 <span style="float:right;"> Jun.2018 <span>
@@ -301,11 +309,12 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
+<br>
+
 
 
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
@@ -496,6 +505,12 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 ---
 
+**SCO-SOC Taverner Award
+<span style="float:right;"> SCO-SOC <span>**
+<br> Awarded for outstanding ornithological research in Canada
+<span style="float:right;"> Apr.2025 <span>
+
+
 **Student Presentation Award
 <span style="float:right;"> SCO-SOC <span>**
 <br> Best oral presentation in the annual conference in Peoria, Illinois
@@ -598,7 +613,15 @@ I take design commissions for scientific visual design, focusing on wildlife con
 ---
 
 
-**Early Career Grant (Upcoming research project)
+
+**Michael Smith Foreign Study Supplements
+<span style="float:right;"> NSERC <span>**
+<br> Leveloping an R package for BirdNET in Chemnitz, Germany
+<span style="float:right;"> June.2025 <span>
+<!-- 6,000 CAD -->
+
+
+**Early Career Grant
 <span style="float:right;"> National Geographic <span>**
 <br> Leading a fieldwork in Lithuania for avian acoustic monitoring
 <span style="float:right;"> May.2025 <span>
