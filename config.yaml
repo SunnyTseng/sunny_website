@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 日光小島 Sunshine Island # Website name
+title: 曾奕晴 Sunny Tseng # Website name
 baseurl: 'https://sunnytseng.ca' # Website URL
-copyright: '© 2024 Sunny Tseng' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Sunny Tseng' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
