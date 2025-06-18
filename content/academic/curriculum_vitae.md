@@ -77,33 +77,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 - **Tseng, Y.-C.**, and Chu, S.-W. **2017** **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
 
 
-<br>
-<div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
-</div>
-<br>
-
-- **為鳥兒戴上腳環身分證──捕獲、標記及野放下的鳥兒點點名 Why do we band birds at all?** [2024 Nature Conservation Quarterly, 124](https://github.com/SunnyTseng/sunny_cv/blob/main/%E7%82%BA%E9%B3%A5%E5%85%92%E6%88%B4%E4%B8%8A%E8%85%B3%E7%92%B0%E8%BA%AB%E5%88%86%E8%AD%89%E6%8D%95%E7%8D%B2%E6%A8%99%E8%A8%98%E5%8F%8A%E9%87%8E%E6%94%BE%E4%B8%8B%E7%9A%84%E9%B3%A5%E5%85%92%E9%BB%9E%E9%BB%9E%E5%90%8D-%E8%B7%A8.pdf)
-
-- **倉鴞巢箱建造大隊 Nest boxes for barn owl conservation** [2023 Nature Conservation Quarterly, 122](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf)
-
-- **河狸大壩垮下來 When beaver dam collapses** [2023 Nature Conservation Quarterly, 121](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf)
-
-- **Listening to the whispers of the wings**  [2023 Discovery, 50(1):85-90]((https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link))
-
-- **我家後院有黑熊 Hey, there are wild black bears in my backyard** [2022 Nature Conservation Quarterly, 117](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf)
-
-- **鳥類錄音的管理、編輯與上傳 2 Avian field recordings (II)** [2021 Feathers, 301:22-27](https://www.bird.org.tw/feather)
-
-- **鳥類錄音的管理、編輯與上傳 1 Avian field recordings (I)** [2021 Feathers, 300:38-41](https://www.bird.org.tw/feather)
-
-- **Apply statistics on bird "listening"**  [2019 Discovery, 47(1):21-22](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG)
-
-- **Can statistics help ornithologists "hear" birds?** [2018 BranchLines, 29(3):11](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11)
-
-
-
 
 <br>
 <div style="display: flex; align-items: baseline;">
@@ -367,24 +340,15 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 ---
 
-<div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
-</div>
- 
-
-I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
-
-
+<!--work - data scientist-->
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">DATA SCIENTIST</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
 
-
 <details>
-<summary>R PROGRAMING CONTRACT</summary>
+<summary>R PACKAGE DEVELOPER</summary>
 
 **Birds Canada
 <span style="float:right;"> Sep.2024 -- present <span>**
@@ -403,8 +367,33 @@ I take design commissions for scientific visual design, focusing on wildlife con
 </details>
 
 
+
+
 <details>
-<summary>COURSE INSTRUCTOR & TEACHING ASSISTANT</summary>
+<summary>R SCRIPT DEVELOPMENT</summary>
+
+**Birds Canada
+<span style="float:right;"> Sep.2024 -- present <span>**
+<br> Process field collected ARU data through BirdNET
+
+
+**Endemic Species Research Institute
+<span style="float:right;"> Apr.2020 -- Jul.2021 <span>**
+<br> Field bird survey & eBird citizen science data analysis 
+
+
+**Birds Canada
+<span style="float:right;"> Feb.2020 -- Mar.2020 <span>**
+<br> Digitalize historical BC bird survey data
+
+</details>
+
+
+
+
+
+<details>
+<summary>COURSE TEACHING</summary>
 
 **Applied Analysis Hub (TA)
 <span style="float:right;"> UNBC <span>**
@@ -496,6 +485,49 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <span style="float:right;"> Jan.2018 -- Apr.2018 <span>
 
 </details>
+
+
+
+<!--work - infographic designer-->
+<br>
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+ 
+
+I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
+
+
+<!--work - popular science writer-->
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">POPULAR SCIENCE WRITER</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+<br>
+
+- **為鳥兒戴上腳環身分證──捕獲、標記及野放下的鳥兒點點名 Why do we band birds at all?** [2024 Nature Conservation Quarterly, 124](https://github.com/SunnyTseng/sunny_cv/blob/main/%E7%82%BA%E9%B3%A5%E5%85%92%E6%88%B4%E4%B8%8A%E8%85%B3%E7%92%B0%E8%BA%AB%E5%88%86%E8%AD%89%E6%8D%95%E7%8D%B2%E6%A8%99%E8%A8%98%E5%8F%8A%E9%87%8E%E6%94%BE%E4%B8%8B%E7%9A%84%E9%B3%A5%E5%85%92%E9%BB%9E%E9%BB%9E%E5%90%8D-%E8%B7%A8.pdf)
+
+- **倉鴞巢箱建造大隊 Nest boxes for barn owl conservation** [2023 Nature Conservation Quarterly, 122](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-07-03_1336134904.pdf)
+
+- **河狸大壩垮下來 When beaver dam collapses** [2023 Nature Conservation Quarterly, 121](https://github.com/SunnyTseng/sunny_cv/blob/main/2023-04-17_0744599592.pdf)
+
+- **Listening to the whispers of the wings**  [2023 Discovery, 50(1):85-90]((https://drive.google.com/file/d/1dJVMvOMULfuDzc_YATCUpOdxOxK6YwaX/view?usp=share_link))
+
+- **我家後院有黑熊 Hey, there are wild black bears in my backyard** [2022 Nature Conservation Quarterly, 117](https://github.com/SunnyTseng/sunny_cv/blob/main/2022-03-31_1337080532.pdf)
+
+- **鳥類錄音的管理、編輯與上傳 2 Avian field recordings (II)** [2021 Feathers, 301:22-27](https://www.bird.org.tw/feather)
+
+- **鳥類錄音的管理、編輯與上傳 1 Avian field recordings (I)** [2021 Feathers, 300:38-41](https://www.bird.org.tw/feather)
+
+- **Apply statistics on bird "listening"**  [2019 Discovery, 47(1):21-22](https://drive.google.com/open?id=1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG)
+
+- **Can statistics help ornithologists "hear" birds?** [2018 BranchLines, 29(3):11](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf#page=11)
+
+
+
+
+
 
 
 
