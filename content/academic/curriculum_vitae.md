@@ -57,25 +57,25 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. *Nature Ecology and Evolution* (Under review)
+- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. Nature Ecology and Evolution (In Revision)
 <br>
 
-- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2025** Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*. (Accepted)
+- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. **2025** **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2025** Setting BirdNET confidence thresholds: Species-specific vs. universal approaches. *Journal of Ornithology*. (In print)
+- **Tseng, S.**, Hodder, D., and Otter, K. **2025** **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. **2024** [Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification](https://ace-eco.org/vol19/iss1/art23/). *Avian Conservation and Ecology*, 19(1):article23.
+- **Tseng, S.**, Hodder, D., and Otter, K. **2024** **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
 <br>
 
-- Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** **2021** [Using Landsat imagery to assess burn severity of National Forest Inventory plots](https://www.mdpi.com/2072-4292/13/10/1935). *Remote Sensing*, 12:10.
+- Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** **2021** **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
 <br>
 
-- **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. **2021**. [Automatic bird sound detection: Logistic model based acoustic occupancy model](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241). *Bioacoustics*, 30(3):324-340.
+- **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. **2021** **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
 <br>
 
-- **Tseng, Y.-C.**, and Chu, S.-W. **2017** [High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer](https://doi.org/10.1186/s13007-017-0194-2). *Plant Methods*, 13:43.
+- **Tseng, Y.-C.**, and Chu, S.-W. **2017** **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
 
 
 
