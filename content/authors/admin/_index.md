@@ -50,12 +50,12 @@ superuser: false
 title: Sunny Tseng
 ---
 
-Hi, this is Sunny! I was born and raised in the beautiful country of Taiwan, and now call Vancouver, Canada my second home — both places I hold close to my heart. I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. I work as an independent consultant, offering services as an **R data scientist** and **scientific infographic designer**. If you're interested in collaborating or learning more, feel free to get in touch!
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan, and now call Vancouver, Canada my second home — both places I hold close to my heart. I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. I work as an independent consultant, offering services as an **R data scientist** and **scientific infographic designer**. If you're interested in collaborating or learning more, feel free to get in touch!
 
 - 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)!
 
 - 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)!
 
-- 🐦 I'm an ornithologist focused on avian acoustic research, but I'm also interested in many other bird-related topics—like bird ringing, nest box building, and taxidermy. Check out my popular science articles where I share these fun experiences!
+- 🐦 I'm an ornithologist focused on avian acoustic research, also interested in many other bird-related topics—like bird ringing, nest box building, and taxidermy. Check out my popular science articles where I share these fun experiences!
 
 
