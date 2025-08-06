@@ -50,12 +50,12 @@ superuser: false
 title: Sunny Tseng
 ---
 
-Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan, and now call Vancouver, Canada, my second home. I’ve spent much of my career conducting bird-related scientific research in Siberia, Taiwan, Canada, and Lithuania, collecting bird sounds from more than 300 species. Exploring this world with great enthusiasm and self-reflection is how I guide my life. I am a PhD candidate, also work as an **Ecological R data scientist** and **infographic designer**. Feel free to get in touch if you are curious about the service!
+Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan, and now call Vancouver, Canada, my second home. I’ve spent much of my career conducting bird-related scientific research in Siberia, Taiwan, Canada, and Lithuania, collecting bird sounds from more than 300 species. Exploring this world with great enthusiasm and self-reflection is how I guide my life. I am a PhD candidate, also work as an **ecological R data scientist** and **infographic designer**. Feel free to get in touch!
 
-- 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)!
+- 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)
 
-- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)!
+- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)
 
-- 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection (~300 species around the world) can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)!
+- 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection (~300 species around the world) can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)
 
 
