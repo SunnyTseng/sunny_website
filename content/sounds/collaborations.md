@@ -11,7 +11,7 @@ weight: 40
 
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Corporations'
+title: 'Collaborations'
 subtitle:
 
 # Date format
@@ -27,13 +27,29 @@ date_format: Jan 2006
 #     sunny_website\themes\githubcom\wowchemy\wowchemy-hugo-modules\wowchemy\v5\assets\media\icons
 
 item:
+
+- date_start: "2022-05-30"
+  organization: Bird Buddy
+  title: Smart bird feeder recognition - Bird Buddy Team
+  url: https://mybirdbuddy.com/
+
+- date_start: "2023-03-09"
+  organization: Bird guide app
+  title: Collins Bird Guide (Yellow-billed Loon) - Lars Svensson
+  url: https://en.wikipedia.org/wiki/Collins_Bird_Guide
+
+- date_start: "2025-07-24"
+  organization: Movie
+  title: Emergence Magazine ep2 - Adam Amir
+  url: https://www.folkfilmmaking.org/Emergence/Seasons/n-SWXRcd
+
 - certificate_url: 
   date_end: 
   date_start: "2022-04-01"
   description: 
   organization: AudioBook
   organization_url: 
-  title: Exploring the Nature from Literature - On The Road
+  title: 台灣聲景系列有聲套書 - On The Road 遍路文化
   url: https://readmoo.com/campaign/2022/3/audiobooks_nature/index
 
 - certificate_url: 
@@ -56,7 +72,7 @@ item:
 
 - certificate_url: 
   date_end: 
-  date_start: "2021-05-08"
+  date_start: "2025-07-07"
   description: 
   organization: Podcast
   organization_url: 
@@ -87,7 +103,7 @@ item:
   description: 
   organization: Artwork
   organization_url: 
-  title: 休留 (Do Not Stop) - Vincent Yu
+  title: 休留 Do Not Stop - Vincent Yu
   url: https://soundcloud.com/vincent-yu-254738818/demo-0627n-2db
 
 - certificate_url: 
@@ -96,7 +112,7 @@ item:
   description: 
   organization: XenoCanto
   organization_url: 
-  title: North East Siberia (Webpage Spotlight) - Willem-Pier Vellinga
+  title: North East Siberia Webpage Spotlight - Willem-Pier Vellinga
   url: https://www.xeno-canto.org/collection/spotlight/105
 
 

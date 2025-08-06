@@ -16,6 +16,42 @@ image:
   preview_only: true
 ---
 
+### 布拉格的黑暗故事 with Gintas (July 19 Sat.)
+
+### 再見 Chemnitz (July 17 Thur.)
+
+在整理房間的時候，把自己推成一堆的發票一張一張疊好，有 EDEKA 的、Decathon、Penny、車票、門票...。想到之前在 EDEKA 
+
+看到媽媽捲成一團的發票，
+
+### Deresden castle 還有一般般 VR 體驗 (July 16 Tue.)
+
+和 Gintas 去 Castle ，第一次自己搭火車
+
+### Resbenstain 游泳 (July 14 Mon.)
+
+約了 Max 和薇恩，中途又加了 Josef 和 Stefan，西瓜大餐、游泳跳水
+
+三個人的背影
+
+跳水，當天晚上睡超級好
+
+### Zwinserg 皇宮瓷器展、地下通道迷宮，Dresden 太誇張的美! 還有 Gintas 終於來了 (July 13 Sun.)
+
+去了地下的影展，碰碰碰的突然聽到
+
+去了瓷器展覽，寫錯字的瓷器
+
+最後再去火車站接 Gintas 
+
+
+### Industrial museum 下雨天的工業博物館 (July 12 Sat.)
+
+再一個周末的下雨天，好像把前幾個月的澎湃，程暫時畫下了休息的記號。那天的 Chemnitz 只有 13 到 16 度，夏天只有這個溫度也真的是很冷，我窩在被窩，
+
+
+
+
 ### Erfurt 一個人的旅行 (July 11 Fri.)
 
 不等 Gintas 了。想來 Erfurt 很久了就自己來。一早從 Chemnitz 出發一直錯過火車，有班車是原本誤點，後來不誤點了，就錯過了。早上第一次搭了替代火車的巴士，還蠻迅速的，只是站牌有點難找。一路上還是心神不寧，跟 Gintas 的爭吵到昨天都還沒有結論，邊走都能邊掉淚。
