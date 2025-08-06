@@ -56,6 +56,6 @@ Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan, a
 
 - 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)
 
-- 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection (~300 species around the world) can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)
+- 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)
 
 
