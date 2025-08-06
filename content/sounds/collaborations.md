@@ -29,17 +29,17 @@ date_format: Jan 2006
 item:
 
 - date_start: "2022-05-30"
-  organization: Bird Buddy
+  organization: App
   title: Smart bird feeder recognition - Bird Buddy Team
   url: https://mybirdbuddy.com/
 
 - date_start: "2023-03-09"
-  organization: Bird guide app
+  organization: App
   title: Collins Bird Guide (Yellow-billed Loon) - Lars Svensson
   url: https://en.wikipedia.org/wiki/Collins_Bird_Guide
 
 - date_start: "2025-07-24"
-  organization: Movie
+  organization: Youtube
   title: Emergence Magazine ep2 - Adam Amir
   url: https://www.folkfilmmaking.org/Emergence/Seasons/n-SWXRcd
 
