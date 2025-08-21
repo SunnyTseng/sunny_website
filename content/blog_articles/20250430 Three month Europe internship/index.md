@@ -1,6 +1,6 @@
 ---
 title: 德國小鎮 Chemnitz 與 BirdNET 夥伴們一起的瘋狂夏天 
-subtitle: 
+subtitle: 從不認識到喜歡上，德國小鎮與歐洲生活的無限魅力
 summary: 拿到加拿大 MSFSS 獎學金前往德國 Chemnitz 小鎮住了兩個月，這兩個月，不僅遇見停水、暴雷雨、熱浪寒冷，一路上還遇見了大學同學、Stella & Derek、Philippa、帶貓到巴黎的 Ashelly，還有媽媽跟 Gintas 一起來增添德國的回憶。更不用說，新朋友、新工作、新環境的興奮，歐洲的夏天無限 lively，工作和玩耍都停不下來。
 date: 2025-04-30
 math: true
