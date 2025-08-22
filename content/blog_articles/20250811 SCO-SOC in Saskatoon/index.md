@@ -1,6 +1,6 @@
 ---
 title: SCO-SOC in Saskatoon 在藝術與科學中的加拿大鳥人小圈圈
-subtitle: 從設計 logo 到開工作坊還有個人的小擺攤，紀念 PhD 生涯
+subtitle: 那個天空也太美了吧!在車上看著天空，就想到了好像有這個說法，說 Saskatoon is "the land of living sky"。司機點點頭，說沒錯。校園裡的一切也是好熟悉，地鼠的尖叫、喜鵲到處飛，還有綠地以及溫暖的陽光，熟悉(又讓人一直迷路的)地下通道。
 summary: 
 
 date: 2025-08-11
