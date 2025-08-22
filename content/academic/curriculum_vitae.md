@@ -493,8 +493,16 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
+
+
 <details>
 <summary>WORKSHOP</summary>
+
+**BirdNET workshop (co-lead with Jenn Foote)
+<span style="float:right;"> USask <span>**
+<br> Host: SCO-SOC annual conference
+<span style="float:right;"> Aug.2025 <span>
+
 
 **Qualitative Analysis using R
 <span style="float:right;"> UNBC <span>**
@@ -550,115 +558,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
  
 
 I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
-
-
-
-
-
-
-
-<!--AWARDS-->
-<h2 style="text-align: center;"><b>AWARD</b></h2>
-
----
-
-**SCO-SOC Taverner Award
-<span style="float:right;"> SCO-SOC <span>**
-<br> Awarded for outstanding ornithological research in Canada
-<span style="float:right;"> Apr.2025 <span>
-
-
-**Student Presentation Award
-<span style="float:right;"> SCO-SOC <span>**
-<br> Best oral presentation in the annual conference in Peoria, Illinois
-<span style="float:right;"> Aug.2024 <span>
-
-
-<!--
-**Student & Early Professional Travel Funding
-<span style="float:right;"> AFO-SCO-WOS Joint Conference <span>**
-<br> A travel award judged based on the quality of the abstract submitted
-<span style="float:right;"> Jul.2024 <span>
-
-
-**Graduate Student Travel Award
-<span style="float:right;"> UNBC <span>**
-<br> A travel award provided by UNBC Office of Research and Innovation
-<span style="float:right;"> Jul.2024 <span>
-
-
-**ESM Travel Grant Award
-<span style="float:right;"> UNBC <span>**
-<br> A travel award provided by Ecosystem Science and Management Department in UNBC
-<span style="float:right;"> Jun.2024 <span>
-
-
-**Student Travel Award
-<span style="float:right;"> BC & CAN TWS <span>**
-<br> Outstanding proposal in The Wildlife Society conference
-<span style="float:right;"> Mar.2023 <span>
--->
-
-**Best Student Presentation Award
-<span style="float:right;"> BC & CAN TWS <span>**
-<br> Best student oral presentation in The Wildlife Society conference
-<span style="float:right;"> Mar.2023 <span>
-
-
-
-**3 Minute Thesis Award
-<span style="float:right;"> UNBC <span>**
-<br> 1st place \& people's choice of UNBC 3MT competition
-<span style="float:right;"> Feb.2023 <span>
-
-
-**Teaching Excellence Award
-<span style="float:right;"> UNBC <span>**
-<br> Outstanding teaching performance as a teaching assistant
-<span style="float:right;"> Sep.2022 <span>
-
-
-**Outstanding Oral Presentation Award
-<span style="float:right;"> CABE <span>**
-<br> Outstanding oral presentations in Congress of Animal Behavior and Ecology
-<span style="float:right;"> Feb.2021 <span>
-
-
-**Master of Data Science TA Award
-<span style="float:right;"> UBC <span>**
-<br> Best TAs in Master of Data Science program of the academic year
-<span style="float:right;"> Jun.2019 <span>
-
-
-**3 Minute Thesis Award
-<span style="float:right;"> UBC <span>**
-<br> First place of 3MT competition in UBC Faculty of Forestry
-<span style="float:right;"> Feb.2019 <span>
-
-<!--
-**International Tuition Award
-<span style="float:right;"> UBC <span>**
-<br> International graduate student registered full-time in research-oriented master’s programs
-<span style="float:right;"> Sep.2017 <span>
--->
-
-
-**College Student Research Creativity Award
-<span style="float:right;"> MOST <span>**
-<br> Top 5\% ranked research report
-<span style="float:right;"> Aug.2017 <span>
-
-
-**Outstanding Poster and Presentation Award
-<span style="float:right;"> NTU <span>**
-<br> Ranked 1, out of 14 groups, in physics department poster competition
-<span style="float:right;"> Apr.2016 <span>
-
-
-**President Award
-<span style="float:right;"> NTU <span>**
-<br> Top 5\% ranked student in the semester
-<span style="float:right;"> Jan.2016 <span>
 
 
 
@@ -817,6 +716,116 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <br> Excellent research proposal
 <span style="float:right;"> Jun.2016 <span>
 <!-- 20,000 TWD -->
+
+
+
+
+<!--AWARDS-->
+<h2 style="text-align: center;"><b>AWARD</b></h2>
+
+---
+
+**SCO-SOC Taverner Award
+<span style="float:right;"> SCO-SOC <span>**
+<br> Awarded for outstanding ornithological research in Canada
+<span style="float:right;"> Apr.2025 <span>
+
+
+**Student Presentation Award
+<span style="float:right;"> SCO-SOC <span>**
+<br> Best oral presentation in the annual conference in Peoria, Illinois
+<span style="float:right;"> Aug.2024 <span>
+
+
+<!--
+**Student & Early Professional Travel Funding
+<span style="float:right;"> AFO-SCO-WOS Joint Conference <span>**
+<br> A travel award judged based on the quality of the abstract submitted
+<span style="float:right;"> Jul.2024 <span>
+
+
+**Graduate Student Travel Award
+<span style="float:right;"> UNBC <span>**
+<br> A travel award provided by UNBC Office of Research and Innovation
+<span style="float:right;"> Jul.2024 <span>
+
+
+**ESM Travel Grant Award
+<span style="float:right;"> UNBC <span>**
+<br> A travel award provided by Ecosystem Science and Management Department in UNBC
+<span style="float:right;"> Jun.2024 <span>
+
+
+**Student Travel Award
+<span style="float:right;"> BC & CAN TWS <span>**
+<br> Outstanding proposal in The Wildlife Society conference
+<span style="float:right;"> Mar.2023 <span>
+-->
+
+**Best Student Presentation Award
+<span style="float:right;"> BC & CAN TWS <span>**
+<br> Best student oral presentation in The Wildlife Society conference
+<span style="float:right;"> Mar.2023 <span>
+
+
+
+**3 Minute Thesis Award
+<span style="float:right;"> UNBC <span>**
+<br> 1st place \& people's choice of UNBC 3MT competition
+<span style="float:right;"> Feb.2023 <span>
+
+
+**Teaching Excellence Award
+<span style="float:right;"> UNBC <span>**
+<br> Outstanding teaching performance as a teaching assistant
+<span style="float:right;"> Sep.2022 <span>
+
+
+**Outstanding Oral Presentation Award
+<span style="float:right;"> CABE <span>**
+<br> Outstanding oral presentations in Congress of Animal Behavior and Ecology
+<span style="float:right;"> Feb.2021 <span>
+
+
+**Master of Data Science TA Award
+<span style="float:right;"> UBC <span>**
+<br> Best TAs in Master of Data Science program of the academic year
+<span style="float:right;"> Jun.2019 <span>
+
+
+**3 Minute Thesis Award
+<span style="float:right;"> UBC <span>**
+<br> First place of 3MT competition in UBC Faculty of Forestry
+<span style="float:right;"> Feb.2019 <span>
+
+<!--
+**International Tuition Award
+<span style="float:right;"> UBC <span>**
+<br> International graduate student registered full-time in research-oriented master’s programs
+<span style="float:right;"> Sep.2017 <span>
+-->
+
+
+**College Student Research Creativity Award
+<span style="float:right;"> MOST <span>**
+<br> Top 5\% ranked research report
+<span style="float:right;"> Aug.2017 <span>
+
+
+**Outstanding Poster and Presentation Award
+<span style="float:right;"> NTU <span>**
+<br> Ranked 1, out of 14 groups, in physics department poster competition
+<span style="float:right;"> Apr.2016 <span>
+
+
+**President Award
+<span style="float:right;"> NTU <span>**
+<br> Top 5\% ranked student in the semester
+<span style="float:right;"> Jan.2016 <span>
+
+
+
+
 
 
 <!--
