@@ -146,7 +146,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2025</summary>
 
-**SCO-SOC Annual Meeting
+**SCO-SOC Annual Meeting ([meeting note](https://sunnytseng.ca/blog_articles/20250811-sco-soc-in-saskatoon/))
 <span style="float:right;"> Saskatoon, Canada <span>**
 <br> Logo & merchandize designer, art booth, BirdNET workshop organizer, invited seminar speaker
 <span style="float:right;"> Aug.2025 <span>
