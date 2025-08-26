@@ -568,11 +568,16 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 ---
 
+**Bert Brink Scholarship
+<span style="float:right;"> BC Nature <span>**
+<br> Awarded to one graduate student working on conservation research in BC
+<span style="float:right;"> Aug.2025 <span>
+<!-- 2,500 CAD -->
 
 
 **Michael Smith Foreign Study Supplements
 <span style="float:right;"> NSERC <span>**
-<br> Leveloping an R package for BirdNET in Chemnitz, Germany
+<br> Developing an R package for BirdNET in Chemnitz, Germany
 <span style="float:right;"> June.2025 <span>
 <!-- 6,000 CAD -->
 
