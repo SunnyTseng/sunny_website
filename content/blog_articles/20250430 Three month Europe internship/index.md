@@ -17,36 +17,29 @@ image:
 ---
 
 
-### 再見了，立陶宛的家，再見歐洲 (July 30 Wed.)
-
-
-### 清菇菇與 Gintas 一直睡覺 (July 29 Tue.)
-
-
-### 天文台與森林菇菇 (July 28 Mon.)
-
-
-### 長征歸來的孩子們 (July 27 Sun.)
-剪頭髮、去找 Gintas 的朋友
-
-
-### 回家，Vilnius 的溫暖的家，與離家的孩子 (July 20 Sun.)
-
 
 ### 珍重再見了，親愛的藍色裙子 (July 19 Sat.)
 
+![alt text](IMG_2042.JPG)
+
 
 ### 皇宮導遊、世界相間的朋友 (July 18 Fri.)
+
+![alt text](<IMG_2222 (12).jpg>)
 
 
 ### 再見 Chemnitz (July 17 Thur.)
 
 在整理房間的時候，把自己推成一堆的發票一張一張疊好，有 EDEKA 的、Decathon、Penny、車票、門票...。想到之前在 EDEKA 買東西的時候一直跟
 
-看到媽媽捲成一團的發票，
+看到媽媽捲成一團的發票，竟然忍不住哭了，怎麼在這裡的時光會這麼快樂，快樂到捨不得離開。
 
-### Deresden castle 還有一般般的首次 VR 體驗 (July 16 Tue.)
+![alt text](IMG_1926.JPG)
 
+
+### Deresden castle 奔跑暴風雨 (July 16 Tue.)
+
+![alt text](<IMG_2222 (11).jpg>)
 
 ### Resbenstain 游泳 (July 14 Mon.)
 
@@ -56,6 +49,7 @@ image:
 
 PS. 當天晚上跟 Gintas 兩個人都睡超級好。
 
+![alt text](IMG_1816.JPG)
 
 
 ### Zwinserg 皇宮瓷器展、地下通道迷宮，Dresden 太誇張的美! 還有 Gintas 終於來了 (July 13 Sun.)
@@ -68,13 +62,13 @@ PS. 當天晚上跟 Gintas 兩個人都睡超級好。
 
 Gintas 終於來了!! Chemnitz 第六月台，傍晚七點五十五分。晚上在冷冷的天氣開啟溫泉模式。
 
-
+![alt text](<IMG_2222 (10).jpg>)
 
 ### Industrial museum 下雨天的工業博物館 (July 12 Sat.)
 
 再一個周末的下雨天，好像把前幾個月的澎湃，程暫時畫下了休息的記號。那天的 Chemnitz 只有 13 到 16 度，夏天只有這個溫度也真的是很冷，我窩在被窩，簡單整理一下家裡，在微雨的天氣到了工業博物館看媽媽提到的、掉到柏油裡的工人。Chemnitz 有各種礦產、紡織、汽車、電器。其中最好玩的是紡織機，利用轉動的齒輪帶動紡織的線，編織成固定想要的圖案。
 
-
+![alt text](IMG_1562.JPG)
 
 
 ### Erfurt 一個人的旅行 (July 11 Fri.)
@@ -201,6 +195,8 @@ Irland 最早是由維京人開拓，在此有金、銅的貿易，也有精緻�
 
 午餐、紅包故事、與後院游泳、睡前的聊天
 
+![alt text](IMG_1312.JPG)
+
 ### 長途遷徙到 Stuttgart (June 29 Sun.)
 
 好炎熱的一天。媽媽在 Chemnitz 的最後一個早上，還是早起著做早餐，把整個冰箱清得乾乾淨淨，早餐是烤土司與蛋沙拉，還有少不了的牛奶。
@@ -209,6 +205,7 @@ Irland 最早是由維京人開拓，在此有金、銅的貿易，也有精緻�
 
 要到 Stuttgart 要轉三趟火車，真的也是辛苦媽媽了，第一趟運氣好還有位置坐；第二趟直接站兩個小時，冷氣又剛好壞掉，兩個人都整個搭到快暈車，幸好及時下車還有好吃的午餐跟水；第三趟一樣運氣好還有位置坐。媽媽直說，"這個比搭飛機還要累 XD"
 
+![alt text](IMG_1283.JPG)
 
 ### 大掃除、好大隻的鹿與再見夏日音樂會 (June 28 Sat.)
 
@@ -220,15 +217,20 @@ Irland 最早是由維京人開拓，在此有金、銅的貿易，也有精緻�
 
 下午玩太晚了，回家匆匆吃了飯，又出發去最後一場夏日音樂會，那個氣氛是要不要這麼好 QAQ 全場都是好萊鎢的音樂，有虎眼、神鬼奇航、星際大戰、哈利波特、大白鯊等等各種經典名曲，真的聽的太太過癮了!我整個聽到捨不得走，我們一樣留到最後，回到家已經天黑，晚上十點半。夜晚的 Chemnitz 非常迷人。
 
+![alt text](IMG_1243.JPG)
+
+![alt text](IMG_1274.JPG)
 
 ### BirdNET final presentation 與帶毛毯到場的 Jass 音樂演出 (June 27 Fri.)
 
-莫名的就被加入了 Cornell 與 BirdNET team 的 Hands on meeting!! 因為我是幫忙 BirdNET 這邊開發 R package 的緣故，所以
+莫名的就被加入了 Cornell 與 BirdNET team 的 Hands on meeting!! 因為我是幫忙 BirdNET 這邊開發 R package 的緣故。
+
+![alt text](IMG_9365.JPG)
 
 
 ### 媽媽的茶杯好漂亮 (June 26 Thur.)
 
-
+![alt text](IMG_9361.JPG)
 
 ### Prague 浪漫布拉格廣場 (June 24 Tue.)
 
@@ -355,10 +357,14 @@ PS. 之後發現換房間睡後，客廳好睡太多!
 
 第二次攀岩!!!
 
+![alt text](IMG_8971.JPG)
 
 ### 市中心廣場散步 (June 11 Wed.)
 
 回家第一餐是媽媽煮的義大利麵(炒青菜加上蘑菇和羊肉)，非常好吃!!從今天開始再也沒有下廚了哈!
+
+![alt text](IMG_8955.JPG)
+
 
 
 ### 媽媽來了，搭了十個小時的火車才到家 (June 10 Tue.)
@@ -367,10 +373,15 @@ PS. 之後發現換房間睡後，客廳好睡太多!
 
 隔天早上五點叫我起床!? 說已經 11 點啦!
 
+![alt text](IMG_8941.JPG)
+
+
 
 ### 生日在 Stuttgart (June 9 Mon.)
 
 birthday morning with rubab cake and tree cake- lunch with dad - afternoon coffee with mom - backyard exploration massage evening (Monday)
+
+![alt text](IMG_0477.JPG)
 
 
 ### Stuttgart 長周末 (June 5 Thur.)
@@ -386,6 +397,8 @@ planting - coffee in the garden - sweet - cook the beet root soup (Saturday)
 
 raining in the morning - wine festival - tennis team and Bea - massage evening (Sunday)
 
+![alt text](IMG_0354.JPG)
+
 
 ### Chemnitz 學校運動會 (June 2 Wed.)
 
@@ -397,10 +410,16 @@ raining in the morning - wine festival - tennis team and Bea - massage evening (
 
 為什麼沒有桌球。薇恩說她以前是短跑校隊的!
 
+![alt text](IMG_8764.JPG)
+
+
+
 
 ### 在德國的第一次攀岩 (June 3 Tue.)
 
-約到 Max, Josef, Raja 一起去攀岩場小試身手，超級高的屋頂還有超級不可置信的確保機制
+約到 Max, Josef, Raja 一起去攀岩場小試身手，超級高的屋頂還有超級不可置信的確保機制，竟然是用手拉!
+
+![alt text](IMG_8726.JPG)
 
 
 ### 藝術小鎮、與暴雨中結束的嘉年華 (June 1 Sun.)
@@ -556,6 +575,26 @@ Ausra 算準十二點要出門，九點半就已經開始切馬鈴薯、烤魚�
 
 
 
+
+
+
+
+
+
+### 再見了，立陶宛的家，再見歐洲 (July 30 Wed.)
+
+
+### 清菇菇與 Gintas 一直睡覺 (July 29 Tue.)
+
+
+### 天文台與森林菇菇 (July 28 Mon.)
+
+
+### 長征歸來的孩子們 (July 27 Sun.)
+剪頭髮、去找 Gintas 的朋友
+
+
+### 回家，Vilnius 的溫暖的家，與離家的孩子 (July 20 Sun.)
 
 
 
