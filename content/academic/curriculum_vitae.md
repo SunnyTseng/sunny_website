@@ -55,6 +55,8 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 <br>
 
+- **Tseng, S.** and Stefan Kahl. **2025** birdnetTools: An R package for working with BirdNET output. Journal of Open Source Software (Submitted)
+<br>
 
 - K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. **2025** Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave. Nature Ecology and Evolution (In Revision)
 <br>
