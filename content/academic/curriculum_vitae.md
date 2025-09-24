@@ -67,23 +67,23 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <br>
 <br>
 
-- **Tseng, S.**, D. Hodder, and K.A. Otter 2025 **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
+- **Tseng, S.**, D. Hodder, and K.A. Otter. 2025 **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
 <br>
 <br>
 
-- **Tseng, S.**, D. Hodder, and K.A. Otter 2024 **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
+- **Tseng, S.**, D. Hodder, and K.A. Otter. 2024 **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
 <br>
 <br>
 
-- Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng** 2021 **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
+- Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng**. 2021 **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
 <br>
 <br>
 
-- **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay 2021 **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+- **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay. 2021 **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
 <br>
 <br>
 
-- **Tseng, Y.-C.**, and Chu, S.-W. **2017** **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
+- **Tseng, Y.-C.**, and Chu, S.-W. 2017 **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
 
 
 
