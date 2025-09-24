@@ -55,31 +55,31 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 <br>
 
-- **Tseng, S.** and Stefan Kahl. 2025 **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Submitted)
+- **Tseng, S.** and S. Kahl. 2025 **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Submitted)
 <br>
 <br>
 
-- K. Baum, J., A. Slein, M., C. Garen, J., ..., **Tseng, S.**, et al. 2025 **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
+- Baum, J.K., M.A. Slein, J.C. Garen, ..., **S. Tseng**, et al. 2025 **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
 <br>
 <br>
 
-- Darras, K., Rountree, R., Van Wilgenburg, S., ..., **Tseng, S.**, et al. 2025 **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
+- Darras K., R. Rountree, S. Van Wilgenburg, ..., **S. Tseng**, et al. 2025 **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
 <br>
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. 2025 **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
+- **Tseng, S.**, D. Hodder, and K.A. Otter 2025 **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
 <br>
 <br>
 
-- **Tseng, S.**, Hodder, D., and Otter, K. 2024 **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
+- **Tseng, S.**, D. Hodder, and K.A. Otter 2024 **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
 <br>
 <br>
 
-- Pelletier, F., Eskelson, B.N.I., Monleon, V.J., and **Tseng, Y.-C.** 2021 **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
+- Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng** 2021 **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
 <br>
 <br>
 
-- **Tseng, Y.-C.**, Eskelson, B.N.I., Martin, K., and LeMay, V. 2021 **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+- **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay 2021 **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
 <br>
 <br>
 
