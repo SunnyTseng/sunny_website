@@ -354,6 +354,11 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <br>
 
 
+**Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
+<span style="float:right;"> HWC series <span>**
+<br> A monthly seminar for Human-Wildlife coexistance researchers 
+<span style="float:right;"> Nov.2024 <span>
+
 
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
 <span style="float:right;"> BLISS <span>**
@@ -361,10 +366,15 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Nov.2024 <span>
 
 
-**Machine Learning Advances in Ornithology Research
+
+**Machine Learning Advances in Ornithology Research ([community outreach](https://naturevancouver.ca/events/exploring-the-impact-of-machine-learning-advances-on-ornithology-research/))
 <span style="float:right;"> Nature Vancouver <span>**
-<br> Nature Vancouver birder's night
+<br> Nature Vancouver monthly birder's night
 <span style="float:right;"> Nov.2023 <span>
+
+
+
+
 
 
 **From Taiwan to Arctic Tundra - the Bird as a Bridge ([storytelling](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
@@ -391,7 +401,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Jun.2021 <span>
 
 
-**The Siberian Crane: From Taiwan to Tundra ([podcast](\href{https://www.birdnote.org/listen/podcasts/threatened/tundra))
+**The Siberian Crane: From Taiwan to Tundra ([podcast](\href{https://www.youtube.com/watch?v=wqjzDQUXnqg))
 <span style="float:right;"> Bird Notes <span>**
 <br> A special season of Bird Notes - Threatened
 <span style="float:right;"> May.2021 <span>
