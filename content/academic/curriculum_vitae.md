@@ -357,7 +357,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
 <span style="float:right;"> HWC series <span>**
 <br> A monthly seminar for Human-Wildlife coexistance researchers 
-<span style="float:right;"> Nov.2024 <span>
+<span style="float:right;"> Sep.2025 <span>
 
 
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
@@ -371,8 +371,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <span style="float:right;"> Nature Vancouver <span>**
 <br> Nature Vancouver monthly birder's night
 <span style="float:right;"> Nov.2023 <span>
-
-
 
 
 
