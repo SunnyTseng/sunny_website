@@ -17,6 +17,21 @@ image:
   preview_only: true
 ---
 
+### 操場跑三圈 - Nov.7
+
+昨天早上在慢慢地邊吃早餐邊滑信箱，發現之前跟 Connor (Cornell lab of Ornithology 的 BirdNET 研究人員) 一起申請的 ISC grant 的結果出來了，秒速點開.... 天啊!!! 興奮到整個跳起來!! 
+
+會這麼開心是因為，能夠獨立寫 research grant proposal 而且成功拿到 funding，是研究人員成長的很重要的階段，現在又是北美 resaerch funding 競爭激烈的時期，而且這次是邀到我一直很崇拜的、在康乃爾鳥類研究室的研究學者 Connor 一起，我們在年中就一直信件往返討論可以怎麼繼續開發 birdnetTools R package，我就提議，乾脆來一起寫個 proposal 申請經費吧! 
+
+在這之前，獨立的 research proposal 申請也有 National Geographic、rOpenSci、還有 NSERC 的成功經驗 (眼神閃亮亮，對於散佈於世界各地的機會感到興奮)。研究人員做研究，很像藝術家的創作，有好的想法，就可以拿這樣的提案去尋找可以支持的資源，讓自己的小夢想慢慢的實現!! 這樣的自由感與成就感真的令人振奮。
+
+PS.1 收到消息後馬上傳訊息給遠方的 Jasmine，她說連遠在紐約都感覺的到西岸傳來的興奮。
+
+PS.2 沒有操場可以跑，出去沙灘走三趟。
+
+![alt text](<Screenshot 2025-11-07 091918.png>)
+
+
 ### PG visit Day 8 - 好夥伴、好運動、好生活 - Nov.2
 
 ![](./20251104/IMG_3333.jpg)
