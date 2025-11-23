@@ -17,6 +17,16 @@ image:
   preview_only: true
 ---
 
+### 硬是要再回過頭提一下 SCO-SOC 的 Taverner Award - Nov.23
+
+很開心地想要分享，今年在 SCO-SOC (加拿大鳥類學會) 年會中獲得了 Taverner Award 啦 ✨ 對，就是那個我設計了會議 logo 還有辦了一場小藝術展覽的加拿大鳥類會議 (硬是要提而且分享很多遍 XD ) 🐧🐔🐥
+真的是拖了好久才來分享這個好消息，今年的這場會議真的是太溫馨了。在學術上，不僅舉辦了 workshop、受邀到鳥類聲學的 Symposium 做 oral presentation、獲得了很珍貴的學術獎項；同時在人際上，參與了整個會議的統籌 (瞬間跟加拿大鳥類小圈圈交流密切)、設計文宣、還有最珍貴的是... 這次會議之後也加入了 SCO-SOC 的委員會! 在之後也會持續地和這一群可愛溫暖的人們一起拓展加拿大鳥類研究的 community。(會議中間有個有趣的橋段，我們的 President 開玩笑說，Sunny 妳現在慢慢熟悉，之後有機會可以當 president 噢! 我嚇到不行 XD 先讓我享受當年輕族群代表一陣子。) 🐦
+其實本來是想要分享獲得研究獎項的事情，但最後還是回歸到，之所以這樣享受鳥類研究 (或精確來說，鳥類聲學研究)，除了進行研究本身有無比的魅力、在各種技能發展之間有太多精采興奮 (當然啦，獲得研究獎項的肯定真的非常的巨大)，更窩心的是可以因為相似的專業與熱情，認識這一群互相支持的夥伴，真的能在身在加拿大真好。
+
+I am honoured to receive the Taverner Award at this year's SCO–SOC conference in Saskatoon. This recognition has given me a moment to reflect on my journey in bird bioacoustic research in Canada. The research itself has been incredibly rewarding, filled with exciting moments and a strong sense of purpose. But above all, the opportunity to work alongside such a wonderful group of colleagues is the most meaningful part of my academic path. 🥰
+
+![alt text](./20251123/IMG_3333.JPG)
+
 ### 操場跑三圈 - Nov.7
 
 昨天早上在慢慢地邊吃早餐邊滑信箱，發現之前跟 Connor (Cornell lab of Ornithology 的 BirdNET 研究人員) 一起申請的 ISC grant 的結果出來了，秒速點開.... 天啊!!! 興奮到整個跳起來!! 
