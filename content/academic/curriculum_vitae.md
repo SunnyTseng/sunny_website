@@ -463,12 +463,12 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <details>
-<summary>COURSE TEACHING</summary>
+<summary>COURSE / CODING GROUP</summary>
 
-**Applied Analysis Hub (TA)
+**Applied Analysis Hub (coordinator)
 <span style="float:right;"> UNBC <span>**
 <br> Instructor: Eduardo Martins, Heather Bryan
-<span style="float:right;"> Sep.2021 - present <span>
+<span style="float:right;"> 2021 fall - 2025 fall <span>
 
 
 **NRES 776 Advanced Statistical Analyses for Natural Resource Sciences (co-instructor)
@@ -584,6 +584,13 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <h2 style="text-align: center;"><b>SCHOLARSHIP & GRANT</b></h2>
 
 ---
+
+**Infrastructure Steering Committee (ISC) Grant
+<span style="float:right;"> R Consortium <span>**
+<br> Research grant to support projects that broadly help the R community
+<span style="float:right;"> Dec.2025 <span>
+<!-- 7,488 USD -->
+
 
 **Bert Brink Scholarship
 <span style="float:right;"> BC Nature <span>**
