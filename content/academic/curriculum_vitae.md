@@ -580,23 +580,18 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 
-<!--SCHOLARSHIPSandRESEARCHGRANT-->
-<h2 style="text-align: center;"><b>SCHOLARSHIP & GRANT</b></h2>
+
+<!--RESEARCHGRANT-->
+<h2 style="text-align: center;"><b>RESEARCH GRANT</b></h2>
 
 ---
+
 
 **Infrastructure Steering Committee (ISC) Grant
 <span style="float:right;"> R Consortium <span>**
 <br> Research grant to support projects that broadly help the R community
 <span style="float:right;"> Dec.2025 <span>
 <!-- 7,488 USD -->
-
-
-**Bert Brink Scholarship
-<span style="float:right;"> BC Nature <span>**
-<br> Awarded to one graduate student working on conservation research in BC
-<span style="float:right;"> Aug.2025 <span>
-<!-- 2,500 CAD -->
 
 
 **Michael Smith Foreign Study Supplements
@@ -613,6 +608,39 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <!-- 5,600 USD -->
 
 
+**rOpenSci Championship Program
+<span style="float:right;"> rOpenSci <span>**
+<br> Outstanding proposal for R package development
+<span style="float:right;"> May.2024 <span>
+<!-- 1,000 USD -->
+
+
+
+**Siberian Tundra Arctic Research Grant
+<span style="float:right;"> TEEDF <span>**
+<br> Selected researcher for Arctic research project
+<span style="float:right;"> Apr.2017 <span>
+<!-- 100,000 TWD -->
+
+
+
+
+
+<!--SCHOLARSHIPSandFELLOWSHIPS-->
+<h2 style="text-align: center;"><b>SCHOLARSHIP & FELLOWSHIP</b></h2>
+
+---
+
+
+
+**Bert Brink Scholarship
+<span style="float:right;"> BC Nature <span>**
+<br> Awarded to one graduate student working on conservation research in BC
+<span style="float:right;"> Aug.2025 <span>
+<!-- 2,500 CAD -->
+
+
+
 **NBCGSS Legacy Scholarship
 <span style="float:right;"> UNBC <span>**
 <br> For graduate student with contributions to the graduate program
@@ -625,13 +653,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <br> For graduate student with outstanding academic \& involvement with Nature Science
 <span style="float:right;"> May.2024 <span>
 <!-- 5,000 CAD -->
-
-
-**rOpenSci Championship Program
-<span style="float:right;"> rOpenSci <span>**
-<br> Outstanding proposal for R package development
-<span style="float:right;"> May.2024 <span>
-<!-- 1,000 USD -->
 
 
 **Canada Graduate Scholarship - Doctorial (CGS-D)
@@ -667,7 +688,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <br> High academic performance for new graduate student
 <span style="float:right;"> Jan.2021 <span>
 <!-- 25,000 CAD -->
-
 
 
 **Mary and David Macaree Fellowship
@@ -731,13 +751,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <br> Top 20\% ranked student
 <span style="float:right;"> Sep.2017 <span>
 <!-- 12,000 CAD -->
-
-
-**Arctic Research Cooperation Scholarship
-<span style="float:right;"> TEEDF <span>**
-<br> Selected researcher for Arctic research project
-<span style="float:right;"> Apr.2017 <span>
-<!-- 100,000 TWD -->
 
 
 **College Student Research Scholarship
