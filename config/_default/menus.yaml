@@ -23,7 +23,7 @@ main:
     url:  'artworks/'
     weight: 50
 
-  - name: Sounds
-    url: 'sounds/'
+  - name: Sound
+    url: 'sound/'
     weight: 60
 
