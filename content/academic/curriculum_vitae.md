@@ -14,7 +14,7 @@ title: Curriculum vitae
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
 
 
 ---
