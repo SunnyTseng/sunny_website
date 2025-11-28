@@ -11,8 +11,8 @@ main:
     url: 'research/'
     weight: 20
 
-  - name: Science
-    url: 'science/'
+  - name: Design
+    url: 'design/'
     weight:  30
 
   - name: Blog
