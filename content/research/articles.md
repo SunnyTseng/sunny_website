@@ -5,6 +5,7 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 70
@@ -14,8 +15,7 @@ subtitle:
 
 content:
   # Page type to display. E.g. project.
-  page_type: science_article
-
+  page_type: research_articles
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
