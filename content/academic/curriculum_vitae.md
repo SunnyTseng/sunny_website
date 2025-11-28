@@ -155,13 +155,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2025</summary>
 
-**SCO-SOC Annual Meeting ([meeting note](https://sunnytseng.ca/blog_articles/20250811-sco-soc-in-saskatoon/))
+**SCO-SOC Annual Meeting ([meeting note](https://sunnytseng.ca/blog_articles/20250811-sco-soc-in-saskatoon-%E9%B3%A5%E9%A1%9E%E6%9C%83%E8%AD%B0/))
 <span style="float:right;"> Saskatoon, Canada <span>**
 <br> Logo & merchandize designer, art booth, BirdNET workshop organizer, invited seminar speaker
 <span style="float:right;"> Aug.2025 <span>
 
 
-**Ecological Data Science Summit ([meeting note](https://sunnytseng.ca/blog_articles/20250203-eds_mexico/)) ★
+**Ecological Data Science Summit ([meeting note](https://sunnytseng.ca/blog_articles/20250203-eds_mexico-%E5%8D%97%E4%B8%8B%E5%8C%97%E7%BE%8E/)) ★
 <span style="float:right;"> Santa Barbara, USA <span>**
 <br> Invited by conference organizer for discussion of current AI use in ecology
 <span style="float:right;"> Feb.2025 <span>
@@ -173,7 +173,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details open>
 <summary>2024</summary>
 
-**Posit::conf ([meeting note](https://sunnytseng.ca/blog_articles/20240812-2024-posit-conf/)) ★
+**Posit::conf ([meeting note](https://sunnytseng.ca/blog_articles/20240812-2024-posit-conf-%E5%81%B6%E5%83%8F%E8%A6%8B%E9%9D%A2%E6%9C%83/)) ★
 <span style="float:right;"> Seattle, USA <span>**
 <br> Selected as one of the 40 opportunity scholars, early career software developer 
 <span style="float:right;"> Aug.2024 <span>
@@ -203,13 +203,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <details>
 <summary>2023</summary>
 
-**AOS-SCO Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230814-aos-in-london-ontario/))
+**AOS-SCO Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230814-aos-in-london-ontario-%E9%B3%A5%E9%B3%A5%E6%9C%83%E8%AD%B0/))
 <span style="float:right;"> London, Canada <span>**
 <br> Large scale biodiversity assessment with bird sound (Poster)
 <span style="float:right;"> Aug.2023 <span>
 
 
-**BC/Canada TWS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230401-tws-conference-presentation/)) ★
+**BC/Canada TWS Joint Conference ([meeting note](https://sunnytseng.ca/blog_articles/20230401-tws-conference-presentation-%E5%BE%97%E9%A6%96%E7%8D%8E%E5%95%A6/)) ★
 <span style="float:right;"> Victoria, Canada <span>**
 <br> Passive acoustic as a tool to monitor individual Barred Owls (Oral)
 <span style="float:right;"> Mar.2023 <span>
@@ -431,8 +431,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 **bbsTaiwan
 <span style="float:right;"> Oct.2023 - Nov.2024 <span>**
 <br> main developer, maintainer
-
-
 
 </details>
 
