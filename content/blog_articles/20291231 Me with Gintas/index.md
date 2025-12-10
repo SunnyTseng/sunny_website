@@ -16,6 +16,12 @@ image:
   preview_only: true
 ---
 
+### # 第 109 周 - 貓貓崩潰周與竹子盜賊周 - 2025 Dec.07 
+
+![](./week109/IMG_1111.jpg)
+
+### # 第 108 周 - 聖誕市集周 - 2025 Nov.30
+
 ### # 第 107 周 - 喜歡你的原因 - 2025 Nov.23
 
 Gintas 說 "You are the person I want to spend my future with".
