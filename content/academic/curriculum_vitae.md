@@ -57,23 +57,30 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 - **Tseng, S.** and S. Kahl. 2026. **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Under Review)
 <br>
+<br>
 
 - Baum, J.K., M.A. Slein, J.C. Garen, ..., **S. Tseng**, et al. 2026. **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
+<br>
 <br>
 
 - Darras K., R. Rountree, S. Van Wilgenburg, ..., **S. Tseng**, et al. 2025. **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
 <br>
+<br>
 
 - **Tseng, S.**, D. Hodder, and K.A. Otter. 2025. **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
+<br>
 <br>
 
 - **Tseng, S.**, D. Hodder, and K.A. Otter. 2024. **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
 <br>
+<br>
 
 - Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng**. 2021. **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
 <br>
+<br>
 
 - **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay. 2021. **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+<br>
 <br>
 
 - **Tseng, Y.-C.**, and Chu, S.-W. 2017. **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
@@ -89,6 +96,8 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <br>
 
 - **birdnetTools** (2025) - R package for post-processing, visualizatino, and validation of BirdNET output. Developed in collaboration with the BirdNET team. Available on GitHub. ([Documentation](https://birdnet-team.github.io/birdnetTools/))
+<br>
+<br>
 
 - **bbsTaiwan** (2024) - R package for accessing and analyzing Taiwan Breeding Bird Survey (BBS) data. Developed for national biodiversity research and public engagement. Available on GitHub. ([Documentation](https://sunnytseng.github.io/bbsTaiwan/))
 
