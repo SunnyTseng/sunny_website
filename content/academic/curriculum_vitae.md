@@ -28,8 +28,7 @@ design:
 
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
 <br>
-Supervisor: Ken Otter <br>
-Committee: Heather Bryan, Joseph Shea, and Dexter Hodder <br>
+Supervisor: Ken A. Otter <br>
 Thesis:  Broad-scaled Avian Biodiversity Assessment with Passive Acoustic Monitoring
 
 **MSc, University of British Columbia <span style="float:right;"> Sep.2017 - Nov.2019 <span>**
@@ -49,49 +48,56 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 <h2 style="text-align: center;"><b>PUBLICATION</b></h2>
 
 ---
+<!--publication - journal article-->
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 <br>
 
-- **Tseng, S.** and S. Kahl. 2025 **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Submitted)
-<br>
-<br>
-
-- Baum, J.K., M.A. Slein, J.C. Garen, ..., **S. Tseng**, et al. 2025 **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
-<br>
+- **Tseng, S.** and S. Kahl. 2026. **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Under Review)
 <br>
 
-- Darras K., R. Rountree, S. Van Wilgenburg, ..., **S. Tseng**, et al. 2025 **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
-<br>
-<br>
-
-- **Tseng, S.**, D. Hodder, and K.A. Otter. 2025 **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
-<br>
+- Baum, J.K., M.A. Slein, J.C. Garen, ..., **S. Tseng**, et al. 2026. **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
 <br>
 
-- **Tseng, S.**, D. Hodder, and K.A. Otter. 2024 **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
-<br>
-<br>
-
-- Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng**. 2021 **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
-<br>
+- Darras K., R. Rountree, S. Van Wilgenburg, ..., **S. Tseng**, et al. 2025. **Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms** [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.70021)
 <br>
 
-- **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay. 2021 **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
-<br>
+- **Tseng, S.**, D. Hodder, and K.A. Otter. 2025. **Setting BirdNET confidence thresholds: Species-specific vs. universal approaches** [Journal of Ornithology](https://link.springer.com/article/10.1007/s10336-025-02260-w)
 <br>
 
-- **Tseng, Y.-C.**, and Chu, S.-W. 2017 **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
+- **Tseng, S.**, D. Hodder, and K.A. Otter. 2024. **Using Autonomous Recording Units for Vocal Individuality: Insights from Barred Owl Identification** [Avian Conservation and Ecology](https://ace-eco.org/vol19/iss1/art23/)
+<br>
+
+- Pelletier, F., B.N.I. Eskelson, V.J. Monleon, and **Y.-C. Tseng**. 2021. **Using Landsat imagery to assess burn severity of National Forest Inventory plots** [Remote Sensing](https://www.mdpi.com/2072-4292/13/10/1935)
+<br>
+
+- **Tseng, Y.-C.**, B.N.I. Eskelson, K. Martin, and V. LeMay. 2021. **Automatic bird sound detection: Logistic model based acoustic occupancy model** [Bioacoustics](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1730241)
+<br>
+
+- **Tseng, Y.-C.**, and Chu, S.-W. 2017. **High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer** [Plant Methods](https://doi.org/10.1186/s13007-017-0194-2)
 
 
 
 
-
-<!--work - popular science writer-->
+<!--publication - open-source software-->
 <div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">POPULAR SCIENCE</h3>
+  <h3 style="margin: 0;">OPEN-SOURCE SOFTWARE PACKAGE</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+<br>
+
+- **birdnetTools** (2025) - R package for post-processing, visualizatino, and validation of BirdNET output. Developed in collaboration with the BirdNET team. Available on GitHub. ([Documentation](https://birdnet-team.github.io/birdnetTools/))
+
+- **bbsTaiwan** (2024) - R package for accessing and analyzing Taiwan Breeding Bird Survey (BBS) data. Developed for national biodiversity research and public engagement. Available on GitHub. ([Documentation](https://sunnytseng.github.io/bbsTaiwan/))
+
+
+
+
+<!--publication - popular science-->
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 <br>
@@ -145,7 +151,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 <br>
 <div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">ACADEMIC CONFERENCE</h3>
+  <h3 style="margin: 0;">ACADEMIC CONFERENCE TALK/POSTER</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
@@ -347,63 +353,321 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!--recognition-->
+<h2 style="text-align: center;"><b>RECOGNITION</b></h2>
+
+---
+
+<!--recognition - research grant-->
 <div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
+  <h3 style="margin: 0;">RESEARCH GRANT</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 <br>
 
 
-**Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
-<span style="float:right;"> HWC series <span>**
-<br> A monthly seminar for Human-Wildlife coexistance researchers 
-<span style="float:right;"> Sep.2025 <span>
 
 
-**Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
-<span style="float:right;"> BLISS <span>**
-<br> A weekly seminar for UBC students, visiting scholars and researchers
-<span style="float:right;"> Nov.2024 <span>
+**Wildlife Acoustics Grant Program
+<span style="float:right;"> Wildlife Acoustics <span>**
+<br> Acoustic monitoring for migratory birds in Lithuania
+<span style="float:right;"> May.2026 <span>
+<!-- 4,000 USD -->
+
+
+**Infrastructure Steering Committee (ISC) Grant
+<span style="float:right;"> R Consortium <span>**
+<br> birdnetTools2.0: Linking BirdNET outputs to occupancy modelling in R
+<span style="float:right;"> Dec.2025 <span>
+<!-- 7,488 USD -->
+
+
+**Michael Smith Foreign Study Supplements
+<span style="float:right;"> NSERC <span>**
+<br> Developing an R package for BirdNET, collaborating with the them in Chemnitz, Germany
+<span style="float:right;"> June.2025 <span>
+<!-- 6,000 CAD -->
+
+
+**Early Career Grant
+<span style="float:right;"> National Geographic <span>**
+<br> Leading a fieldwork in Lithuania for avian acoustic monitoring
+<span style="float:right;"> May.2025 <span>
+<!-- 5,600 USD -->
+
+
+**rOpenSci Championship Program
+<span style="float:right;"> rOpenSci <span>**
+<br> Outstanding proposal for R package development
+<span style="float:right;"> May.2024 <span>
+<!-- 1,000 USD -->
 
 
 
-**Machine Learning Advances in Ornithology Research ([community outreach](https://naturevancouver.ca/events/exploring-the-impact-of-machine-learning-advances-on-ornithology-research/))
+**Siberian Tundra Arctic Research Grant
+<span style="float:right;"> TEEDF <span>**
+<br> Selected researcher for Arctic research project
+<span style="float:right;"> Apr.2017 <span>
+<!-- 100,000 TWD -->
+
+
+
+
+
+<!--recognition - scholarship and fellowships-->
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">SCHOLARSHIP and FELLOWSHIP</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+<br>
+
+
+
+**Bert Brink Scholarship
+<span style="float:right;"> BC Nature <span>**
+<br> Awarded to one graduate student working on conservation research in BC
+<span style="float:right;"> Aug.2025 <span>
+<!-- 2,500 CAD -->
+
+
+
+**NBCGSS Legacy Scholarship
+<span style="float:right;"> UNBC <span>**
+<br> For graduate student with contributions to the graduate program
+<span style="float:right;"> Jun.2024 <span>
+<!-- 500 CAD -->
+
+
+**Hugh Hamilton Memorial Scholarship
 <span style="float:right;"> Nature Vancouver <span>**
-<br> Nature Vancouver monthly birder's night
-<span style="float:right;"> Nov.2023 <span>
+<br> For graduate student with outstanding academic \& involvement with Nature Science
+<span style="float:right;"> May.2024 <span>
+<!-- 5,000 CAD -->
+
+
+**Canada Graduate Scholarship - Doctorial (CGS-D)
+<span style="float:right;"> NSERC <span>**
+<br> Rewarding and retaining high-calibre doctoral students at Canadian institutions
+<span style="float:right;"> Apr.2023 <span>
+<!-- 105,000 CAD -->
+
+
+**Susan Stevenson Memorial Award
+<span style="float:right;"> UNBC <span>**
+<br> Excellence academic performance
+<span style="float:right;"> Nov.2022 <span>
+<!-- 1,500 CAD -->
+
+
+**CUPE Local 3799 Annual Bursary
+<span style="float:right;"> UNBC <span>**
+<br> Excellence academic performance
+<span style="float:right;"> Sep.2022 <span>
+<!-- 1,000 CAD -->
+
+
+**Mitacs Accelerate Fellowship
+<span style="float:right;"> MITACS <span>**
+<br> A long-term funding and internship for PhD students in Canada
+<span style="float:right;"> Jun.2022 <span>
+<!-- 60,000 CAD -->
+
+
+**Graduate Entrance Research Scholarship
+<span style="float:right;"> UNBC <span>**
+<br> High academic performance for new graduate student
+<span style="float:right;"> Jan.2021 <span>
+<!-- 25,000 CAD -->
+
+
+**Mary and David Macaree Fellowship
+<span style="float:right;"> UBC <span>**
+<br> Conducting research in Forestry
+<span style="float:right;"> Sep.2019 <span>
+<!-- UN -->
+
+
+**VanDusen Graduate Fellowship in Forestry
+<span style="float:right;"> UBC <span>**
+<br> Faculty of Forestry student in forest resource ecosystems
+<span style="float:right;"> Feb.2019 <span>
+<!-- UN -->
+
+
+**Hugh Robert Duncan Chisholm Scholarship in Forestry
+<span style="float:right;"> UBC <span>**
+<br> Conducting research in Forestry
+<span style="float:right;"> Nov.2018 <span>
+<!-- 230 CAD -->
+
+
+**Werner and Hildegard HESSE Fellowship in Ornithology
+<span style="float:right;"> UBC <span>**
+<br> Conducting research in Ornithology
+<span style="float:right;"> Oct.2018 <span>
+<!-- 13,500 CAD -->
+
+
+**Pei-Huang Tung and Tan-Wen Tung Graduate Fellowship
+<span style="float:right;"> UBC <span>**
+<br> Taiwanese students pursuing higher education in Canada
+<span style="float:right;"> Oct.2018 <span>
+<!-- 2,500 CAD -->
+
+
+**Mary and David Macaree Fellowship
+<span style="float:right;"> UBC <span>**
+<br> Students in Faculty of Forestry studying forest resource ecosystems
+<span style="float:right;"> Sep.2018 <span>
+<!-- 2,700 CAD -->
+
+
+**BA Blackwell \& Associates Scholarship in Fire Science
+<span style="float:right;"> BA Blackwell \& Associates <span>**
+<br> Conducting research about forest fire ecology
+<span style="float:right;"> Sep.2018 <span>
+<!-- 1,000 CAD -->
+
+
+**Soundscape and Sound Research Scholarship
+<span style="float:right;"> SAT <span>**
+<br> Soundscape or sound associated research
+<span style="float:right;"> Aug.2018 <span>
+<!-- 10,000 TWD -->
+
+
+**Faculty of Forestry Strategic Recruitment Fellowships
+<span style="float:right;"> UBC <span>**
+<br> Top 20\% ranked student
+<span style="float:right;"> Sep.2017 <span>
+<!-- 12,000 CAD -->
+
+
+**College Student Research Scholarship
+<span style="float:right;"> MOST <span>**
+<br> Excellent research proposal
+<span style="float:right;"> Jun.2016 <span>
+<!-- 20,000 TWD -->
 
 
 
 
-**From Taiwan to Arctic Tundra - the Bird as a Bridge ([storytelling](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
-<span style="float:right;"> AOS - SCO annual meeting <span>**
-<br> Storytelling event at the last day of the academic conference
-<span style="float:right;"> Aug.2023 <span>
+<!--recognition - award-->
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">AWARD</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+<br>
 
 
-**Listen to the Whispers of Wings
-<span style="float:right;"> Mossom Creek BioBlitz <span>**
-<br> Mossom Creek BioBlitz event public engagement
-<span style="float:right;"> Jun.2023 <span>
+
+**SCO-SOC Taverner Award
+<span style="float:right;"> SCO-SOC <span>**
+<br> Awarded for outstanding ornithological research in Canada
+<span style="float:right;"> Apr.2025 <span>
 
 
-**Field recordist - a beautiful way to study Nature ([interview](https://www.fuyulife.com.tw/field-sound-engineer/))
-<span style="float:right;"> Fuyu Life <span>**
-<br> Interview for Fuyu Life
-<span style="float:right;"> Jan.2022 <span>
+**Student Presentation Award
+<span style="float:right;"> SCO-SOC <span>**
+<br> Best oral presentation in the annual conference in Peoria, Illinois
+<span style="float:right;"> Aug.2024 <span>
 
 
-**Each Sound Recording Represents a Profound Story ([interview](\href{https://canopi.tw/lifestyle/living/sound-recordist-sunny/))
-<span style="float:right;"> Canopy Life <span>**
-<br> Interview for Canopy Life
-<span style="float:right;"> Jun.2021 <span>
+<!--
+**Student & Early Professional Travel Funding
+<span style="float:right;"> AFO-SCO-WOS Joint Conference <span>**
+<br> A travel award judged based on the quality of the abstract submitted
+<span style="float:right;"> Jul.2024 <span>
 
 
-**The Siberian Crane: From Taiwan to Tundra ([podcast](\href{https://www.youtube.com/watch?v=wqjzDQUXnqg))
-<span style="float:right;"> Bird Notes <span>**
-<br> A special season of Bird Notes - Threatened
-<span style="float:right;"> May.2021 <span>
+**Graduate Student Travel Award
+<span style="float:right;"> UNBC <span>**
+<br> A travel award provided by UNBC Office of Research and Innovation
+<span style="float:right;"> Jul.2024 <span>
 
+
+**ESM Travel Grant Award
+<span style="float:right;"> UNBC <span>**
+<br> A travel award provided by Ecosystem Science and Management Department in UNBC
+<span style="float:right;"> Jun.2024 <span>
+
+
+**Student Travel Award
+<span style="float:right;"> BC & CAN TWS <span>**
+<br> Outstanding proposal in The Wildlife Society conference
+<span style="float:right;"> Mar.2023 <span>
+-->
+
+**Best Student Presentation Award
+<span style="float:right;"> BC & CAN TWS <span>**
+<br> Best student oral presentation in The Wildlife Society conference
+<span style="float:right;"> Mar.2023 <span>
+
+
+
+**3 Minute Thesis Award
+<span style="float:right;"> UNBC <span>**
+<br> 1st place \& people's choice of UNBC 3MT competition
+<span style="float:right;"> Feb.2023 <span>
+
+
+**Teaching Excellence Award
+<span style="float:right;"> UNBC <span>**
+<br> Outstanding teaching performance as a teaching assistant
+<span style="float:right;"> Sep.2022 <span>
+
+
+**Outstanding Oral Presentation Award
+<span style="float:right;"> CABE <span>**
+<br> Outstanding oral presentations in Congress of Animal Behavior and Ecology
+<span style="float:right;"> Feb.2021 <span>
+
+
+**Master of Data Science TA Award
+<span style="float:right;"> UBC <span>**
+<br> Best TAs in Master of Data Science program of the academic year
+<span style="float:right;"> Jun.2019 <span>
+
+
+**3 Minute Thesis Award
+<span style="float:right;"> UBC <span>**
+<br> First place of 3MT competition in UBC Faculty of Forestry
+<span style="float:right;"> Feb.2019 <span>
+
+<!--
+**International Tuition Award
+<span style="float:right;"> UBC <span>**
+<br> International graduate student registered full-time in research-oriented master’s programs
+<span style="float:right;"> Sep.2017 <span>
+-->
+
+
+**College Student Research Creativity Award
+<span style="float:right;"> MOST <span>**
+<br> Top 5\% ranked research report
+<span style="float:right;"> Aug.2017 <span>
+
+
+**Outstanding Poster and Presentation Award
+<span style="float:right;"> NTU <span>**
+<br> Ranked 1, out of 14 groups, in physics department poster competition
+<span style="float:right;"> Apr.2016 <span>
+
+
+**President Award
+<span style="float:right;"> NTU <span>**
+<br> Top 5\% ranked student in the semester
+<span style="float:right;"> Jan.2016 <span>
 
 
 
@@ -578,296 +842,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 
-
-<!--RESEARCHGRANT-->
-<h2 style="text-align: center;"><b>RESEARCH GRANT</b></h2>
-
----
-
-
-**Infrastructure Steering Committee (ISC) Grant
-<span style="float:right;"> R Consortium <span>**
-<br> Research grant to support projects that broadly help the R community
-<span style="float:right;"> Dec.2025 <span>
-<!-- 7,488 USD -->
-
-
-**Michael Smith Foreign Study Supplements
-<span style="float:right;"> NSERC <span>**
-<br> Developing an R package for BirdNET in Chemnitz, Germany
-<span style="float:right;"> June.2025 <span>
-<!-- 6,000 CAD -->
-
-
-**Early Career Grant
-<span style="float:right;"> National Geographic <span>**
-<br> Leading a fieldwork in Lithuania for avian acoustic monitoring
-<span style="float:right;"> May.2025 <span>
-<!-- 5,600 USD -->
-
-
-**rOpenSci Championship Program
-<span style="float:right;"> rOpenSci <span>**
-<br> Outstanding proposal for R package development
-<span style="float:right;"> May.2024 <span>
-<!-- 1,000 USD -->
-
-
-
-**Siberian Tundra Arctic Research Grant
-<span style="float:right;"> TEEDF <span>**
-<br> Selected researcher for Arctic research project
-<span style="float:right;"> Apr.2017 <span>
-<!-- 100,000 TWD -->
-
-
-
-
-
-<!--SCHOLARSHIPSandFELLOWSHIPS-->
-<h2 style="text-align: center;"><b>SCHOLARSHIP & FELLOWSHIP</b></h2>
-
----
-
-
-
-**Bert Brink Scholarship
-<span style="float:right;"> BC Nature <span>**
-<br> Awarded to one graduate student working on conservation research in BC
-<span style="float:right;"> Aug.2025 <span>
-<!-- 2,500 CAD -->
-
-
-
-**NBCGSS Legacy Scholarship
-<span style="float:right;"> UNBC <span>**
-<br> For graduate student with contributions to the graduate program
-<span style="float:right;"> Jun.2024 <span>
-<!-- 500 CAD -->
-
-
-**Hugh Hamilton Memorial Scholarship
-<span style="float:right;"> Nature Vancouver <span>**
-<br> For graduate student with outstanding academic \& involvement with Nature Science
-<span style="float:right;"> May.2024 <span>
-<!-- 5,000 CAD -->
-
-
-**Canada Graduate Scholarship - Doctorial (CGS-D)
-<span style="float:right;"> NSERC <span>**
-<br> Rewarding and retaining high-calibre doctoral students at Canadian institutions
-<span style="float:right;"> Apr.2023 <span>
-<!-- 105,000 CAD -->
-
-
-**Susan Stevenson Memorial Award
-<span style="float:right;"> UNBC <span>**
-<br> Excellence academic performance
-<span style="float:right;"> Nov.2022 <span>
-<!-- 1,500 CAD -->
-
-
-**CUPE Local 3799 Annual Bursary
-<span style="float:right;"> UNBC <span>**
-<br> Excellence academic performance
-<span style="float:right;"> Sep.2022 <span>
-<!-- 1,000 CAD -->
-
-
-**Mitacs Accelerate Fellowship
-<span style="float:right;"> MITACS <span>**
-<br> A long-term funding and internship for PhD students in Canada
-<span style="float:right;"> Jun.2022 <span>
-<!-- 60,000 CAD -->
-
-
-**Graduate Entrance Research Scholarship
-<span style="float:right;"> UNBC <span>**
-<br> High academic performance for new graduate student
-<span style="float:right;"> Jan.2021 <span>
-<!-- 25,000 CAD -->
-
-
-**Mary and David Macaree Fellowship
-<span style="float:right;"> UBC <span>**
-<br> Conducting research in Forestry
-<span style="float:right;"> Sep.2019 <span>
-<!-- UN -->
-
-
-**VanDusen Graduate Fellowship in Forestry
-<span style="float:right;"> UBC <span>**
-<br> Faculty of Forestry student in forest resource ecosystems
-<span style="float:right;"> Feb.2019 <span>
-<!-- UN -->
-
-
-**Hugh Robert Duncan Chisholm Scholarship in Forestry
-<span style="float:right;"> UBC <span>**
-<br> Conducting research in Forestry
-<span style="float:right;"> Nov.2018 <span>
-<!-- 230 CAD -->
-
-
-**Werner and Hildegard HESSE Fellowship in Ornithology
-<span style="float:right;"> UBC <span>**
-<br> Conducting research in Ornithology
-<span style="float:right;"> Oct.2018 <span>
-<!-- 13,500 CAD -->
-
-
-**Pei-Huang Tung and Tan-Wen Tung Graduate Fellowship
-<span style="float:right;"> UBC <span>**
-<br> Taiwanese students pursuing higher education in Canada
-<span style="float:right;"> Oct.2018 <span>
-<!-- 2,500 CAD -->
-
-
-**Mary and David Macaree Fellowship
-<span style="float:right;"> UBC <span>**
-<br> Students in Faculty of Forestry studying forest resource ecosystems
-<span style="float:right;"> Sep.2018 <span>
-<!-- 2,700 CAD -->
-
-
-**BA Blackwell \& Associates Scholarship in Fire Science
-<span style="float:right;"> BA Blackwell \& Associates <span>**
-<br> Conducting research about forest fire ecology
-<span style="float:right;"> Sep.2018 <span>
-<!-- 1,000 CAD -->
-
-
-**Soundscape and Sound Research Scholarship
-<span style="float:right;"> SAT <span>**
-<br> Soundscape or sound associated research
-<span style="float:right;"> Aug.2018 <span>
-<!-- 10,000 TWD -->
-
-
-**Faculty of Forestry Strategic Recruitment Fellowships
-<span style="float:right;"> UBC <span>**
-<br> Top 20\% ranked student
-<span style="float:right;"> Sep.2017 <span>
-<!-- 12,000 CAD -->
-
-
-**College Student Research Scholarship
-<span style="float:right;"> MOST <span>**
-<br> Excellent research proposal
-<span style="float:right;"> Jun.2016 <span>
-<!-- 20,000 TWD -->
-
-
-
-
-<!--AWARDS-->
-<h2 style="text-align: center;"><b>AWARD</b></h2>
-
----
-
-**SCO-SOC Taverner Award
-<span style="float:right;"> SCO-SOC <span>**
-<br> Awarded for outstanding ornithological research in Canada
-<span style="float:right;"> Apr.2025 <span>
-
-
-**Student Presentation Award
-<span style="float:right;"> SCO-SOC <span>**
-<br> Best oral presentation in the annual conference in Peoria, Illinois
-<span style="float:right;"> Aug.2024 <span>
-
-
-<!--
-**Student & Early Professional Travel Funding
-<span style="float:right;"> AFO-SCO-WOS Joint Conference <span>**
-<br> A travel award judged based on the quality of the abstract submitted
-<span style="float:right;"> Jul.2024 <span>
-
-
-**Graduate Student Travel Award
-<span style="float:right;"> UNBC <span>**
-<br> A travel award provided by UNBC Office of Research and Innovation
-<span style="float:right;"> Jul.2024 <span>
-
-
-**ESM Travel Grant Award
-<span style="float:right;"> UNBC <span>**
-<br> A travel award provided by Ecosystem Science and Management Department in UNBC
-<span style="float:right;"> Jun.2024 <span>
-
-
-**Student Travel Award
-<span style="float:right;"> BC & CAN TWS <span>**
-<br> Outstanding proposal in The Wildlife Society conference
-<span style="float:right;"> Mar.2023 <span>
--->
-
-**Best Student Presentation Award
-<span style="float:right;"> BC & CAN TWS <span>**
-<br> Best student oral presentation in The Wildlife Society conference
-<span style="float:right;"> Mar.2023 <span>
-
-
-
-**3 Minute Thesis Award
-<span style="float:right;"> UNBC <span>**
-<br> 1st place \& people's choice of UNBC 3MT competition
-<span style="float:right;"> Feb.2023 <span>
-
-
-**Teaching Excellence Award
-<span style="float:right;"> UNBC <span>**
-<br> Outstanding teaching performance as a teaching assistant
-<span style="float:right;"> Sep.2022 <span>
-
-
-**Outstanding Oral Presentation Award
-<span style="float:right;"> CABE <span>**
-<br> Outstanding oral presentations in Congress of Animal Behavior and Ecology
-<span style="float:right;"> Feb.2021 <span>
-
-
-**Master of Data Science TA Award
-<span style="float:right;"> UBC <span>**
-<br> Best TAs in Master of Data Science program of the academic year
-<span style="float:right;"> Jun.2019 <span>
-
-
-**3 Minute Thesis Award
-<span style="float:right;"> UBC <span>**
-<br> First place of 3MT competition in UBC Faculty of Forestry
-<span style="float:right;"> Feb.2019 <span>
-
-<!--
-**International Tuition Award
-<span style="float:right;"> UBC <span>**
-<br> International graduate student registered full-time in research-oriented master’s programs
-<span style="float:right;"> Sep.2017 <span>
--->
-
-
-**College Student Research Creativity Award
-<span style="float:right;"> MOST <span>**
-<br> Top 5\% ranked research report
-<span style="float:right;"> Aug.2017 <span>
-
-
-**Outstanding Poster and Presentation Award
-<span style="float:right;"> NTU <span>**
-<br> Ranked 1, out of 14 groups, in physics department poster competition
-<span style="float:right;"> Apr.2016 <span>
-
-
-**President Award
-<span style="float:right;"> NTU <span>**
-<br> Top 5\% ranked student in the semester
-<span style="float:right;"> Jan.2016 <span>
-
-
-
-
-
-
 <!--
 **Alumnus scholarship in NTU Physics
 <span style="float:right;"> NTU <span>**
@@ -919,3 +893,61 @@ I take design commissions for scientific visual design, focusing on wildlife con
 -->
 
 
+
+
+
+
+
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+<br>
+
+
+**Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
+<span style="float:right;"> HWC series <span>**
+<br> A monthly seminar for Human-Wildlife coexistance researchers 
+<span style="float:right;"> Sep.2025 <span>
+
+
+**Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
+<span style="float:right;"> BLISS <span>**
+<br> A weekly seminar for UBC students, visiting scholars and researchers
+<span style="float:right;"> Nov.2024 <span>
+
+
+**Machine Learning Advances in Ornithology Research ([community outreach](https://naturevancouver.ca/events/exploring-the-impact-of-machine-learning-advances-on-ornithology-research/))
+<span style="float:right;"> Nature Vancouver <span>**
+<br> Nature Vancouver monthly birder's night
+<span style="float:right;"> Nov.2023 <span>
+
+
+**From Taiwan to Arctic Tundra - the Bird as a Bridge ([storytelling](https://soundcloud.com/sunny-tseng-927964029/storytelling-from-taiwan-to-siberian-tundra))
+<span style="float:right;"> AOS - SCO annual meeting <span>**
+<br> Storytelling event at the last day of the academic conference
+<span style="float:right;"> Aug.2023 <span>
+
+
+**Listen to the Whispers of Wings
+<span style="float:right;"> Mossom Creek BioBlitz <span>**
+<br> Mossom Creek BioBlitz event public engagement
+<span style="float:right;"> Jun.2023 <span>
+
+
+**Field recordist - a beautiful way to study Nature ([interview](https://www.fuyulife.com.tw/field-sound-engineer/))
+<span style="float:right;"> Fuyu Life <span>**
+<br> Interview for Fuyu Life
+<span style="float:right;"> Jan.2022 <span>
+
+
+**Each Sound Recording Represents a Profound Story ([interview](\href{https://canopi.tw/lifestyle/living/sound-recordist-sunny/))
+<span style="float:right;"> Canopy Life <span>**
+<br> Interview for Canopy Life
+<span style="float:right;"> Jun.2021 <span>
+
+
+**The Siberian Crane: From Taiwan to Tundra ([podcast](\href{https://www.youtube.com/watch?v=wqjzDQUXnqg))
+<span style="float:right;"> Bird Notes <span>**
+<br> A special season of Bird Notes - Threatened
+<span style="float:right;"> May.2021 <span>
