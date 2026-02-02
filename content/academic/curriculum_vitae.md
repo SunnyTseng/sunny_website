@@ -53,7 +53,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">JOURNAL ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
+
 
 - **Tseng, S.** and S. Kahl. 2026. **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Under Review)
 <br>
@@ -93,7 +93,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">OPEN-SOURCE SOFTWARE PACKAGE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
 
 - **birdnetTools** (2025) - R package for post-processing, visualizatino, and validation of BirdNET output. Developed in collaboration with the BirdNET team. Available on GitHub. ([Documentation](https://birdnet-team.github.io/birdnetTools/))
 <br>
@@ -109,7 +108,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">POPULAR SCIENCE ARTICLE</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
 
 
 
@@ -382,9 +380,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">RESEARCH GRANT</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
-
-
 
 
 **Wildlife Acoustics Grant Program
@@ -438,7 +433,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">SCHOLARSHIP and FELLOWSHIP</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
 
 
 
@@ -576,7 +570,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
   <h3 style="margin: 0;">AWARD</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
 
 
 
@@ -911,7 +904,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
   <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
-<br>
 
 
 **Listening to Nature: Using AI to Detect and Monitor Bird Biodiversity
