@@ -45,6 +45,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--PUBLICATION-->
+<br>
 <h2 style="text-align: center;"><b>PUBLICATION</b></h2>
 
 ---
@@ -371,6 +372,7 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--recognition-->
+<br>
 <h2 style="text-align: center;"><b>RECOGNITION</b></h2>
 
 ---
@@ -675,13 +677,13 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 <!--WORK EXPERIENCE-->
+<br>
 <h2 style="text-align: center;"><b>WORK EXPERIENCE</b></h2>
 
 ---
 
 
 <!--work - infographic designer-->
-<br>
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
@@ -693,7 +695,6 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 <!--work - field recordist-->
-<br>
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">FIELD RECORDIST</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
