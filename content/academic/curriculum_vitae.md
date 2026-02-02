@@ -679,9 +679,34 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 ---
 
+
+<!--work - infographic designer-->
+<br>
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+ 
+
+I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
+
+
+
+<!--work - field recordist-->
+<br>
+<div style="display: flex; align-items: baseline;">
+  <h3 style="margin: 0;">FIELD RECORDIST</h3>
+  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
+</div>
+ 
+
+I have contributed recordings of around 300 bird species worldwide as a recordist for Xeno-Canto ([profile](https://xeno-canto.org/contributor/SPMWIWZKKC)), and have been involved in a range of nature sound-related art and science projects. Full list of collaborations can be found [here](https://sunnytseng.ca/sound/).
+
+
+
 <!--work - data scientist-->
 <div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">DATA SCIENTIST</h3>
+  <h3 style="margin: 0;">DATA ANALYST</h3>
   <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
 </div>
 
@@ -830,16 +855,6 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 
 
 
-<!--work - infographic designer-->
-<br>
-<div style="display: flex; align-items: baseline;">
-  <h3 style="margin: 0;">INFOGRAPIC DESIGNER</h3>
-  <div style="flex-grow: 1; border-bottom: 1px dashed; margin-left: 10px;"></div>
-</div>
- 
-
-I take design commissions for scientific visual design, focusing on wildlife conservation. See my [portfolio](https://sunshineland.netlify.app/science/).
-
 
 
 
@@ -898,7 +913,7 @@ I take design commissions for scientific visual design, focusing on wildlife con
 
 
 
-
+<!--
 
 <div style="display: flex; align-items: baseline;">
   <h3 style="margin: 0;">INVITED TALK & INTERVIEW</h3>
@@ -952,3 +967,5 @@ I take design commissions for scientific visual design, focusing on wildlife con
 <span style="float:right;"> Bird Notes <span>**
 <br> A special season of Bird Notes - Threatened
 <span style="float:right;"> May.2021 <span>
+
+-->
