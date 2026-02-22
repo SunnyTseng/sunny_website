@@ -28,16 +28,16 @@ highlight_name: true
   
 # role: PhD student
 
-social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/SunnyTseng
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=_bHf5NgAAAAJ
-- icon: linkedin-in
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
+#social:
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/SunnyTseng
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=_bHf5NgAAAAJ
+#- icon: linkedin-in
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/sunny_taiwan/
