@@ -4,7 +4,6 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Modelling Avian Annual Cycle Distribution and Altitudinal Change Using Citizen Science Data
 tags:
 - Ongoing
 

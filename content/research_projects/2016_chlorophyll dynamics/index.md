@@ -4,12 +4,11 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-title: High Spatio-Temporal-Resolution Detection of CF Dynamics
-summary: Funded by Academia Sinica
+title: Chlorophyll Fluorescence Dynamics (BSc project)
+summary: Funded by Academia Sinica of Taiwan
 tags:
 - Finished
-
-title: Chlorophyll Fluorescence Dynamics
+ 
 url_code: ""
 url_pdf: ""
 url_slides: ""

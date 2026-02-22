@@ -4,12 +4,11 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-title: Logistic Regression Based Acoustic Occupancy Model (MSc project)
+title: Automatic Bird Sound Detection (MSc project)
 summary: Funded by NSERC, Soundscape Association of Taiwan
 tags:
 - Finished
 
-title: Automatic Bird Sound Detection
 url_code: ""
 url_pdf: ""
 url_slides: ""

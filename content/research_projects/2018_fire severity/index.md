@@ -8,8 +8,7 @@ title: Previous Fire Severity Enhances Reburn Severity (MSc project)
 summary: Funded by NSERC
 tags:
 - Finished
-
-title: Relationship between Forest Fire Severities
+ 
 url_code: ""
 url_pdf: ""
 url_slides: ""

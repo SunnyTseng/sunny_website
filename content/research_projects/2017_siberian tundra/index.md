@@ -5,11 +5,10 @@ image:
   caption: 
   focal_point: Smart
 title: Acoustic Monitoring in Siberian Arctic Tundra
-summary: Funded by Ecological Engineering Foundation of Taiwan
+summary: Funded by Ecological Engineering Foundation
 tags:
 - Finished
 
-title: Birds in Siberian Arctic Tundra
 url_code: ""
 url_pdf: ""
 url_slides: ""
