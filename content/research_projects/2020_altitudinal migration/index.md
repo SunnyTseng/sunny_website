@@ -1,5 +1,5 @@
 ---
-date: "2019-11-01T00:00:00Z"
+date: "2020-11-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -9,6 +9,8 @@ tags:
 - Ongoing
 
 title: Avian Altitudinal Migration
+summary: Funded by Endemic Species Research Institute
+
 url_code: ""
 url_pdf: ""
 url_slides: ""

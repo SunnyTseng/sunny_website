@@ -1,10 +1,11 @@
 ---
-date: "2015-01-01T00:00:00Z"
+date: "2016-01-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: High Spatio-Temporal-Resolution Detection of CF Dynamics
+title: High Spatio-Temporal-Resolution Detection of CF Dynamics
+summary: Funded by Academia Sinica
 tags:
 - Finished
 

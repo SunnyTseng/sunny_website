@@ -1,10 +1,11 @@
 ---
-date: "2019-03-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Logistic Regression Based Acoustic Occupancy Model
+title: Logistic Regression Based Acoustic Occupancy Model (MSc project)
+summary: Funded by NSERC, Soundscape Association of Taiwan
 tags:
 - Finished
 

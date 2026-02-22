@@ -1,10 +1,11 @@
 ---
-date: "2017-09-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Previous Fire Severity Enhances Reburn Severity
+title: Previous Fire Severity Enhances Reburn Severity (MSc project)
+summary: Funded by NSERC
 tags:
 - Finished
 

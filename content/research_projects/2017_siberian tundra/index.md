@@ -1,13 +1,13 @@
 ---
-date: "2020-01-01T00:00:00Z"
+date: "2017-01-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
 title: Acoustic Monitoring in Siberian Arctic Tundra
-summary: Funded by Academia of Russia, Ecological Engineering Foundation of Taiwan
+summary: Funded by Ecological Engineering Foundation of Taiwan
 tags:
-- Ongoing
+- Finished
 
 title: Birds in Siberian Arctic Tundra
 url_code: ""
