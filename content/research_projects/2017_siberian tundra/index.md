@@ -4,7 +4,8 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra
+title: Acoustic Monitoring in Siberian Arctic Tundra
+summary: Funded by Academia of Russia, Ecological Engineering Foundation of Taiwan
 tags:
 - Ongoing
 
