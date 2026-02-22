@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: cover_sounds.JPG
+    image: cover_sound.JPG
     image_darken: 1.0
     image_parallax: true
     image_position: center
