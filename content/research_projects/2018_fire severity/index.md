@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 title: Previous Fire Severity Enhances Reburn Severity (MSc project)
-summary: Funded by NSERC
+summary: 2017 - 2019, funded by NSERC
 tags:
 - Finished
  

@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 title: Chlorophyll Fluorescence Dynamics (BSc project)
-summary: Funded by Academia Sinica of Taiwan
+summary: 2014 - 2016, funded by Academia Sinica of Taiwan
 tags:
 - Finished
  

@@ -8,7 +8,7 @@ tags:
 - Ongoing
 
 title: Avian Altitudinal Migration
-summary: Funded by Endemic Species Research Institute
+summary: 2020 - 2021, funded by Endemic Species Research Institute
 
 url_code: ""
 url_pdf: ""

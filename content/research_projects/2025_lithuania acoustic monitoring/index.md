@@ -8,7 +8,7 @@ tags:
 - Ongoing
 
 title: Avian Acoustic Monitoring in Lithuania
-summary: Funded by National Geographic, Wildlife Acoustics
+summary: 2025 - present, funded by National Geographic, Wildlife Acoustics
 
 url_code: ""
 url_pdf: ""

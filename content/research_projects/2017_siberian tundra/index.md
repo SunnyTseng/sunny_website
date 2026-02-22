@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 title: Acoustic Monitoring in Siberian Arctic Tundra
-summary: Funded by Ecological Engineering Foundation
+summary: 2017, funded by Ecological Engineering Foundation
 tags:
 - Finished
 

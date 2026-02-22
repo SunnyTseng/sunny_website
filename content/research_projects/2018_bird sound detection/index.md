@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 title: Automatic Bird Sound Detection (MSc project)
-summary: Funded by NSERC, Soundscape Association of Taiwan
+summary: 2017 - 2019, funded by NSERC, Soundscape Association of Taiwan
 tags:
 - Finished
 
