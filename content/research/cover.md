@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Research
+title:
 subtitle: 
 
 design:
   columns: "1"
   background:
-    image: cover_academic.jpg
+    image: cover_research.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center

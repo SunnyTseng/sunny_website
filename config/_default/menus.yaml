@@ -24,8 +24,8 @@ main:
     url: 'blog/'
     weight: 40
 
-  - name: Artworks
-    url:  'artworks/'
+  - name: Art
+    url:  'art/'
     weight: 50
 
   - name: Sound
