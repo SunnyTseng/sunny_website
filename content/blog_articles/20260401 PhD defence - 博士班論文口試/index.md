@@ -1,6 +1,6 @@
 ---
 title: PhD Thesis Defence
-subtitle: From Recordings to Ecology: Turning Bird Sounds into Ecological Insights
+subtitle: From Recordings to Ecology - Turning Bird Sounds into Ecological Insights
 summary: 
 date: 2026-04-01
 math: true
