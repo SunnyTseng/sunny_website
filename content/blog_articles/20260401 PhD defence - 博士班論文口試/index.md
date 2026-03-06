@@ -1,9 +1,9 @@
 ---
-title: PhD Thesis Defence 要口試啦!
+title: PhD Thesis Defence 博士班論文口試
 subtitle: From Recordings to Ecology - Turning Bird Sounds into Ecological Insights
 summary: 
 
-date: 2026-04-01
+date: 2026-03-06
 math: true
 diagram: true
 # Featured image
