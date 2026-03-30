@@ -3,7 +3,7 @@ title: PhD Thesis Defence 博士班論文口試
 subtitle: From Recordings to Ecology - Turning Bird Sounds into Ecological Insights
 summary: 
 
-date: 2026-03-06
+date: 2026-03-30
 math: true
 diagram: true
 # Featured image
@@ -17,44 +17,24 @@ image:
   preview_only: true
 ---
 
-Hello! Thank you so much for your interest in attending my PhD defence — it’s truly an exciting milestone for me. This repository will serve as the main hub for all related information, and I will keep it updated. 
+## The UBC defence (i.e., defence practice)
 
-The official defence will take place at University of Northern British Columbia (UNBC) in Prince George (hybrid format). To share this special moment with friends and colleagues in Vancouver, where I spent most of my PhD, there will be an in-person practice session at University of British Columbia (UBC). 
+![alt text](IMG_5888.JPG)
 
+At the moment I put down these notes, it is 4 days after the defense practice in UBC, and 3 days before the “official” defense on April 1st. The sun is shining into my room, while I am packing all the thick clothes ready to fly to cold Prince George tomorrow early morning.
+It was a phenomenal event last Wednesday (Mar. 25), the day I will always remember with a full room of people. It warms my heart, not only for the opportunity to reflect on the research work I have done in the past few years, but also the fact that I could share such a journey with everyone in the room: WildCo people, Gaynor’s lab, Ildiko, Chris, Liam, Maya, Peter, Stella, Derek, Mandy, Bev, Mom and Gintas, and cute Kibo (!), and more people than I can individually list.
 
-## 🎙️ Defence practice - March 25 (In person)
-Although it’s called a defence practice, I am really treating it as the *UBC version* of my defence. I spent most of my PhD in UBC Vancouver, which holds so many meaningful memories for me. I would love to use this opportunity to celebrate this special milestone with everyone here.
+I can still remember the smiles, the nodding, the faces, and the eyes that I saw while presenting on the stage. For the past few years, I have interacted with all of you, in ways big or small, and how fortunate I am to have this opportunity to stand here sharing some of the things I learned. And I have grown so much as well! I remember that, about 10 years ago, I was a person who would cry from speaking English in front of people… now I am actually enjoying standing on the stage!
 
-- Form: **In person**
-- Time: **March 25 (Wed) 3:30 - 5pm (PT)**
-- Location: **RM1024 Multipurpose Room, UBC Biodiversity Research Center, Vancouver**
+“Raising a child takes a village, and I think finishing a PhD takes at least half of the village.” It’s not easy to go through the past few years—graduate school has (a lot of) fun parts and also hard times, probably just like all other journeys. There were also moments when I thought I would not finish this PhD (maybe I should wait until after the official defence to say this). Aside from science itself, being able to know and work with so many cool and fun people is one of my favorite things about staying in academia.
 
+The past month preparing for this defense gave me so much time for reflection and appreciation. It was a truly emotional period of time—a mixture of excitement for finishing a big task, the sadness of closing a chapter of life, the joy of seeing all the work coming together, and the imposter syndrome of not achieving more. These emotions could sometimes be overwhelming, but the more I thought about it, the more I see how nice it is to have such a time to “focus” only on one thing—preparing the final celebration of your degree.
 
+Full of gratitude, I look forward to making the April Fool’s Day defence a great event with everyone and enjoying every moment when it comes.
 
-## 🐦 Defence - April 1 (Hybrid)
-The official defence will be held at *UNBC* and will follow the formal defence procedures, including my PhD supervisor, committee members, and external examiner. Please come join me on the April fools' day! (I promise this defence announcement is not a prank!) 
+![alt text](IMG_5878.JPG)
+![alt text](IMG_5119.jpg)
+![alt text](IMG_1246.jpg)
+![alt text](IMG_5887.JPG)
 
-- Form: **Hybrid** 
-- Time: **April 1 (Wed) 9am - 12pm (PT)** 
-- In person location: **RM1079, UNBC Senate Chamber, Prince George**
-- Virtual location: **Teams Meeting ([meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEzZDZlN2UtNGM2YS00MzVkLTk2M2MtMDY0YTBkYmM2ZTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22a7ee9abb-4885-492e-b331-a6fa051a39bb%22%2c%22Oid%22%3a%227048092a-e933-4d4e-822d-e8a8637c6c03%22%7d)**)
-
-- Time zone calculation fairy 🧚: 
-  - New York: 12pm (noon)
-  - Berlin: 6pm
-  - Vilnius: 7pm
-  - Taiwan: April 2nd, 12am (mid-night)
-  - Melbourn: April 2nd, 3am
-
-## Thesis abstract
-
-![alt text](./featured.jpg)
-
-## Materials 
-
-All the defence materials, including slides and the full thesis, will be shared on this Github repo: https://github.com/SunnyTseng/PhD-defence-preparation
-
-
-
-## Look forward to sharing this special event together!
 
