@@ -22,6 +22,7 @@ image:
 ![alt text](IMG_5888.JPG)
 
 At the moment I put down these notes, it is 4 days after the defense practice in UBC, and 3 days before the “official” defense on April 1st. The sun is shining into my room, while I am packing all the thick clothes ready to fly to cold Prince George tomorrow early morning.
+
 It was a phenomenal event last Wednesday (Mar. 25), the day I will always remember with a full room of people. It warms my heart, not only for the opportunity to reflect on the research work I have done in the past few years, but also the fact that I could share such a journey with everyone in the room: WildCo people, Gaynor’s lab, Ildiko, Chris, Liam, Maya, Peter, Stella, Derek, Mandy, Bev, Mom and Gintas, and cute Kibo (!), and more people than I can individually list.
 
 I can still remember the smiles, the nodding, the faces, and the eyes that I saw while presenting on the stage. For the past few years, I have interacted with all of you, in ways big or small, and how fortunate I am to have this opportunity to stand here sharing some of the things I learned. And I have grown so much as well! I remember that, about 10 years ago, I was a person who would cry from speaking English in front of people… now I am actually enjoying standing on the stage!
@@ -36,5 +37,5 @@ Full of gratitude, I look forward to making the April Fool’s Day defence a gre
 ![alt text](IMG_5119.jpg)
 ![alt text](IMG_1246.jpg)
 ![alt text](IMG_5887.JPG)
-
+I was thinking really hard about the questions raised from the audience! Such a great discussion! 
 
