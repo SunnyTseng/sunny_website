@@ -33,6 +33,7 @@ The past month preparing for this defense gave me so much time for reflection an
 
 Full of gratitude, I look forward to making the April Fool’s Day defence a great event with everyone and enjoying every moment when it comes.
 
+![alt text](featured.JPG)
 ![alt text](IMG_5878.JPG)
 ![alt text](IMG_5119.jpg)
 ![alt text](IMG_1246.jpg)
