@@ -26,7 +26,7 @@ design:
 ---
 
 
-**PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - present <span>**
+**PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - Apr.2026 <span>**
 <br>
 Supervisor: Ken A. Otter <br>
 Thesis:  Broad-scaled Avian Biodiversity Assessment with Passive Acoustic Monitoring
@@ -56,11 +56,16 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 
 
+- **Tseng, S.**, D. Hodder, and K.A. Otter. 2026. **Passive acoustic monitoring reveals seasonal and habitat-related patterns in bird vocal activity** [Journal of Wildlife Management](https://wildlife.onlinelibrary.wiley.com/journal/19372817) (Under Review)
+<br>
+<br>
+
+
 - **Tseng, S.** and S. Kahl. 2026. **birdnetTools: An R package for working with BirdNET output** [Journal of Open Source Software](https://joss.theoj.org/) (Under Review)
 <br>
 <br>
 
-- Baum, J.K., M.A. Slein, J.C. Garen, ..., **S. Tseng**, et al. 2026. **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/natecolevol/) (In Revision)
+- Baum, J.K., M.A. Slein, J.C. Garen, ..., The 2021 Western North American Heat Dome Data Consortium (including **S. Tseng**), et al. 2026. **Widespread ecological responses and cascading effects of the record-breaking 2021 North American heatwave** [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-026-02987-6)
 <br>
 <br>
 
@@ -164,6 +169,20 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 
 <span style="float:right;"> ★ conference award received <span>
+
+
+
+<details open>
+<summary>2026</summary>
+
+**The Wildlife Society Conference - Alberta Chapter ★
+<span style="float:right;"> Banff, Canada <span>**
+<br> Passive acoustic monitoring in avian ecology (Poster)
+<span style="float:right;"> Feb.2026 <span>
+
+
+</details>
+
 
 
 <details open>
