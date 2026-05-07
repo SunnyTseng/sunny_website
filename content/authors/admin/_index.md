@@ -53,8 +53,8 @@ title: Sunny Tseng, PhD
 
 Hello! I’m Sunny, a bioacoustic ecologist whose career centers on bird-related research.
 
-My research focuses on bridging field recordings to ecological insights by applying machine learning techniques. I analyze sound recordings with BirdNET and was part of the team that developed R packages to help expand its audience. Previously, I also worked on projects monitoring avian migration using citizen science data.
+My [research](https://sunnytseng.ca/research/) focuses on bridging field recordings to ecological insights by applying machine learning techniques. I analyze sound recordings with BirdNET and was part of the team that developed R packages to help expand its audience. Previously, I also worked on projects monitoring avian migration using citizen science data.
 
 I earned my PhD in 2026 and am currently working as an independent ecologist, leading projects supported by Wildlife Acoustics and the R Consortium. I work with collaborators distributed across the globe, including Taiwan, Canada, Siberia, and Lithuania.
 
-Beyond my academic pursuits, I am passionate about R programming ([Github profile](https://github.com/SunnyTseng)), scientific infographic design ([portfolio](https://sunnytseng.ca/design/)), and field sound recording ([Xeno-Canto profile](https://xeno-canto.org/contributor/SPMWIWZKKC)). I also enjoy writing popular science articles in both Traditional Chinese and English.
+Beyond my academic pursuits, I am passionate about R programming ([Github](https://github.com/SunnyTseng)), scientific infographic design ([portfolio](https://sunnytseng.ca/design/)), and field sound recording ([Xeno-Canto profile](https://xeno-canto.org/contributor/SPMWIWZKKC)). I also enjoy writing popular science articles in both Traditional Chinese and English ([articles](https://sunnytseng.ca/research/)).
