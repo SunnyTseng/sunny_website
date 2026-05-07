@@ -456,6 +456,14 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 
 
+**Dr. Joselito (Lito) Arocena Memorial Graduate Prize
+<span style="float:right;"> UNBC <span>**
+<br> Awarded to UNBC NRES graduates
+<span style="float:right;"> May.2026 <span>
+<!-- 250 CAD -->
+
+
+
 
 **Bert Brink Scholarship
 <span style="float:right;"> BC Nature <span>**
