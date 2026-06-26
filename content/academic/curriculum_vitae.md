@@ -29,7 +29,7 @@ design:
 **PhD, University of Northern British Columbia <span style="float:right;"> Sep.2021 - Apr.2026 <span>**
 <br>
 Supervisor: Ken A. Otter <br>
-Thesis:  Broad-scaled Avian Biodiversity Assessment with Passive Acoustic Monitoring
+Thesis:  From Recordings to Ecology: Turning Bird Sounds into Ecological Insights
 
 **MSc, University of British Columbia <span style="float:right;"> Sep.2017 - Nov.2019 <span>**
 <br>
@@ -601,6 +601,11 @@ Supervisor: Tzeng-Yih Lam, and Shi-Wei Chu
 </div>
 
 
+**Knowledge Mobilization Award
+<span style="float:right;"> UNBC <span>**
+<br> Graduate students who actively bridge the knowledge gap between academic and public audience 
+<span style="float:right;"> May.2026 <span>
+
 
 **SCO-SOC Taverner Award
 <span style="float:right;"> SCO-SOC <span>**
@@ -831,6 +836,12 @@ I have contributed recordings of around 300 bird species worldwide as a recordis
 
 <details>
 <summary>WORKSHOP</summary>
+
+**Introduction to Git & Github
+<span style="float:right;"> UNBC <span>**
+<br> Host: Library Graduate Student Workshop Development Program
+<span style="float:right;"> Feb.2026 <span>
+
 
 **BirdNET workshop (co-lead with Jenn Foote)
 <span style="float:right;"> USask <span>**

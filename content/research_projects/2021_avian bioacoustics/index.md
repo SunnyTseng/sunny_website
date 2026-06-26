@@ -8,7 +8,7 @@ tags:
 - Ongoing
 
 title: Turning Recordings to Ecological Inferences (PhD project)
-summary: 2021 - present, funded by NSERC, Mitacs, SCO-SOC, UNBC
+summary: 2021 - 2026 Funded by NSERC, Mitacs, SCO-SOC, UNBC
 
 url_code: ""
 url_pdf: ""
