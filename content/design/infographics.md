@@ -30,7 +30,9 @@ I create designs for science, ranging from simple projects like icons and logos 
 
 <p style="text-align: center;">
 Through conducting scientific research myself, I have noticed two "gaps" in science communication: one gap between scientists (imagine the knowledge fatigue that happens during long academic conferences), and another gap between scientists and the general public. Research projects require immense effort, both financially and in terms of time, and their impact shouldn't end only with journal manuscripts. I want to use visual storytelling to bridge these gaps within the scientific community and with the public.
+</p>
 
+<p style="text-align: center;">
 How to work together with me to create a design:
 </p>
 
