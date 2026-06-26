@@ -55,7 +55,7 @@ title: Sunny Tseng, PhD
 
 **Hello! I am Sunny, an independent ecological consultant, R programmer, and scientific infographic artist based in Vancouver, Canada**.
 
-I earned my PhD in the spring of 2026 and am currently leading international projects supported by Wildlife Acoustics (an ARU monitoring project in Lithuania) and the R Consortium (a package development initiative teaming up with the core BirdNET team from the Cornell Lab of Ornithology), all while launching my business as an independent consultant and designer!
+> I earned my PhD in the spring of 2026 and am currently leading international projects supported by Wildlife Acoustics (an ARU monitoring project in Lithuania) and the R Consortium (a package development initiative teaming up with the core BirdNET team from the Cornell Lab of Ornithology), all while launching my business as an independent consultant and designer!
 
 I provide services in **R Workflows** (Data Management & Analysis), **R Package Development**, and **Scientific Graphic Design**. If you are interested in any of these services, please feel free to [contact me](mailto:sunnyyctseng@gmail.com). 
 
